@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there! I am a student interested in the applications of Deep Learning, Machine Learning, Mathematics and Statistics to biological processes.I also enjoy reading about Quantum Computing. Being able to explain things clearly is a superpower.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:tushar.chat192@gmail.com)
