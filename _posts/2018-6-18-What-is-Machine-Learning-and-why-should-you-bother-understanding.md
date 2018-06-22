@@ -3,7 +3,7 @@ layout: post
 published: true
 title: What is Machine Learning and why you should bother understanding
 ---
-Welcome to the first post! Let us dive right in and try to answer the question the title asks : What is machine learning and why is it such a big deal, and moreover, why should we (**specifically those of us in biology and medicine, and poeple from all sorts of backgrounds too**) have knowledge of this technology? A valid but not very long-thought-on answer would be - because AI is going to change medicine and biology forever! 
+Welcome to the first post! Let us dive right in and try to answer the question the title asks : What is machine learning and why is it such a big deal, and moreover, why should we (**specifically those of us in biology and medicine, and people from all sorts of backgrounds too**) have knowledge of this technology? A valid but not very long-thought-on answer would be - because AI is going to change medicine and biology forever! 
 
 
 That might be very well true, and the answer you are most likely to get in casual conversations. The deeper fact, and a better answer, is that while AI (of which machine learning is a subset) might not be our answer to all diseases, disorders and their respective cures, it is an extremely powerful tool to have as a medical practitioner. Machine Learning and other statistical methods operate not on hand written code, but rather on data - and sometimes huge chunks of data. Hospitals and research labs are generating huge amounts of data through patient diagnoses, RNA/DNA sequencing and other techniques.
