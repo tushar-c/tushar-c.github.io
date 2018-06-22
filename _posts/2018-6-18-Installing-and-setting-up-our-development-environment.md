@@ -9,7 +9,7 @@ Much like spending all your time reading everything you can about cars but never
 
 2. A text editor to write our code in
 
-3. Software Packages which will help us in not reinventing the wheel (think about how annoying it would be if you had to write your own programs defining addition, subtraction, multiplication, matrix multiplications, and so on. This step is not hard at all as you will see now).
+3. Software Packages which will help us in not reinventing the wheel (think about how annoying it would be if you had to write your own programs defining addition, subtraction, multiplication, matrix multiplications, and so on.) This step is not hard at all as you will see now.
 
 Okay, so the steps to setup are really easy and I am going to assume the user has the Windows Operating System installed (Linux steps will be described at the very end, the steps for Mac OS are very similar).
 
