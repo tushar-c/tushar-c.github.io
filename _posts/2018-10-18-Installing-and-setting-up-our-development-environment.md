@@ -51,7 +51,7 @@ pip install keras
 
 I should point out that the point of downloading these packages is to ease our work as well as to be able to run the programs made beforehand for demonstration and experimentation.
 
-**NOTE: In technical terms, when a program requires some other packages to be installed to function (as it may use some of their features), those packages are called dependencies**
+**NOTE: In technical terms, when a program requires some other packages to be installed to function (as it may use some of their features), those packages are called dependencies.**
 
 And you're all set! You have the programming language, the text editor, and the required software packages. Congratulations!
 
