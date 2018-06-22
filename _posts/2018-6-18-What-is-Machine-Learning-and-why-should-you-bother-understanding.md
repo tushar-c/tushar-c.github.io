@@ -26,7 +26,7 @@ In this way, if we have medical data for, say, scans of some lungs, and we 'tag'
 
 A lot of biological applications exist too, such as understanding genetic codes and trying to predict whether these lead to some genetic condition or not (**a much harder task**). We will see many more of these examples further, but for now let's stop here on this topic. 
 
-The above should convince you that knowing this technology is worth your time as the data generated will only keep going up, and the need for methods will also go up. To diagnose and treat better, we will need doctors and biologists who know how these algorithms work. At the same time, some knowledge of applying these algorithms is going to useful too. 
+The above should convince you that knowing this technology is worth your time as the data generated will only keep going up, and the need for methods will also go up. To diagnose and treat better, we will need doctors and biologists who know how these algorithms work. At the same time, some knowledge of applying these algorithms is going to be useful too. 
 
 This is where the motivation for our philosophy comes in, not only will we try to understand the math underlying these algorithms ( **do not let your mind scream ABORT and don't worry, we will go right down to the core of every concept; and while understand technical details helps, remember that imagination and visualization are more important, so always keep the bigger picture in mind**), we will also implement these, in the Python programming language. It is an easy to learn, but very powerful language that is found everywhere in modern day science. 
 
