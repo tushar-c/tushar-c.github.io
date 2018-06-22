@@ -51,7 +51,7 @@ pip install keras
 
 I should point out that the point of downloading these packages is to ease our work as well as to be able to run the programs made beforehand for demonstration and experimentation.
 
-Also, the packages you downloaded were specifically designed for these purposes: numpy is for numerical computation, matplotlib is for plotting graphs and visualizing, tensorflow is a mathematics library made especially for machine learning and deep learning, keras makes tensorflow easy.
+Also, the packages you downloaded were specifically designed for these purposes: numpy is for numerical computation such as matrix multiplications, etc. , matplotlib is for plotting graphs and visualizing, tensorflow is a mathematics library made especially for machine learning and deep learning, keras makes tensorflow easy.
 
 **NOTE: In technical terms, when a program requires some other packages to be installed to function (as it may use some of their features), those packages are called dependencies.**
 
