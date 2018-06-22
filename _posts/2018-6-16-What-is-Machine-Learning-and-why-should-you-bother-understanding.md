@@ -24,7 +24,7 @@ An example is shown in the following figure:
 
 In this way, if we have medical data consisting of, say, scans of lungs, and we 'tag' (add an entry to) each image with whether some disease is present or not, then we can use these images to train an algorithm to recognize the presence or absence of that particular disease. Of course, this is just one example of where ML (Machine Learning) in medicine helps. 
 
-A lot of biological applications exist too, such as understanding genetic codes and trying to predict whether these lead to some genetic condition or not (**a much harder task**). We will see many more of these examples further, but for now let's stop here on this topic. 
+A lot of biological applications exist too, such as understanding genetic codes and trying to predict whether these lead to some genetic condition or not (**a much harder task**). We will see many more of these examples further, but for now let's stop here on this subject. 
 
 The above should convince you that knowing this technology is worth your time as the data generated will only keep going up, and the need for methods will also go up. To diagnose and treat better, we will need doctors and biologists who know how these algorithms work. At the same time, some knowledge of applying these algorithms is going to be useful too. 
 
