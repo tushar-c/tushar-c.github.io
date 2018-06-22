@@ -28,6 +28,10 @@ A lot of biological applications exist too, such as understanding genetic codes 
 
 The above should convince you that knowing this technology is worth your time as the data generated will only keep going up, and the need for methods will also go up. To diagnose and treat better, we will need doctors and biologists who know how these algorithms work. At the same time, some knowledge of applying these algorithms is going to useful too. 
 
+Another field of AI that we will explore is called 'Deep Learning' which involves making large neural networks, that seem to mimic the brain, but are not really aiming to simulate the brain. Though we will explore these later, here is an example picture. We will explore each of these component parts and the final network in much more detail later.
+
+![neuralnetwork]({{site.baseurl}}/images/neuralnetwork.jpeg)
+
 This is where the motivation for our philosophy comes in, not only will we try to understand the math underlying these algorithms ( **do not let your mind scream ABORT and don't worry, we will go right down to the core of every concept; and while understand technical details helps, remember that imagination and visualization are more important, so always keep the bigger picture in mind**), we will also implement these, in the Python programming language. It is an easy to learn, but very powerful language that is found everywhere in modern day science. 
 
 
