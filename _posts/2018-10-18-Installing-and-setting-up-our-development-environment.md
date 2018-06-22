@@ -55,6 +55,6 @@ I should point out that the point of downloading these packages is to ease our w
 
 And you're all set! You have the programming language, the text editor, and the required software packages. Congratulations!
 
-*PARTING NOTE: While my goal is to make things easy as this demo might have pointed out, the reader will also have to follow along and be prepared to fix things, search for errors on google on their own. 
+*PARTING NOTE: While my goal is to make things easy as this demo might have pointed out, the reader will also have to follow along and be prepared to fix things, search for errors on google on their own.* 
 
-This is so that you can have a small introduction the whole IDEA -> IMPLEMENTATION -> DEBUGGING -> DEPLOYMENT, which is the Computer Programming equivalent of The Central Dogma in Molecular Biology*
+*This is so that you can have a small introduction the whole IDEA -> IMPLEMENTATION -> DEBUGGING -> DEPLOYMENT, which is the Computer Programming equivalent of The Central Dogma in Molecular Biology*
