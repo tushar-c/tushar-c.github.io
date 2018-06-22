@@ -30,7 +30,7 @@ The above should convince you that knowing this technology is worth your time as
 
 This is where the motivation for our philosophy comes in, not only will we try to understand the math underlying these algorithms (**do not let your mind scream ABORT and don't worry, we will go right down to the core of every concept; and while understand technical details helps, remember that imagination and visualization are more important, so always keep the bigger picture in mind**), we will also implement these algorithms, in the Python programming language. It is an easy to learn, but very powerful language that is found everywhere in modern day science. 
 
-Another field of AI that we will explore is called **Deep Learning** which involves making large neural networks, that seem to mimic the brain, but are not really aiming to simulate the brain. Though we will explore these later, here is an example picture. We will explore each of these component parts and the final network in much more detail later.
+Another field of AI that we will explore is called **Deep Learning** which involves making large neural networks, composed of small individual units called neurons, that architecturally seem to mimic the brain, but are not really aiming to simulate the brain. Though we will explore these later, here is an example picture. We will explore each of these component parts and the final network in much more detail later.
 
 ![neuralnetwork]({{site.baseurl}}/images/neuralnetwork.jpeg)
 
