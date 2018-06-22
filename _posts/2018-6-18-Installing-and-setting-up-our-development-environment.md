@@ -24,7 +24,7 @@ If you do not know how to check your version, here is a link that helps -> [Dete
 Step 2. If you already use a text editor (such as Atom, Sublime Text, etc.), then skip this step. Another popular choice is Notepad++, this is much more rich than the default Notepad Application that comes with Windows. Download and install it from here, again, according to whether you have a 32-bit or a 64-bit system. Link -> [Notepad++ Download Link](https://notepad-plus-plus.org/download/v7.5.6.html). Install it like any other Windows program.
 
 
-Step 3. If you have managed to do the above steps, only 1 more step remains on your pc, open up the command prompt. This step involves typing commands but all of them are the same with just the name of the package different. We will install a total of 4 packages. Follow along, and everything should work out fine!
+Step 3. If you have managed to do the above steps, only 1 more step remains on your pc, open up the command prompt(abbreviated as 'cmd'). This step involves typing commands but all of them are the same with just the name of the package different. We will install a total of 4 packages. Follow along, and everything should work out fine!
 
 Step 3 (Continued). Once you have the cmd open, type in the following commands:
 
