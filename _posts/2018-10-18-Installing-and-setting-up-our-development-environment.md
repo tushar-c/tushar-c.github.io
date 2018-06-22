@@ -32,7 +32,7 @@ If you do not know how to check your version, here is a link that helps -> [Dete
 pip install numpy
 ```
 
-Press Enter now and wait for it to complete. Pip is a program installer, so when we say *pip install(package name)*, we ask pip to go and get some software for us and then install it. The rest of the packages are similar!
+Press Enter now and wait for it to complete. Pip is a program installer, so when we say *pip install (package name)*, we ask pip to go and get some software for us and then install it. The rest of the packages are similar!
 
 Type in the following:
 
