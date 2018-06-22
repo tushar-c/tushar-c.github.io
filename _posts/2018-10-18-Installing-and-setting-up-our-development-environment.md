@@ -59,7 +59,7 @@ And you're all set! You have the programming language, the text editor, and the 
 
 *PARTING NOTE: While my goal is to make things easy as this demo might have pointed out, the reader will also have to follow along and be prepared to fix things, search for errors on google on their own.* 
 
-*This is so that you can have a small introduction the whole IDEA -> IMPLEMENTATION -> DEBUGGING -> DEPLOYMENT, which is the Computer Programming equivalent of The Central Dogma in Molecular Biology.*
+*This is so that you can have a small introduction to the whole process of IDEA -> IMPLEMENTATION -> DEBUGGING -> DEPLOYMENT, which is the Computer Programming equivalent of The Central Dogma in Molecular Biology.*
 
 **DISCLAIMER: Read Only If Installing On Linux (Debian-based systems, eg:Ubuntu)**
 
