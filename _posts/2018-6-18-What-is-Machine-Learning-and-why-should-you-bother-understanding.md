@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: What is Machine Learning and why you should bother understanding
 ---
 ![_config.yml](/images/config.jpg)
