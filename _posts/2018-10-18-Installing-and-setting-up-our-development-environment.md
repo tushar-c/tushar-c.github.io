@@ -53,8 +53,17 @@ I should point out that the point of downloading these packages is to ease our w
 
 **NOTE: In technical terms, when a program requires some other packages to be installed to function (as it may use some of their features), those packages are called dependencies.**
 
+
 And you're all set! You have the programming language, the text editor, and the required software packages. Congratulations!
+
 
 *PARTING NOTE: While my goal is to make things easy as this demo might have pointed out, the reader will also have to follow along and be prepared to fix things, search for errors on google on their own.* 
 
 *This is so that you can have a small introduction the whole IDEA -> IMPLEMENTATION -> DEBUGGING -> DEPLOYMENT, which is the Computer Programming equivalent of The Central Dogma in Molecular Biology*
+
+**Read Only If Installing On Linux (Debian-based systems, eg:Ubuntu)
+Step 1. Python usually comes pre-installed as python3, otherwise you can download from their official website.
+Step 2. Gedit is a nice text editor. You can always use Sublime Text or Atom from their official websites.
+Step 3. Type in the same commands as mentioned above, though you might have to provide superuser privileges, eg: sudo pip install (package name); you might also have to install pip for python3 itself, you can do this with : sudo apt-get install python3-pip and then run it with: sudo pip3 install (package name).
+**
+
