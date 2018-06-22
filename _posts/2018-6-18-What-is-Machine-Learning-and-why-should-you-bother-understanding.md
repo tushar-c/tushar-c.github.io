@@ -16,7 +16,7 @@ The methods we use for dealing with data and extracting insight are formally cal
 
 While traditional algorithms ( **such as sorting numbers, searching for a specific entry, and many more**) act throught 'hard-coded' rules ( **i.e. , if event X is true, do action Y, else do action Z**), machine learning differs in that the algorithms 'learn' the rules by themselves, we just provide the data. 
 
-This is a key point, and one that often causes images of robots becoming our gods occur in our mind. To attempt an informal one line explanation to this 'learning' (**better ones will be presented in further posts**), the algorithms are penalized for making mistakes and rewarded ( **or not penalized at all**) for being correct. This penalization occurs formally through a correct defined error function (**do not be scared if you don't know what this means, we will understand all of this in time**), which the algorithm aims to minimize ( make as low as possible ).
+This is a key point, and one that often causes images of robots becoming our gods occur in our mind. To attempt an informal one line explanation to this 'learning' (**better ones will be presented in further posts**), the algorithms are penalized for making mistakes and rewarded ( **or not penalized at all**) for being correct. This penalization occurs formally through a correct defined error function (**do not be scared if you don't know what this means, we will understand all of this in time**), which the algorithm aims to minimize ( **make as low as possible as we train for longer periods of time** ).
 
 An example is shown in the following figure: 
 ![error]({{site.baseurl}}/images/gradient_descent_error_by_iteration.png)
