@@ -61,7 +61,7 @@ And you're all set! You have the programming language, the text editor, and the 
 
 *This is so that you can have a small introduction the whole IDEA -> IMPLEMENTATION -> DEBUGGING -> DEPLOYMENT, which is the Computer Programming equivalent of The Central Dogma in Molecular Biology*
 
-**Read Only If Installing On Linux (Debian-based systems, eg:Ubuntu)
+**DISCLAIME: Read Only If Installing On Linux (Debian-based systems, eg:Ubuntu)
 Step 1. Python usually comes pre-installed as python3, otherwise you can download from their official website.**
 
 **Step 2. Gedit is a nice text editor. You can always use Sublime Text or Atom from their official websites.**
