@@ -59,7 +59,7 @@ Also, the packages you downloaded were specifically designed for these purposes:
 And you're all set! You have the programming language, the text editor, and the required software packages. Congratulations!
 
 
-*PARTING NOTE: While my goal is to make things easy as this demo might have pointed out, the reader will also have to follow along and be prepared to fix things, search for errors on Google on their own.* 
+*PARTING NOTE: While my goal is to make things easy as this demo might have pointed out, the reader will also have to follow along and be prepared to fix things, search for errors on Google on their own.StackOverflow is also a great place to look for answers to your questions. * 
 
 *This is so that you can have a small introduction to the whole process of IDEA -> IMPLEMENTATION -> DEBUGGING -> DEPLOYMENT, which is the Computer Programming equivalent of The Central Dogma in Molecular Biology.*
 
