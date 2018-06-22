@@ -1,10 +1,12 @@
 ---
 published: true
 ---
-In this post we are going to set up our software environment so that we can can run the algorithms on our computers. The reason is that while understanding is crucial, you should also 'see the algorithm in action'. Much like spending all your time reading everything you can about cars but never really driving one seems like a loss, so is seeing the algorithm written out in code. To this end, require 3 major things apart from a computer with an internet connection, viz. :
+In this post we are going to set up our software environment so that we can can run the algorithms on our computers. The reason is that while understanding is crucial, you should also 'see the algorithm in action'. Much like spending all your time reading everything you can about cars but never really driving one seems like a loss, so is seeing the algorithm written out in code. To this end, we require 3 major things apart from a computer with an internet connection, viz. :
 
 1. A programming language to express our ideas
+
 2. A text editor to write our code in
+
 3. Software Packages which will help us in not reinventing the wheel (think about how annoying it would be if you had to write your own programs defining addition, subtraction, multiplication, matrix multiplications, and so on. This step is not hard at all as you will see now).
 
 Okay, so the steps to setup are really easy and I am going to assume the user has the Windows Operating System installed (Linux steps will be described at the very end, the steps for Mac OS are very similar).
@@ -52,4 +54,3 @@ I should point out that the point of downloading these packages is to ease our w
 And you're all set! You have the programming language, the text editor, and the required software packages. Congratulations!
 
 *PARTING NOTE: While my goal is to make things easy, as this demo might have pointed out, the reader will also have to follow along and be prepared to fix things, search for errors on google on their own. So that you can have a small introduction the whole IDEA -> IMPLEMENTATION -> DEBUGGING -> DEPLOYMENT, which is the Computer Programming equivalent of The Central Dogma in Molecular Biology*
-
