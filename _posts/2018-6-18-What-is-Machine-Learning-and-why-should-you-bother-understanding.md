@@ -34,6 +34,11 @@ Another field of AI that we will explore is called **Deep Learning** which invol
 
 ![neuralnetwork]({{site.baseurl}}/images/neuralnetwork.jpeg)
 
+
+Also, the reader might have noticed that we are using the terms AI, Machine Learning, Deep Learning interchangeably, Machine Learning is a subfield of AI, Deep Learning is a subfield of Machine Learning, here is a nice visual representing this fact:
+
+![Subsets Of AI]({{site.baseurl}}/images/Machine Learning.png)
+
 Understanding the data, the algorithm and finally implementing it and then understanding some limitations will be our learning trajectory in each post. How to get the software up and running will be explained in the next post. For now, I hope you are excited to atleast 'take a look at' what this fascinating technology is, and you are atleast a bit excited about understanding it. I'll leave this one here, and see you next time. 
 
 Thanks for reading!
