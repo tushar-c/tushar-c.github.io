@@ -16,12 +16,12 @@ Okay, so the steps to setup are really easy and I am going to assume the user ha
 
 Step 1. Head to the [Official Python Website](https://www.python.org/downloads/windows/ "Official Python Website"), click the very first entry that says "Latest Python 3 Release - Python 3.6.5". Now, scroll to the end, and there choose the **Windows x86-64 executable installer** if you have a 64-bit system or else choose the **Windows x86 executable installer** if you are on a 32-bit system. 
 
-If you do not know how to check your version, here is a link that helps -> [Determining Windows Version](https://support.microsoft.com/en-in/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64) . If you still cannot determine, youtube has a plethora of these. Then once you download the installer, install it like any other windows program by following the on-screen instructions. 
+If you do not know how to check your version, here is a link that helps -> [Determining Windows Version](https://support.microsoft.com/en-in/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64) . If you still cannot determine, Youtube has a plethora of these. Then once you download the installer, install it like any other windows program by following the on-screen instructions. 
 
-*Note:* While installing, if there occur any errors, google is your best friend. Usually on windows, most python installation errors seem to be fixed by going to the 'Windows Updates' tab and just updating the packages there.
+*Note:* While installing, if there occur any errors, Google is your best friend. Usually on Windows, most Python installation errors seem to be fixed by going to the 'Windows Updates' tab and just updating the packages there.
 
 
-Step 2. If you already use a text editor (such as Atom, Sublime Text, etc.), then skip this step. Another popular choice is Notepad++, this is much more rich than the default Notepad Application that comes with Windows. Download and install it from here, again, according to whether you have a 32-bit or a 64-bit system. Link -> [Notepad++ Download Link](https://notepad-plus-plus.org/download/v7.5.6.html). Install it like any other windows program.
+Step 2. If you already use a text editor (such as Atom, Sublime Text, etc.), then skip this step. Another popular choice is Notepad++, this is much more rich than the default Notepad Application that comes with Windows. Download and install it from here, again, according to whether you have a 32-bit or a 64-bit system. Link -> [Notepad++ Download Link](https://notepad-plus-plus.org/download/v7.5.6.html). Install it like any other Windows program.
 
 
 Step 3. If you have managed to do the above steps, only 1 more step remains on your pc, open up the command prompt. This step involves typing commands but all of them are the same with just the name of the package different. We will install a total of 4 packages. Follow along, and everything should work out fine!
