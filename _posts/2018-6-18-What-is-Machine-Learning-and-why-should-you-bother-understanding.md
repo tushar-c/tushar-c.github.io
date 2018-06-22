@@ -14,7 +14,7 @@ The scenario where the need for machine learning becomes apparent is when we sta
 
 The methods we use for dealing with data and extracting insight are formally called 'Algorithms'. The term describes a set of computational steps that are executed to map (_convert_) an input to an output. Before we go on to other things, we have to make a key distinction here. 
 
-While traditional algorithms ( **such as sorting numbers, searching for a specific entry, and many more**) act throught 'hard-coded' rules ( **i.e. , if event X is true, do action Y, else do action Z**), machine learning differs in that the algorithms 'learn' the rules by themselves, we just provide the data. 
+While traditional algorithms ( **such as sorting numbers, searching for a specific entry, and many more**) act through 'hard-coded' rules ( **i.e. , if event X is true, do action Y, else do action Z**), machine learning differs in that the algorithms 'learn' the rules by themselves, we just provide the data. 
 
 This is a key point, and one that often causes images of robots becoming our gods occur in our mind. To attempt an informal one line explanation to this 'learning' (**better ones will be presented in further posts**), the algorithms are penalized for making mistakes and rewarded ( **or not penalized at all**) for being correct. This penalization occurs formally through a correct defined error function (**do not be scared if you don't know what this means, we will understand all of this in time**), which the algorithm aims to minimize ( **make as low as possible as we train for longer periods of time** ).
 
