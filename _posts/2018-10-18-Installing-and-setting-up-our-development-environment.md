@@ -34,19 +34,13 @@ Press Enter now and wait for it to complete. Pip is a program installer, so when
 
 Type in the following:
 
-```python
-pip install matplotlib
-```
+```pip install matplotlib```
 
 Wait for this to finish. 2 more to go!
 
-```python
-pip install tensorflow
-```
+```pip install tensorflow```
 
-```python
-pip install keras
-```
+```pip install keras```
 
 I should point out that the point of downloading these packages is to ease our work as well as to be able to run the programs made beforehand for demonstration and experimentation.
 
