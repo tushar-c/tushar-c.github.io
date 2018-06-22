@@ -22,7 +22,7 @@ An example is shown in the following figure:
 ![error]({{site.baseurl}}/images/gradient_descent_error_by_iteration.png)
 
 
-In this way, if we have medical data consisting of, say, scans of some lungs, and we 'tag' (add an entry to) each image with whether some disease is present or not, then we can use these images to train an algorithm to recognize presence or absence of that particular disease. Of course, this is just one example of where ML (Machine Learning) in medicine helps. 
+In this way, if we have medical data consisting of, say, scans of lungs, and we 'tag' (add an entry to) each image with whether some disease is present or not, then we can use these images to train an algorithm to recognize presence or absence of that particular disease. Of course, this is just one example of where ML (Machine Learning) in medicine helps. 
 
 A lot of biological applications exist too, such as understanding genetic codes and trying to predict whether these lead to some genetic condition or not (**a much harder task**). We will see many more of these examples further, but for now let's stop here on this topic. 
 
