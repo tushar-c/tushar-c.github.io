@@ -44,6 +44,8 @@ Wait for this to finish. 2 more to go!
 
 ```pip install tensorflow```
 
+One more package remains, install it with:
+
 ```pip install keras```
 
 I should point out that the point of downloading these packages is to ease our work as well as to be able to run the programs made beforehand for demonstration and experimentation.
