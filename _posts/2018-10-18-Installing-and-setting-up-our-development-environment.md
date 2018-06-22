@@ -66,6 +66,5 @@ Step 1. Python usually comes pre-installed as python3, otherwise you can downloa
 
 **Step 2. Gedit is a nice text editor. You can always use Sublime Text or Atom from their official websites.**
 
-**Step 3. Type in the same commands as mentioned above, though you might have to provide superuser privileges, eg: sudo pip install (package name); you might also have to install pip for python3 itself, you can do this with : sudo apt-get install python3-pip and then run it with: sudo pip3 install (package name).
-**
+**Step 3. Type in the same commands as mentioned above, though you might have to provide superuser privileges, eg: sudo pip install (package name); you might also have to install pip for python3 itself, you can do this with : sudo apt-get install python3-pip and then run it with: sudo pip3 install (package name).**
 
