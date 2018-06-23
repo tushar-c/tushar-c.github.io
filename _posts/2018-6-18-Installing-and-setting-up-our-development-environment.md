@@ -74,7 +74,7 @@ And you're all set! You have the programming language, the text editor, and the 
 
 **Step 3. Type in the same commands as mentioned above, though you might have to provide superuser privileges, eg: sudo pip install (package name); you might also have to install pip for python3 itself, you can do this with : sudo apt-get install python3-pip and then run it with: sudo pip3 install (package name).**
 
-**--------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------**
 
 
 This completes the setup phase. In the next post we review some relevant basics of python programming. For a much more detailed overview of the language, the YouTube channel called 'Sentdex' is a great place to start.
