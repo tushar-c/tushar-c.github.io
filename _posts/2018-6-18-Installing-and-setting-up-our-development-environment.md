@@ -77,6 +77,6 @@ And you're all set! You have the programming language, the text editor, and the 
 **----------------------------------------------------------------------------------------------------------------------------**
 
 
-This completes the setup phase. In the next post we review some relevant basics of Python programming. 
+This completes the setup phase. In the next post we will see some relevant basics of Python programming. 
 
 Thanks for Reading!
