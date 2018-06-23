@@ -28,7 +28,7 @@ Step 3. If you have managed to do the above steps, only 1 more step remains on y
 
 Step 3 (Continued). Once you have the cmd open, type in the following commands:
 
-```
+```python
 pip install numpy
 ```
 
