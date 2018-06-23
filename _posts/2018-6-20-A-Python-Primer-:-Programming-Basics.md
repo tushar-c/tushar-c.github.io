@@ -1,4 +1,4 @@
 ---
 published: true
 ---
-![SoftwareDev]({{site.baseurl}}/images/Python-programming-for-hackers-compressed.jpg)
+![SoftwareDev]({{site.baseurl}}/images/python2.jpeg)
