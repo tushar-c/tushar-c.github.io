@@ -39,6 +39,6 @@ Also, the reader might have noticed that we are using the terms AI, Machine Lear
 
 ![Subsets Of AI]({{site.baseurl}}/images/Machine Learning.png)
 
-Understanding the data, the algorithm and finally implementing it and finally pointing out some limitations will be our learning trajectory in each post. How to get the software up and running will be explained in the next post. For now, I hope you are excited to atleast 'take a look at' what this fascinating technology is, and are eager about understanding it. I'll leave this one here, and see you next time. 
+Understanding the data, the algorithm, implementing it, and finally pointing out some limitations will be our learning trajectory in each post. How to get the software up and running will be explained in the next post. For now, I hope you are excited to atleast 'take a look at' what this fascinating technology is, and are eager about understanding it. I'll leave this one here, and see you next time. 
 
 Thanks for reading!
