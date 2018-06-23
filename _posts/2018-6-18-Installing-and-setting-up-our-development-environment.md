@@ -77,6 +77,6 @@ And you're all set! You have the programming language, the text editor, and the 
 **--------------------------------------------------------------------------------**
 
 
-This completes the setup phase, in the next post we review some relevant basics of python programming. For a much more detailed overview of the language, the YouTube channel called 'Sentdex' is a great place to start.
+This completes the setup phase. In the next post we review some relevant basics of python programming. For a much more detailed overview of the language, the YouTube channel called 'Sentdex' is a great place to start.
 
 Thanks for Reading!
