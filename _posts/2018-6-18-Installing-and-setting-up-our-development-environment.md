@@ -1,6 +1,9 @@
 ---
 published: true
 ---
+![SoftwareDev]({{site.baseurl}}/images/SoftDev.png)
+
+
 In this post we are going to set up our software environment so that we can can run the algorithms on our computers. The reason is that while understanding is crucial, you should also *see the algorithm in action*. 
 
 Much like spending all your time reading everything you can about cars but never really driving one seems like a loss, so is reading everything about the algorithm but never seeing it written out in code. To this end, we require 3 major things apart from a computer with an internet connection, viz. :
