@@ -36,17 +36,17 @@ Press Enter now and wait for it to complete. Pip is a program installer, so when
 
 Type in the following:
 
-```python
+```
 pip install matplotlib
 ```
 
 Wait for this to finish. 2 more to go!
 
-```python
+```
 pip install tensorflow
 ```
 
-```python
+```
 pip install keras
 ```
 
