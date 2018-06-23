@@ -3,6 +3,8 @@ layout: post
 published: true
 title: What is Machine Learning and why you should bother understanding
 ---
+![ML Picture]({{site.baseurl}}/images/1_2UjSSQwW0bns1lPIuRxccQ.png)
+
 Welcome to the first post! Let us dive right in and try to answer the question the title asks : What is machine learning and why is it such a big deal, and moreover, why should we (**specifically those of us in biology and medicine, and people from all sorts of backgrounds too**) have knowledge of this technology? A valid but not very long-thought-on answer would be - because AI is going to change medicine and biology forever! 
 
 
