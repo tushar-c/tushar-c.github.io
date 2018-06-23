@@ -64,7 +64,7 @@ And you're all set! You have the programming language, the text editor, and the 
 
 *This is so that you can have a small introduction to the whole process of IDEA -> IMPLEMENTATION -> DEBUGGING -> DEPLOYMENT; which is the Computer Programming equivalent of The Central Dogma in Molecular Biology.*
 
-**--------------------------------------------------------------------------------**
+**--------------------------------------------------------------------------------------------------**
 
 **DISCLAIMER: Read Only If Installing On Linux (Debian-based systems, eg:Ubuntu)**
 
