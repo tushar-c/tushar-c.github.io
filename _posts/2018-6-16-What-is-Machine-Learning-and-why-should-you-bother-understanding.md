@@ -35,7 +35,7 @@ Another field of AI that we will explore is called **Deep Learning** which invol
 ![neuralnetwork]({{site.baseurl}}/images/neuralnetwork.jpeg)
 
 
-Also, the reader might have noticed that we are using the terms AI, Machine Learning, Deep Learning interchangeably. Machine Learning is a subfield of AI, Deep Learning is a subfield of Machine Learning, here is a nice visual representing this fact:
+Also, the reader might have noticed that we are using the terms AI, Machine Learning, Deep Learning interchangeably. Machine Learning is a subfield of AI, Deep Learning is a subfield of Machine Learning. Here is a nice visual representing this fact:
 
 ![Subsets Of AI]({{site.baseurl}}/images/Machine Learning.png)
 
