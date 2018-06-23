@@ -28,9 +28,11 @@ Step 3. If you have managed to do the above steps, only 1 more step remains on y
 
 Step 3 (Continued). Once you have the cmd open, type in the following commands:
 
-```python
+```javascript
+/* downloading numpy package*/
 pip install numpy
 ```
+
 Press Enter now and wait for it to complete. Pip is a program installer, so when we say: *pip install (package name)*, we ask pip to go download some software for us and then install it. The rest of the packages are similar to install!
 
 Type in the following:
