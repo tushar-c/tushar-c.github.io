@@ -403,6 +403,7 @@ There we have it !
 We have to talk about 2 more simple operations, Matrix Multiplication and Matrix Transposing. If you do not know what these are, we will cover these later, in the meantime here are links to good videos explaining them:
 
 Matrix Multiplication -> [Matrix Multiplication](https://www.youtube.com/watch?v=sYlOjyPyX3g)
+
 Matrix Transposing -> [Matrix Transposing](https://www.youtube.com/watch?v=TZrKrNVhbjI)
 
 In our example, we can do Matrix Transposing as follows:
