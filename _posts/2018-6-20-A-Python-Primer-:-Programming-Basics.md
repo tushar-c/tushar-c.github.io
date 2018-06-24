@@ -321,3 +321,108 @@ A set is a data structure that does not contain any duplicates. Here is an examp
 For our purposes, that's all there is to sets really! That completes our discussion of Python basics. We will now talk about some basics we need for numpy and matplotlib. Consider taking a break! :)
 
 ## NUMPY BASICS
+
+Numpy is a software package for Python that helps with Mathematics. It is a huge library that has many other software packages built on top of it. Here, we will see only what amounts to a drop in the ocean that numpy is ! We will see basic matrix operations and vector operations. But for those of you who want to know what a matrix and a vector is, we will cover them in the next post where we start with Machine Learning. In the meantime, here is a great video series on them. [Linear Algebra Tutorials](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+
+Creating a vector is very simple with numpy. But first we must tell Python we intend to use it. In Python, we do this by typing:
+
+```python
+>>> import numpy
+>>>
+```
+In Numpy, we create vectors and matrices using the *array* function (technically, it is a method, but right now this is not relevant to us). We usually do this by passing a list to the array function. An example is shown below:
+
+```python
+>>> number_list = [1, 2, 3, 4]
+>>> X = numpy.array(number_list)
+>>> X
+array([1, 2, 3, 4])
+```
+This creates an array (a vector) for us. To verify this is a vector, we check to see this really is a vector, we see the shape of *X*. We do this by:
+
+```python
+>>> X.shape
+(4,)
+```
+
+We see X has 4 rows and 1 column (though the entry after the comma is empty, so that this is a *row* rather than a *row vector*, we show below how to make the fact that this is a row vector explicit). The shape was (4,). We would like to be very precise, to have the shape be (4,1), indicating 4 rows and 1 column. We can do this by:
+
+```python
+>>> X = X.reshape(4, 1)
+>>> X
+array([[1],
+       [2],
+       [3],
+       [4]])
+>>> 
+```
+
+We assign to X its updated (reshaped) value. Now when we check to see the shape we see:
+
+```python
+>>> X.shape
+(4, 1)
+>>> 
+```
+
+There we go!
+
+The extension to making matrices is similar. The difference is when using reshape, we assign row and column
+numbers directly. In our current example, creating a matrix would look like:
+
+```python
+>>> import numpy
+>>> number_list = [1,2,3,4]
+>>> X = numpy.array(number_list)
+>>> X = X.reshape(2, 2)
+>>> X
+array([[1, 2],
+       [3, 4]])
+>>> 
+```
+Checking to see the shape, we have :
+
+```python
+>>> X.shape
+(2, 2)
+>>> 
+```
+
+There we have it !
+
+
+We have to talk about 2 more simple operations, Matrix Multiplication and Matrix Transposing. If you do not know what these are, we will cover these later, in the meantime here are links to good videos explaining them:
+
+Matrix Multiplication -> [Matrix Multiplication](https://www.youtube.com/watch?v=sYlOjyPyX3g)
+Matrix Transposing -> [Matrix Transposing](https://www.youtube.com/watch?v=TZrKrNVhbjI)
+
+In our example, we can do Matrix Transposing as follows:
+
+```python
+>>> Y = numpy.transpose(X)
+>>> Y
+array([[1, 3],
+       [2, 4]])
+>>> 
+```
+
+For Matrix Multiplication, this is how we would do it:
+
+```python
+Y = X + 1 # this operation is element-wise, meaning that it adds 1 to each element of X, and the new matrix is assigned to the variable Y
+
+>>> Z = numpy.matmul(X, Y)
+>>> Z
+array([[10, 13],
+       [22, 29]])
+>>> 
+```
+
+That completes Numpy Basics. The last topic that remains is Matplotlib, with which we can plot graphs and figures. 
+
+## MATPLOTLIB
+
+
+
+
+
