@@ -182,7 +182,7 @@ Saying the same thing, but a little more formally, we can write: **Function: Inp
 
 **1.** The keyword *def* . This tells Python we intend to create a function.
 
-**2.** The name of the function, followed by circular brackets (*'()'*), which contain the arguments.
+**2.** The name of the function, followed by circular brackets ( *'()'* ), which contain the arguments.
 
 **3.** The return value of the function.
 
