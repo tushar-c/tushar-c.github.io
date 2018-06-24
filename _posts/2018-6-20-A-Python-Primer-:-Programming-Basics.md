@@ -174,7 +174,7 @@ That does it for loops, next we talk about functions.
 
 ## FUNCTIONS
 
-A function is a a utility in programming that allows us to reuse the same block of code. This might happen if you were to perform the same computation, but the input values kept of changing. For example: *Logging some patient data, with each patient having different details or Performing some calculation that involves the same formula, but the inputs keep changing, etc*.
+A function is a a utility in programming that allows us to reuse the same block of code. This might happen if you were to perform the same computation, but the input values kept of changing. For example: *Logging some patient data, with each patient having different details or Performing some calculation that involves the same formula, but the inputs keep changing, etc.*  .
 
 A function takes inputs (also called *arguments*) and returns outputs (also called *return values*).
 
