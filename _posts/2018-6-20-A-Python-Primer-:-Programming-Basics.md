@@ -433,11 +433,23 @@ That completes Numpy Basics. The last topic that remains is Matplotlib, with whi
 
 ## MATPLOTLIB
 
-We require matplotlib for the purposes of monitoring the progress of metrics such as accuracy and error while we train our algorithms. As a result, we require for the most part, a single function from the library. Let us create a function that squares numbers and plot it, with inputs on x-axis and the function values on the y-axis. This will use everything we have read so far, so take your time when you read this code. Here is the example:
+We require matplotlib for the purposes of monitoring the progress of metrics such as accuracy and error while we train our algorithms. As a result, we require for the most part, a single function from the library. Let us create a function that squares numbers and plot it, with inputs on x-axis and the function values on the y-axis. This will use everything we have read so far, so take your time when you read this code. Be sure to read the comments! Here is the example :
 
 ```python
-
+>>> import numpy # import numpy
+>>> import matplotlib.pyplot  # import plotting function
+>>> number_inputs # define our inputs
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+>>> number_inputs = numpy.array(number_inputs) # convert them to a vector, so we can do maths on it. Skip this step if want to see why this is important.
+>>> number_outputs = square_function(number_inputs) # apply squaring function to vector element-wise
+>>> plt.plot(number_inputs, number_outputs) # plot inputs on x-axis, outputs on y-axis
+[<matplotlib.lines.Line2D object at 0x000000C291B64CF8>]
+>>> plt.show() # show the graph
+>>> 
 ```
+The output should look like this:
+
+![Graph]({{site.baseurl}}/images/Figure_1.png)
 
 
 
