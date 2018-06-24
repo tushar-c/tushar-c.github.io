@@ -202,3 +202,23 @@ Let's put this all together and see an example of a function that prints a nice 
 ```
 
 Try changing the string '*introduction*' inside the function. Try changing the argument *first_name* and try passing different values.
+
+As a last point, we can easily extend our function to have more than a single argument. An example follows below:
+
+```python
+>>> def introduction_generator(first_name, last_name): # define the function
+...     introduction = "Hi, my name is {} {} and I like football!".format(first_name, last_name)
+...     return introduction # return value
+...
+>>> first_name = 'Four-Eyed'
+>>> last_name = 'Willy'
+>>> introduction_generator(first_name, last_name) # call the function
+'Hi, my name is Four-Eyed Willy and I like football!' # :)
+>>> 
+```
+
+This completes our discussion of functions. One last topic on the Python Basics remains, Data Structures.
+
+## DATA STRUCTURES
+
+
