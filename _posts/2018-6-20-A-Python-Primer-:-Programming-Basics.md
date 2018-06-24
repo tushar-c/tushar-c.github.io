@@ -172,4 +172,4 @@ Another thing to point out is the variable update. Instead of: ```current_age = 
 That does it for loops, next we talk about functions.
 
 
-##FUNCTIONS##
+## FUNCTIONS
