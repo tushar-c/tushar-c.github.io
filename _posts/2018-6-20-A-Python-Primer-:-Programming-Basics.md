@@ -157,7 +157,7 @@ I am 17 years old.
 >>> 
 ```
 
-The print statement above uses a type of '*substitution*', in that the value takes the place of the '*{}*'. If you have more than one the curly braces (as they are called), the order in which you pass the variables is the order in which they will appear in the string. An example is shown below:
+The print function (we talk about functions below) above uses a type of '*substitution*', in that the value takes the place of the '*{}*'. This substitution is done by the *.format()* part, which helps us in writing reusable print functions. If you have more than one the curly braces (as they are called), the order in which you pass the variables is the order in which they will appear in the string. An example is shown below:
 
 ```python
 >>> country_1 = 'Brazil'
@@ -321,9 +321,3 @@ A set is a data structure that does not contain any duplicates. Here is an examp
 For our purposes, that's all there is to sets really! That completes our discussion of Python basics. We will now talk about some basics we need for numpy and matplotlib. Consider taking a break! :)
 
 ## NUMPY BASICS
-
-
-
-
-
-
