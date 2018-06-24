@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: What is Machine Learning and why you should bother understanding
+title: What is Machine Learning And Why You Should Bother Understanding
 ---
 ![ML Picture]({{site.baseurl}}/images/1_2UjSSQwW0bns1lPIuRxccQ.png)
 
