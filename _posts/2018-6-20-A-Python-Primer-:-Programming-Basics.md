@@ -168,7 +168,7 @@ Brazil might win the 2018 FIFA World Cup. However, it's not looking good for Arg
 >>> 
 ```
 
-Another thing to point out is the variable update. Instead of ```current_age = current_age + 1```, we can also use ```current_age += 1``` , this is easier to read, but a might take some getting used to. The same holds for subtraction, multiplication or division.
+Another thing to point out is the variable update. Instead of: ```current_age = current_age + 1```, we can also use: ```current_age += 1``` , this is easier to read, but a might take some getting used to. The same holds for subtraction, multiplication or division.
 
 That does it for loops, next we talk about functions.
 
