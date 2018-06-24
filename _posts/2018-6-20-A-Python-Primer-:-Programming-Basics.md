@@ -56,7 +56,7 @@ Simple addition, subtraction, multiplication, division and exponentiation (raisi
 
 Comments in Python start with '*#*', everything after this Python does not interpret as code and ignores it. This completes our requirements of Python variables. We next take a look at loops.
 
-##LOOPS##
+## LOOPS
 
 As the name name suggests, a loop is way of doing some operation repetitively until some condition is true, or for a fixed number of times, or even forever! There are 2 major types of loops, the **'for loop'** and the **'while loop'**.
 
