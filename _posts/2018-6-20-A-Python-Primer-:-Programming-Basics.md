@@ -264,6 +264,17 @@ jerry
 10
 >>> 
 ```
+
+Another important function related to lists is *append* . As the name suggests, using this function we can add new values to the list. Here is an example:
+
+```python
+>>> number_inputs = [1,2,3,4,5,6,7,8,9,10]
+>>> number_inputs.append(11)
+>>> number_inputs
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+>>> 
+```
+
 We can do much more! For links, see the end of the post.
 
 **DICTIONARIES**
@@ -422,7 +433,11 @@ That completes Numpy Basics. The last topic that remains is Matplotlib, with whi
 
 ## MATPLOTLIB
 
+We require matplotlib for the purposes of monitoring the progress of metrics such as accuracy and error while we train our algorithms. As a result, we require for the most part, a single function from the library. Let us create a function that squares numbers and plot it, with inputs on x-axis and the function values on the y-axis. This will use everything we have read so far, so take your time when you read this code. Here is the example:
 
+```python
+
+```
 
 
 
