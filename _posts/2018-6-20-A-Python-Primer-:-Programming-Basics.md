@@ -438,6 +438,8 @@ We require matplotlib for the purposes of monitoring the progress of metrics suc
 ```python
 >>> import numpy # import numpy
 >>> import matplotlib.pyplot  # import plotting function
+>>> def square_function(x): # define our squaring function
+	return x ** 2
 >>> number_inputs # define our inputs
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 >>> number_inputs = numpy.array(number_inputs) # convert them to a vector, so we can do maths on it. Skip this step if want to see why this is important.
@@ -452,4 +454,12 @@ The output should look like this:
 ![Graph]({{site.baseurl}}/images/Figure_1.png)
 
 
+And we did it! These are all the Python Programming basics we need to start implementing our Machine Learning algorithms. From the next post, we will dive into the details and the mathematics of the algorithms, and all the relevant Maths will be explained there! Give yourself a pat on the back if you honestly did the whole tutorial!
 
+As said above, links to resources that cover Python in much more depth are here:
+
+[Sentdex : Python Programming Basics](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+
+[Codecademy: Awesome For Learning Practical Programming](https://www.codecademy.com/learn/learn-python)
+
+[Official Python 3 Docs: From The People Who Created The Language](https://docs.python.org/3.5/tutorial/index.html)
