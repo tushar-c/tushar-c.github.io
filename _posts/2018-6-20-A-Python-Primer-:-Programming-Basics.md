@@ -201,7 +201,7 @@ Let's put this all together and see an example of a function that prints a nice 
 >>> 
 ```
 
-Try changing the string '*introduction*' inside the function. Try changing the argument *first_name* and try passing different values.
+Try changing the string *introduction* inside the function. Try changing the argument *first_name* and try passing different values.
 
 As a last point, we can easily extend our function to have more than a single argument. An example follows below:
 
