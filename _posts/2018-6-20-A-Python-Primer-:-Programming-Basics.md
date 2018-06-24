@@ -180,7 +180,7 @@ A function takes inputs (also called *arguments*) and returns outputs (also call
 
 Saying the same thing, but a little more formally, we can write: **Function: Inputs -> Outputs**. In Python, we need 3 components for creating a function:
 
-**1.** The keyword *def* . This tells Python we intend to create a function
+**1.** The keyword *def* . This tells Python we intend to create a function.
 
 **2.** The name of the function, followed by circular brackets (*'()'*), which contain the arguments.
 
