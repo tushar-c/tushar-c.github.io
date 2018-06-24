@@ -221,4 +221,109 @@ This completes our discussion of functions. One last topic on the Python Basics 
 
 ## DATA STRUCTURES
 
+**LISTS**
+
+A list is a generalization of a variable. Where a variable stores a single value, a list can store multiple values. Here is an example:
+
+```python
+>>> ages = [18, 20, 40, 50, 32, 15]
+>>> ages
+[18, 20, 40, 50, 32, 15]
+>>> 
+```
+
+We can lists of other data types such as strings too.
+
+```python
+>>> names = ['fred', 'shaggy', 'scooby', 'jerry']
+>>> names
+['fred', 'shaggy', 'scooby', 'jerry']
+>>> 
+```
+Moreover, we can even mix these data types! Here is another example:
+
+```python
+>>> names_and_ages = ['fred', 'shaggy', 18, 'jerry', 20, 10]
+>>> names_and_ages
+['fred', 'shaggy', 18, 'jerry', 20, 10]
+>>> 
+```
+We can thus mix different data types in a list, in any order.
+
+Let us *iterate* (look at each element one by one) over a list and print its contents.
+
+```python
+>>> for entry in names_and_ages:
+...     print(entry)
+... 
+fred
+shaggy
+18
+jerry
+20
+10
+>>> 
+```
+We can do much more! For links, see the end of the post.
+
+**DICTIONARIES**
+
+As the name would strike a meaning, that very meaning is what a dictionary in Python does. It contains *keys*, each of which corresponds to a *value*, much like in a real dictionary where the *keys* are the words and the *values* their meanings.
+
+Here is an example:
+
+```python
+>>> age_dictionary = {'bob':18, 'will':20, 'may':22, 'tuna':2}
+>>> age_dictionary
+{'bob': 18, 'will': 20, 'may': 22, 'tuna': 2}
+>>> 
+```
+This is a string where names have ages as values. The *:* (colon) indicates a separation. The entries to the left are keys, to the right are values. Each key-value pair is separated by commas.
+
+To access a value (analogous to finding a meaning), we do as shown:
+
+```python
+>>> age_dictionary['bob']
+18
+>>> 
+```
+also
+
+```python
+>>> age_dictionary['tuna']
+2
+>>> 
+```
+We can even change the value associated with a key. Here's how:
+
+```python
+>>> age_dictionary['tuna'] = 200
+>>> age_dictionary['tuna']
+200
+```
+That tuna is really old !
+
+We now talk about sets.
+
+**Sets**
+
+A set is a data structure that does not contain any duplicates. Here is an example:
+
+```python
+>>> x = [1,1,2,2,3,3,4,4,5,6] # we first declare a list
+>>> x
+[1, 1, 2, 2, 3, 3, 4, 4, 5, 6] # It contains duplicates
+>>> y = set(x) # we call the set function, passing x as the argument. It returns the set y.
+>>> y
+{1, 2, 3, 4, 5, 6} # Voila! y does not contain any duplicates.
+```
+
+For our purposes, that's all there is to sets really! That completes our discussion of Python basics. We will now talk about some basics we need for numpy and matplotlib. Consider taking a break! :)
+
+## NUMPY BASICS
+
+
+
+
+
 
