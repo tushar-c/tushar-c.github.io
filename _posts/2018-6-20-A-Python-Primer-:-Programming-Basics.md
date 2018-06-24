@@ -129,3 +129,46 @@ A for loop can also act in a *reversed* manner. That means, in our case, we coul
 Here, the first value is 10 (equal to our variable *'counter'*), the second value is stop value (equal to -1, because the loop goes upto but does not include the -1. As an exercise, see what happens if you put 0 instead of -1). The third value is the number by which we should decrease our current value of the variable *'c'*.
 
 **The 'while' loop**
+
+The *'while'* loop is the other major type of loop that we use in programming. Similar to the *'for'* loop, it runs until a condition is *True rather than upto some fixed value*. An example is shown below (read comments in the code!):
+
+
+```python
+>>> age_till_adult = 18
+>>> current_age = 5
+>>> while current_age < age_till_adult: # the condition that checks whether to stop or keep going
+...     print('I am {} years old.'.format(current_age)) # see explanation below
+...     current_age = current_age + 1 # Important to increase the variable, otherwise the loop will run forever!
+... 
+I am 5 years old.
+I am 6 years old.
+I am 7 years old.
+I am 8 years old.
+I am 9 years old.
+I am 10 years old.
+I am 11 years old.
+I am 12 years old.
+I am 13 years old.
+I am 14 years old.
+I am 15 years old.
+I am 16 years old.
+I am 17 years old.
+>>> 
+```
+
+The print statement above uses a type of '*substitution*', in that the value takes the place of the '*{}*'. If you have more than one the curly braces (as they are called), the order in which you pass the variables is the order in which they will appear in the string. An example is shown below:
+
+```python
+>>> country_1 = 'Brazil'
+>>> country_2 = 'Argentina'
+>>> print("{} might win the 2018 FIFA World Cup. However, it's not looking good for {}".format(country_1, country_2))
+Brazil might win the 2018 FIFA World Cup. However, it's not looking good for Argentina
+>>> 
+```
+
+Another thing to point out is the variable update. Instead of ```current_age = current_age + 1```, we can also use ```current_age += 1``` , this is easier to read, but a might take some getting used to. The same holds for subtraction, multiplication or division.
+
+That does it for loops, next we talk about functions.
+
+
+##FUNCTIONS##
