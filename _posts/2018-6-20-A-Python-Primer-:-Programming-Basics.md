@@ -314,8 +314,6 @@ We can even change the value associated with a key. Here's how:
 ```
 That tuna is really old !
 
-We now talk about sets.
-
 **Sets**
 
 A set is a data structure that does not contain any duplicates. Here is an example:
