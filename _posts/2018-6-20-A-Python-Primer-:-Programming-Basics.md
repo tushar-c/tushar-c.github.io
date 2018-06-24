@@ -331,7 +331,7 @@ For our purposes, that's all there is to sets really! That completes our discuss
 
 ## NUMPY BASICS
 
-Numpy is a software package for Python that helps with Mathematics. It is a huge library that has many other software packages built on top of it. Here, we will see only what amounts to a drop in the ocean that numpy is ! We will see basic matrix operations and vector operations. But for those of you who want to know what a matrix and a vector is, we will cover them in the next post where we start with Machine Learning. In the meantime, here is a great video series on them, [Linear Algebra Tutorials](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+Numpy is a software package for Python that helps with Mathematics. It is a huge library that has many other software packages built on top of it. Here, we will see only what amounts to a drop in the ocean that numpy is ! We will see basic matrix operations and vector operations. But for those of you who want to know what a matrix and a vector is, we will cover them in the next post where we start with Machine Learning. In the meantime, here is a great video series on them [Linear Algebra Tutorials](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 Creating a vector is very simple with numpy. But first we must tell Python we intend to use it. In Python, we do this by typing:
 
