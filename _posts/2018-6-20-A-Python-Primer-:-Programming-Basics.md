@@ -173,3 +173,32 @@ That does it for loops, next we talk about functions.
 
 
 ## FUNCTIONS
+
+A function is a a utility in programming that allows us to reuse the same block of code. This might happen if you were to perform the same computation, but the input values kept of changing. For example: *Logging some patient data, with each patient having different details or Performing some calculation that involves the same formula, but the inputs keep changing, etc.*.
+
+A function takes inputs (also called *arguments*) and returns outputs (also called *return values*).
+
+Saying the same thing, but a little more formally, we can write: **Function: Inputs -> Outputs**. In Python, we need 3 components for creating a function:
+
+**1.** The keyword *def* . This tells Python we intend to create a function
+
+**2.** The name of the function, followed by circular brackets (*'()'*), which contain the arguments.
+
+**3.** The return value of the function.
+
+After you have defined a function, you need to *call* it. This is done by typing the function name, then passing the arguments it takes within the circular braces.
+
+Let's put this all together and see an example of a function that prints a nice introduction for you given your first name and then call it.
+
+```python
+>>> def introduction_generator(first_name): # define the function
+...     introduction = "Hi, my name is {} and I like football!".format(first_name) # do stuff with it
+...     return introduction # return value
+...
+>>> name = 'Tushar'
+>>> introduction_generator(name) # call the function
+'Hi, my name is Tushar and I like football!' # Isn't that nice!
+>>> 
+```
+
+Try changing the string '*introduction*' inside the function. Try changing the argument *first_name* and try passing different values.
