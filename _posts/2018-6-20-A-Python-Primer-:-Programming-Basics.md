@@ -25,6 +25,7 @@ A variable, as the name suggests, are objects that are dynamic rather than stati
 ```python
 >>> x = 25
 ```
+
 This simple example highlights one of the most important features of Python -- simplicity and readability. This command stores the integer value 25 in x. To see this, type in:
 
 ```python
