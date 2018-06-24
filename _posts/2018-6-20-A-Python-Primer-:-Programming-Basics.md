@@ -16,7 +16,7 @@ Python 3.6.5 (default, Apr  1 2018, 05:46:30)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
-Ofcourse the exact output might differ, what's important is you should see the prompt (**' >>> '**) at the end.
+Ofcourse the exact output might differ, what's important is you should see the prompt (** the three '>'**) at the end.
 
 ##VARIABLES##
 ##
