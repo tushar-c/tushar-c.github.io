@@ -18,10 +18,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 Ofcourse the exact output might differ, what's important is you should see the prompt (** the three '>'**) at the end.
 
-##VARIABLES##
-##
-
-VARIABLES
+##VARIABLES
 
 A variable, as the name suggests, are objects that are dynamic rather than static. This means the value they store can be changed. A simple example is:
 
