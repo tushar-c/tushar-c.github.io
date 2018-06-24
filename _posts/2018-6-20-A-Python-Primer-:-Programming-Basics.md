@@ -461,3 +461,6 @@ As said above, links to resources that cover Python in much more depth are here:
 [Codecademy: Awesome For Learning Practical Programming](https://www.codecademy.com/learn/learn-python)
 
 [Official Python 3 Docs: From The People Who Created The Language](https://docs.python.org/3.5/tutorial/index.html)
+
+Wish you good luck and Thanks for Reading, See you next time!
+
