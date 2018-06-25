@@ -1,6 +1,7 @@
 ---
 layout: post
 mathjax: true
+math: true
 ---
 
 
