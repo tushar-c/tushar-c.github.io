@@ -5,5 +5,5 @@ mathjax: true
 
 ![Machine Learning]({{site.baseurl}}/images/LR.png)
 
-**Coming Soon!**
+**Coming Soon!!**
 $$\alpha + \beta = \theta$$
