@@ -9,6 +9,8 @@ math: true
 
 **Coming Soon!**
 
+$$ \alpha $$
+
 $$
 \begin{align*}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
