@@ -6,7 +6,7 @@ mathjax: true
 
 ![Machine Learning]({{site.baseurl}}/images/LR.png)
 
-**Coming Soon!!**
+**Coming Soon!**
 
 \\[ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} \\]
 $$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$
