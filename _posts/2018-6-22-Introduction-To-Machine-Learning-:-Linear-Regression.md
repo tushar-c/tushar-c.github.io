@@ -20,5 +20,5 @@ math: true
 \end{align}
 
 
-**Coming Soon!!**
+**Coming Soon!**
 
