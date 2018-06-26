@@ -275,6 +275,15 @@ Another important function related to lists is *append* . As the name suggests, 
 >>> 
 ```
 
+An important feature of lists is what is called *list comprehension*. It provides a quick way to create lists. This will be very useful to us tomorrow. Here is an example:
+
+```python
+>>> x = [j ** 2 for j in range(10)] # iterate in the range and square each number and store it
+>>> x
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81, 100] 
+>>>
+```
+
 We can do much more! For links, see the end of the post.
 
 **DICTIONARIES**
@@ -464,4 +473,3 @@ As said above, links to resources that cover Python in much more depth are here:
 [Official Python 3 Docs: From The People Who Created The Language](https://docs.python.org/3.5/tutorial/index.html)
 
 Wish you good luck and Thanks for Reading, See you next time!
-
