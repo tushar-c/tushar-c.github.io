@@ -55,6 +55,21 @@ Simple addition, subtraction, multiplication, division and exponentiation (raisi
 >>> 
 ```
 
+Equalities and Inequalities can be checked in very simple ways. Here is an example:
+
+```python
+>>> x = 5
+>>> x == 5 # check if is equal to 5, note how two equal signs are used. One equal sign denotes assignment
+True
+>>> x != 5 # check if x not equal to 5
+False
+>>> x > 5 # check if x greater than 5
+False
+>>> x < 5 # check if x less than 5
+False
+```
+
+
 Comments in Python start with '*#*', everything after this Python does not interpret as code and ignores it. This completes our requirements of Python variables. We next take a look at loops.
 
 ## LOOPS
