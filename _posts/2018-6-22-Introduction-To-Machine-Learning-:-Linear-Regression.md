@@ -11,5 +11,5 @@ math: true
 
 $$ \alpha + \beta = \theta $$
 
-**Coming Soon!!**
+**Coming Soon!**
 
