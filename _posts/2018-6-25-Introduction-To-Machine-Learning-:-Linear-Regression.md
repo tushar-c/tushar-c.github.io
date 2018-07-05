@@ -54,4 +54,4 @@ So, the code `features[:400]` starts from *instance 0* and goes upto but not inc
 The process we just did above is known as *Data Processing*. Now, we talk about the actual algorithm below.
 
 
-$$1/2\sum_{i=0}^N (y_n - t_n)^2$$
+$$\frac{1/2}\sum_{i=0}^N (y_n - t_n)^2$$
