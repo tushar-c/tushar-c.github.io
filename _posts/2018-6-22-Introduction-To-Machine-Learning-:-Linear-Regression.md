@@ -2,6 +2,7 @@
 layout: post
 mathjax: true
 math: true
+published: true
 ---
 
 
@@ -9,5 +10,4 @@ math: true
 
 $$ \alpha + \beta = \theta $$
 
-**Coming Soon!**
-
+In this post we are going to talk about one of the foundational techniques in machine learning, Linear Regression. 
