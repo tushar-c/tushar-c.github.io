@@ -23,13 +23,14 @@ Let us talk about some basics. First of all, Machine Learning, as we talked abou
 
 Some last bit of terminology, the data itself, regardless of whether it is Train or Test Data, it is divided into two parts again: *Features* and *Labels*. Consider an example: We are trying to predict the amount of some drug required for a particular disease. We have 500 samples, each from a different patient. In this case, each sample is called an *'instance'*. For each instance, let us assume we are using the three following variables to predict the amount:
 
-1. Age of the Patient
+**1. Age of the Patient**
 
-2. Height of the Patient
+**2. Height of the Patient**
 
-3. Weight of the Patient
+**3. Weight of the Patient**
 
 In this case, the *Age, Height and Weight* are called the *'Features'*, and the amount of drug that we are trying to predict is called *'Label'*. This is the basic terminology we need for now. Let us extract the *Features and Labels* from the Boston Dataset now. We do it with the following code, along with explanations below it:
+
 
 ```python
 features = boston_data['data']
@@ -39,6 +40,7 @@ train_labels = labels[:400]
 test_features = features[400:]
 test_labels = labels[400:]
 ```
+
 
 `boston_data` is a *dictionary* that can be indexed with keys and values just as we have seen. The key *'data'* gets the actual data, as a numpy array. The key *'target'* gets the labels. The next four lines perform an operation known as *'slicing'*. This is similar to what the name suggests, it slices an array from the starting point to the ending point. 
 
