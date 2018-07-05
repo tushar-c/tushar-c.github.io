@@ -51,7 +51,7 @@ test_labels = labels[400:]
 So, the code `features[:400]` starts from *instance 0* and goes upto but not including *instance 400*. Similar is the case with *labels*. For test data, we start with *instance 400* and go upto the end. Notice how omitting *(not entering any number)* the start automatically assumes the beginning on the array, whereas omitting the end assumes the end of the array. 
 
 
-The process we just did above is known as *Data Processing*. Now, we talk about the actual algorithm below.
+The process we just did above was a small part of what is known as *Data Processing*. Now, we talk about the actual algorithm below.
 In machine learning, to *'learn'*, we need to look at how *wrong* we are. To do that mathematically, we define an error function. Let us assume we have *N samples or N instances (eg: N patients, say N = 100)*.
 
 Then if we let $\y$ denote our answer, or *'prediction'*, and $t_n$ denote the true answer, which is available in the training data at training time, then let us call $y_n - t_n$ be called the **'error'**.
