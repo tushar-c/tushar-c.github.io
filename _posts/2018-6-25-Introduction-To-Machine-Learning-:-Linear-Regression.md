@@ -19,9 +19,13 @@ import sklearn.datasets
 boston_data = sklearn.datasets.load_boston()
 ```
 
-Let us talk about some basics. First of all, Machine Learning, as we talked about, involves learning from data. More precisely, it involves **generalizing** from data. That data is divided into two parts: Train Data and Test Data. As the names suggests, when we train our algorithm, or when the algorithm is *'learning'*, we use the Train Data. Then, to test how well the algorithm did on the data, we give it *new, or unseen data*. That is the test data. 
+Let us talk about some basics. First of all, Machine Learning, as we talked about, involves learning from data. More precisely, it involves **generalizing** from data. That data is divided into two parts: Train Data and Test Data. As the names suggests, when we train our algorithm, or when the algorithm is *'learning'*, we use the Train Data. 
 
-Some last bit of terminology, the data itself, regardless of whether it is Train or Test Data, it is divided into two parts again: *Features* and *Labels*. Consider an example: We are trying to predict the amount of some drug required for a particular disease. We have 500 samples, each from a different patient. In this case, each sample is called an *'instance'*. For each instance, let us assume we are using the three following variables to predict the amount:
+Then, to test how well the algorithm did on the data, we give it *new, or unseen data*. That is the test data. 
+
+Some last bit of terminology, the data itself, regardless of whether it is Train or Test Data, it is divided into two parts again: *Features* and *Labels*. Consider an example: We are trying to predict the amount of some drug required for a particular disease. 
+
+We have 500 samples, each from a different patient. In this case, each sample is called an *'instance'*. For each instance, let us assume we are using the three following variables to predict the amount:
 
 **1. Age of the Patient**
 
