@@ -57,6 +57,6 @@ In machine learning, to *'learn'*, we need to look at how *wrong* we are. To do 
 Then if we let $$y_n$$ denote our answer, or *'prediction'*, and $$t_n$$ denote the true answer, which is available in the training data at training time, then let us call $$y_n - t_n$$ be called the **'error'**.
 So that $$(y_n - t_n)^2$$ is the squared error. Where the subscript *n* denotes the *n'th* training sample, say n = 50. If we sum over all the *n* samples in the training data, we get the following formulation:
 
-$$\frac{1}{2}\sum_{i=0}^N (y_n - t_n)^2$$
+$$\frac{1}{2}\sum_{i=1}^N (y_n - t_n)^2$$
 
 This is called the Mean Squared Error, or *MSE*. This gives us a sense of ***"How wrong we are"*. And it is this sense, or more formally, this function that we must minimize**.
