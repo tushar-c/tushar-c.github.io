@@ -51,7 +51,7 @@ test_labels = labels[400:]
 So, the code `features[:400]` starts from *instance 0* and goes upto but not including *instance 400*. Similar is the case with *labels*. For test data, we start with *instance 400* and go upto the end. Notice how omitting *(not entering any number)* the start automatically assumes the beginning on the array, whereas omitting the end assumes the end of the array. 
 
 
-The process we just did above is known as *Data Processing*. Now, we talk about the actual algorithm below..
+The process we just did above is known as *Data Processing*. Now, we talk about the actual algorithm below.
 
 
-$$\frac{1/2}\sum_{i=0}^N (y_n - t_n)^2$$
+$$\frac{1}{2}\sum_{i=0}^N (y_n - t_n)^2$$
