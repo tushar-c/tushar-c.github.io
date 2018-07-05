@@ -40,7 +40,9 @@ test_features = features[400:]
 test_labels = labels[400:]
 ```
 
-`boston_data` is a *dictionary* that can be indexed with keys and values just as we have seen. The key *'data'* gets the actual data, as a numpy array. The key *'target'* gets the labels. The next four lines perform an operation known as *'slicing'*. This is similar to what the name suggests, it slices an array from the starting point to the ending point. So the code `features[:400]` starts from *instance 0* and goes upto but not including *instance 400*. Similar is the case with *labels*. For test data, we start with *instance 400* and go upto the end. Notice how omitting *(not entering any number)* the start automatically assumes the beginning on the array, whereas omitting the end assumes the end of the array. 
+`boston_data` is a *dictionary* that can be indexed with keys and values just as we have seen. The key *'data'* gets the actual data, as a numpy array. The key *'target'* gets the labels. The next four lines perform an operation known as *'slicing'*. This is similar to what the name suggests, it slices an array from the starting point to the ending point. 
+
+So, the code `features[:400]` starts from *instance 0* and goes upto but not including *instance 400*. Similar is the case with *labels*. For test data, we start with *instance 400* and go upto the end. Notice how omitting *(not entering any number)* the start automatically assumes the beginning on the array, whereas omitting the end assumes the end of the array. 
 
 
 The process we just did above is known as *Data Processing*. Now, we talk about the actual algorithm below.
