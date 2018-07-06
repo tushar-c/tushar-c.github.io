@@ -142,6 +142,8 @@ If we now combine all the samples into one big matrix, with each sample forming 
 
 While if *w* has dimensions 13 x 1. One for each feature that it will learn from the dataset, then result $$y_n$$ will be a *N x 1* vector. Each row (or term, because of *1* column, each row has a single term), will contain our prediction for that particular instance from the dataset.
 
+## Solving the Problem
+
 Using this notation, we can finally write the error function in a slightly different form as :
 
 $$(Xw - t)^2 = (Xw - t)^T (Xw - t)  $$
