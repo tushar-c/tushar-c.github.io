@@ -198,5 +198,7 @@ Where we have used the property $${AB}^T = {B^T}{A^T}$$
 
 Now, we write the above as:
 
-$$ ({w^T}{X^T} - {t^T})(Xw - t) = $$
+$$ ({w^T}{X^T} - {t^T})(Xw - t) = {w^T}{X^t}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t$$
+
+Where we have used matrix multiplication and standard algebra.
 
