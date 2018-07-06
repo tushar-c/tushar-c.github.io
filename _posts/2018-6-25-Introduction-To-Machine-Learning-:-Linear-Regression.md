@@ -8,7 +8,7 @@ published: true
 
 ![Machine Learning]({{site.baseurl}}/images/LR.png)
 
-In this post we are going to talk about one of the foundational techniques in machine learning, Linear Regression. Linear Regression is used when we want to *fit a line to the data*. We are going to first look at some theory underlying the algorithm, then get some data and code our algorithm!
+In this post we are going to talk about one of the foundational techniques in machine learning, Linear Regression. Linear Regression is used when we want to *fit a line to the data*. The term regression refers to the fact that we are predicting *continuous values* like prices, amounts, etc. rather than *discrete values* such as categories, types, etc. We are going to look at some theory underlying the algorithm, get some data and code our algorithm!
 
 Let us get the first thing out of the way, i.e., getting the data. We are going to code the algorithm as we go. So, fire up a text editor, and let's get started!
 
