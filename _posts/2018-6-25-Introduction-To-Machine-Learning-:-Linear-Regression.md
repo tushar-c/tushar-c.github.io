@@ -251,3 +251,47 @@ $$ Xw = y$$
 
 Where *y* is an *N x 1* vector, containing *N* predictions, each corresponding to an instance.
 
+## Implementing the algorithm in code
+
+Let's put the whole code at once here and then explain it bit by bit, remember that we have already done the data loading and proccessing parts. Here is the code:
+
+```python
+import numpy as np
+import sklearn.datasets
+
+
+# OLS Linear Regression
+def linear_regression(X, Y, X_, Y_):
+    # estimate for the weight vector W, can be found by minimizing (y - WB).T * (y - WB)
+    W = np.matmul(np.linalg.inv(np.matmul(X.T, X)), np.matmul(X.T, Y))
+    predictions = []
+    # iterate over the test set
+    for entry in range(len(X_)):
+        # get prediction
+        pred = np.matmul(W.T, X_[entry])
+        predictions.append(pred)
+    predictions = np.array(predictions)
+    # compute MSE
+    error = np.sum(np.power(predictions - test_labels, 2)) / len(features)
+    return (W, error, predictions)
+
+# load the dataset
+boston_data = sklearn.datasets.load_boston()
+features = boston_data['data']
+labels = boston_data['target']
+train_features = features[:400]
+train_labels = labels[:400]
+test_features = features[400:]
+test_labels = labels[400:]
+
+# fit the data
+lr_pred = linear_regression(train_features, train_labels,
+                            test_features, test_labels)
+
+# view our predictions vs the actual targets
+for j in range(len(test_labels)):
+    p = lr_pred[2][j]
+    t = test_labels[j]
+
+```
+
