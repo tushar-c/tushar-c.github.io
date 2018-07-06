@@ -82,13 +82,24 @@ $$\frac{1}{2}\sum_{i=1}^N (y_n - t_n)^2$$
 
 The meaning of the individual symbols is given above. We said $$y_n$$ is our prediction, but how do we generate it? This the core question answered differently by different machine learning algorithms. For our purposes in this post, we are going to do that by taking what is called the *dot product* between two vectors. We explain each of these below:
 
-One vector would contain our features for one instance (or one sample in the dataset). *For eg: in our patient example above, each vector x would be a 3 x 1 vector, i.e., 3 rows and 1 column, with each row representing one of the following: Age , Height and Width. So the vector would look something like:
+One vector would contain our features for one instance (or one sample in the dataset). *For eg: in our patient example above, each vector x would be a 3 x 1 vector, i.e., 3 rows and 1 column, with each row representing one of the following: Age , Height and Weight. So the vector would look something like:
 
 $$ \left[ 
 \begin{array}
 	AAge\\
   	Height\\
-    Width
+    Weight
+\end{array}
+\right]
+$$
+
+So if *Age = 20, Height = 179 cm, and Weight = 75 kgs*, then the vector will look like:
+
+$$ \left[ 
+\begin{array}
+	20\\
+  	179\\
+    75
 \end{array}
 \right]
 $$*
@@ -104,7 +115,7 @@ The other vector is what is called the **parameter vector or the weight vector**
 
 So, we see that a product simply multiplies the corresponding elements in two vectors, does this for all the elements in the two vectors, and finally adds them. Note how two vectors are inputs, and the output is a single number. Here is a mathematical way to write the dot product with our two vectors, *x* and *w*, which represent the instance vector and the weight vector, respoectively:
 
-$$ \sum_{i=1}^N (x_n * w_n) = {w^T}x = {x^T}w$$
+$$ \sum_{i=1}^N (x_n * w_n) = {w^T}x = {x^T}w $$
 
 
 
