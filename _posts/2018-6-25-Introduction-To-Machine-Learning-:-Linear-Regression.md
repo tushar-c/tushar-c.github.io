@@ -202,3 +202,7 @@ $$ ({w^T}{X^T} - {t^T})(Xw - t) = {w^T}{X^t}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^
 
 Where we have used matrix multiplication and standard algebra.
 
+This is the error function which we write as:
+
+$$E(w) = {w^T}{X^t}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t$$
+
