@@ -235,7 +235,7 @@ $${X^T}{Xw} = {X^T}t$$
 
 Now, remember that any matrix $$A$$,    $${A^{-1}}A = I$$ where I is the Identity Matrix and $${A^{-1}}$$ is the inverse of $$A$$.
 
-Multiplying both sides above on the left with $${({X^T}{X})^-1}$$, we get:
+Multiplying both sides above on the left with $${({X^T}{X})^{-1}}$$, we get:
 
 $$w = {({X^T}{X})^{-1}}{X^T}t$$
 
