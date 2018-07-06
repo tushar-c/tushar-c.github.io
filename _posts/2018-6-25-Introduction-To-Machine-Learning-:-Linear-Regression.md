@@ -110,7 +110,7 @@ Since the boston housing data contains 13 *features* for each instances, each ve
 The other vector is what is called the **parameter vector or the weight vector**. This consists of our 'learned' weights, that when we combine with the instance vector, we get a real-numbered value. Here is a simple picture explaining a dot product:
 
 
-![Machine Learning]({{site.baseurl}}/images/vectorproduct.gif)
+![Machine Learning]({{site.baseurl}}/images/phpsyWwce.png)
 
 
 So, we see that a product simply multiplies the corresponding elements in two vectors, does this for all the elements in the two vectors, and finally adds them. Note how two vectors are inputs, and the output is a single number. Here is a mathematical way to write the dot product with our two vectors, *x* and *w*, which represent the instance vector and the weight vector, respoectively:
