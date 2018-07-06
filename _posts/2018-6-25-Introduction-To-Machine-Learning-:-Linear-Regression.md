@@ -144,7 +144,7 @@ While if *w* has dimensions 13 x 1. One for each feature that it will learn from
 
 Using this notation, we can finally write the error function in a slightly different form as :
 
-$$\left||(Xw - **t**)\right||^2 $$
+$$(Xw - **t**)^2 = (Xw - **t**)^T (Xw - **t**)  $$
 
 Here the bold vector **t** indicates that we have combined all the labels of instances into one vector. Also, X contains all instances, with each row in the dataset forming a row in X. We have explained above that Xw is a matrix-vector product and returns an *N x 1* vector. Since **t** also contains the labels (which are just numbers representing the house price) for all the instances, it is also *N x 1*. Thus, we can perform subtraction. Note that vector subtraction is element-wise, as shown below:
 
