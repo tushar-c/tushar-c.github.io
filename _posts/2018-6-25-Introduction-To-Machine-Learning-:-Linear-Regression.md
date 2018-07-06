@@ -198,7 +198,7 @@ Note that here, $$A^T$$ denotes the transpose of a matrix A. We have used the pr
 
 Now, we write the above as:
 
-$$ ({w^T}{X^T} - {t^T})(Xw - t) = {w^T}{X^t}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t$$
+$$ ({w^T}{X^T} - {t^T})(Xw - t) = {w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t$$
 
 Where we have used matrix multiplication and standard algebra.
 
