@@ -216,3 +216,19 @@ $$
  = 2{X^T}{Xw} - {X^T}t - {t^T}{X}
 \end{equation}
 $$
+
+Let us remember that $${X^T}y = {y^T}X$$. Using this, we have in the above that:
+
+$$2{X^T}{Xw} - {X^T}t - {t^T}{X} = 2{X^T}{Xw} - 2{X^T}t$$
+
+To minimize this quantity, we set it to zero, and get:
+
+$$\frac{\partial E}{\partial w} = 2{X^T}{Xw} - 2{X^T}t = 0$$
+
+From this, we get:
+
+$$ 2{X^T}{Xw} = 2{X^T}t $$ 
+
+Dividing both sides by 2, we get:
+
+$${X^T}{Xw} = {X^T}t$$
