@@ -85,7 +85,7 @@ The meaning of the individual symbols is given above. We said $$y_n$$ is our pre
 One vector would contain our features for one instance (or one sample in the dataset). *For eg: in our patient example above, each vector x would be a 3 x 1 vector, i.e., 3 rows and 1 column, with each row representing one of the following: Age , Height and Width. So the vector would look something like: 
 $$ \left[ 
 \begin{array}
-	Age\\
+	AAge\\
   	Height\\
     Width
 \end{array}
