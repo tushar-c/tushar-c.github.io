@@ -196,7 +196,7 @@ $$(Xw - t)^2 = (Xw - t)^T (Xw - t)  = ({w^T}{X^T} - {t^T})(Xw - t)$$
 
 Note that here, $$A^T$$ denotes the transpose of a matrix A.
 
-Where we have used the property $${AB}^T = {B^T}{A^T}$$
+Where we have used the property $${(AB)}^T = {B^T}{A^T}$$
 
 Now, we write the above as:
 
