@@ -138,9 +138,9 @@ So, we see that a product simply multiplies the corresponding elements in two ve
 
 $$ \sum_{i=1}^N x_n * w_n = {w^T}x = {x^T}w $$
 
-If we now combine all the samples into one big matrix, with each sample forming a row in the matrix, then we can write our prediction as $$ Xw $$ , where w is our parameter vector and X is the *'data matrix'*. Note that this is a matrix-vector product. So if X has dimensions N x 13, N samples, each having 13 features. 
+If we now combine all the samples into one big matrix, with each sample forming a row in the matrix, then we can write our prediction as $$ Xw $$ , where *w* is our parameter vector and *X* is the *'data matrix'*. Note that this is a matrix-vector product. So if *X* has dimensions *N x 13*, *N* samples, each having *13* features. 
 
-While if w has dimensions 13 x 1. One for each feature that it will learn from the dataset, then result $$y_n$$ will be a N x 1 vector. Each row (or term, because of 1 column, each row has a single term), will contain our prediction for that particular instance from the dataset.
+While if *w* has dimensions 13 x 1. One for each feature that it will learn from the dataset, then result $$y_n$$ will be a *N x 1* vector. Each row (or term, because of *1* column, each row has a single term), will contain our prediction for that particular instance from the dataset.
 
 
 
