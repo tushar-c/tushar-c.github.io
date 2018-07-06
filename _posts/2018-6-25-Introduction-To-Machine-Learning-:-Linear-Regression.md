@@ -107,28 +107,31 @@ $$
 
 Since the boston housing data contains 13 *features* for each instances, each vector *x* will be a *13 x 1* vector. To see exactly what those 13 features are, see point 7. and then  following 13 points in this [link.](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names) The 14th point we have to predict.
 
-The other vector is what is called the **parameter vector or the weight vector**. This consists of our 'learned' weights, that when we combine with the instance vector, we get a real-numbered value. Here is a simple picture explaining a dot product:
+The other vector is what is called the **parameter vector or the weight vector**. This consists of our 'learned' weights, that when we combine with the instance vector, we get a real-numbered value. Here is a simple example explaining a dot product:
 
 $$ \left[ 
 \begin{array}{cc}
-	20\\
-  	179\\
-    75
+	1\\
+  	2\\
+    3
 \end{array}
 \right]
+
+*
 
 \left[ 
 \begin{array}{cc}
-	20\\
-  	179\\
-    75
+	4\\
+  	5\\
+    6
 \end{array}
 \right]
 
+=
+
+(1 * 4) + (2 * 5) + (3 * 6) = (4) + (10) + (18) = 14 + 18 = 32
+
 $$
-
-
-![Machine Learning]({{site.baseurl}}/images/phpsyWwce.png)
 
 
 So, we see that a product simply multiplies the corresponding elements in two vectors, does this for all the elements in the two vectors, and finally adds them. Note how two vectors are inputs, and the output is a single number. Here is a mathematical way to write the dot product with our two vectors, *x* and *w*, which represent the instance vector and the weight vector, respoectively:
