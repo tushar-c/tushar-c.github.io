@@ -208,5 +208,5 @@ This is the error function which we write as:
 
 $$E(w) = {w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t$$
 
-This is a function of w, the weight vector, since X is the matrix of train features and t is the vector of train labels, both of which are fixed.
+This is a function of w, the weight vector, since *X* is the matrix of train features and *t* is the vector of train labels, both of which are fixed.
 
