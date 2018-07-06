@@ -102,7 +102,9 @@ The other vector is what is called the **parameter vector or the weight vector**
 ![Machine Learning]({{site.baseurl}}/images/vectorproduct.gif)
 
 
+So, we see that a product simply multiplies the corresponding elements in two vectors, does this for all the elements in the two vectors, and finally adds them. Note how two vectors are inputs, and the output is a single number. Here is a mathematical way to write the dot product with our two vectors, *x* and *w*, which represent the instance vector and the weight vector, respoectively:
 
+$$ \sum_{i=1}^N (x_n * w_n) = {w^T}x = {x^T}w$$
 
 
 
