@@ -66,4 +66,4 @@ So that $$(y_n - t_n)^2$$ is the squared error. Where the subscript *n* denotes 
 
 $$\frac{1}{2}\sum_{i=1}^N (y_n - t_n)^2$$
 
-This is called the Mean Squared Error, or *MSE*. This gives us a sense of ***"How wrong we are"*. And it is this sense, or more formally, this function that we must minimize**.
+This is called the Mean Squared Error, or *MSE*. This is one of many functions that gives us a sense of ***"How wrong we are"*. And it is this sense, or more formally, this function that we must minimize**.
