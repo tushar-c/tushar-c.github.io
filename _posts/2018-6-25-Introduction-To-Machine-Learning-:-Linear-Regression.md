@@ -96,7 +96,7 @@ $$
 So if *Age = 20, Height = 179 cm, and Weight = 75 kgs*, then the vector will look like:
 
 $$ \left[ 
-\begin{array}
+\begin{array}{cc}
 	20\\
   	179\\
     75
