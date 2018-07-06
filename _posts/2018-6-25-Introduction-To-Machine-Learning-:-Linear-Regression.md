@@ -78,7 +78,7 @@ As we saw above, the problem is to minimize how wrong we are. To do this on a co
 
 That function is:
 
-$$\frac{1}{2}\sum_{i=1}^N (y_n - t_n)^2$$
+$$\frac{1}{2}\sum_{i=1}^N (y_n - t_n)^2 (1)$$
 
 The meaning of the individual symbols is given above. We said $$y_n$$ is our prediction, but how do we generate it? This the core question answered differently by different machine learning algorithms. For our purposes in this post, we are going to do that by taking what is called the *dot product* between two vectors. We explain each of these below:
 
@@ -138,6 +138,8 @@ $$ \sum_{i=1}^N x_n * w_n = {w^T}x = {x^T}w $$
 If we now combine all the samples into one big matrix, with each sample forming a row in the matrix, then we can write our prediction as $$ Xw $$ , where w is our parameter vector and X is the *'data matrix'*. Note that this is a matrix-vector product. So if X has dimensions N x 13, N samples, each having 13 features. 
 
 While if w has dimensions 13 x 1. One for each feature that it will learn from the dataset, then result $$y_n$$ will be a N x 1 vector. Each row (or term, because of 1 column, each row has a single term), will contain our prediction for that particular instance from the dataset.
+
+
 
 
 
