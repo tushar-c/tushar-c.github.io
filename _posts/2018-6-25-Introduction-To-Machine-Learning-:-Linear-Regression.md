@@ -249,3 +249,5 @@ We can now make predictions using *w*, so that our predictions will be:
 
 $$ Xw = y$$
 
+Where *y* is an *N x 1* vector, containing *N* predictions, each corresponding to an instance.
+
