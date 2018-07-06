@@ -23,7 +23,7 @@ Let us talk about some basics. First of all, Machine Learning, as we talked abou
 
 As the names suggests, when we train our algorithm, or when the algorithm is *'learning'*, we use the Train Data. Then, to test how well the algorithm did on the data, we give it *new, or unseen data*. That is the test data. 
 
-Some last bit of terminology, the data itself, regardless of whether it is Train or Test Data, it is divided into two parts again: *Features* and *Labels*. Consider an example: We are trying to predict the amount of some drug required for a particular disease. 
+Some last bit of terminology, the data itself, regardless of whether it is Train or Test Data, is divided into two parts again: *Features* and *Labels*. Consider an example: We are trying to predict the amount of some drug required for a particular disease. 
 
 We have 500 samples, each from a different patient. In this case, each sample is called an *'instance'*. For each instance, let us assume we are using the three following variables to predict the amount:
 
@@ -51,7 +51,9 @@ test_labels = labels[400:]
 ```
 
 
-`boston_data` is a *dictionary* that can be indexed with keys and values just as we have seen. The key *'data'* gets the actual data, as a numpy array. The key *'target'* gets the labels. The next four lines perform an operation known as *'slicing'*. This is similar to what the name suggests, it slices an array from the starting point to the ending point. 
+`boston_data` is a *dictionary* that can be indexed with keys and values just as we have seen in previous tutorials. The key *'data'* gets the actual data, as a numpy array. The key *'target'* gets the labels. 
+
+The next four lines perform an operation known as *'slicing'*. This is similar to what the name suggests, it slices an array from the starting point to the ending point. 
 
 So, the code `features[:400]` starts from *instance 0* and goes upto but not including *instance 400*. Similar is the case with *labels*. For test data, we start with *instance 400* and go upto the end. Notice how omitting *(not entering any number)* the start automatically assumes the beginning on the array, whereas omitting the end assumes the end of the array. 
 
