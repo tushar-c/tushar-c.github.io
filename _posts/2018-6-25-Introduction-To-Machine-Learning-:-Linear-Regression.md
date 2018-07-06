@@ -210,6 +210,9 @@ This is a function of w, the weight vector, since *X* is the matrix of train fea
 
 We first do the actual computations and then explain them:
 
+$$
 \begin{equation}
 \frac{\partial E}{\partial w} = \frac{\partial ({w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t)}{\partial w}
+ = 2{X^T}{Xw} - {X^T}t - {t^T}{X}
 \end{equation}
+$$
