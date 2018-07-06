@@ -186,8 +186,6 @@ $$ \left[
 \end{array}
 \right]
 
-=
-
 $$
 
 
