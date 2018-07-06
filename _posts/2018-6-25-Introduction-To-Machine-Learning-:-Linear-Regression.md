@@ -239,3 +239,5 @@ Multiplying both sides above on the left with $${({X^T}{X})^-1}$$, we get:
 
 $$w = {({X^T}{X})^-1}{X^T}t$$
 
+Thus, we have finally reached the weight vector we were looking for. We are now ready to implement this in code! 
+
