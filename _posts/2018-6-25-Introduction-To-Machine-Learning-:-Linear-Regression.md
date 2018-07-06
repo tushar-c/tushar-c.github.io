@@ -92,5 +92,6 @@ $$ \left[
 \right]
 $$*
 
+Since the boston housing data contains 13 *features* for each instances, each vector *x* will be a *13 x 1* vector. To see exactly what those 13 features are, [see point 7. and the following 13 points. The 14th point we have to predict.](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names)
 
 
