@@ -65,8 +65,32 @@ The process we just did above was a small part of what is known as *Data Process
 In machine learning, to *'learn'*, we need to look at how *wrong* we are. To do that mathematically, we define an error function. Let us assume we have *N samples or N instances (eg: N patients, say N = 100)*.
 
 If we let $$y_n$$ denote our answer, or *'prediction'*, and $$t_n$$ denote the true answer, which is available in the training data at training time, then let us call $$y_n - t_n$$ be called the **'error'**.
-So that $$(y_n - t_n)^2$$ is the squared error. Where the subscript *n* denotes the *n'th* training sample, say n = 50. If we sum over all the *n* samples in the training data, we get the following formulation:
+So that $$(y_n - t_n)^2$$ is the squared error. Where the subscript *n* denotes the *n'th* training sample, say n = 50. If we sum over all the *N* samples, starting from *1* and going upto *N* in the training data, we get the following formulation:
 
 $$\frac{1}{2}\sum_{i=1}^N (y_n - t_n)^2$$
 
 This is called the Mean Squared Error, or *MSE*. This is one of many functions that gives us a sense of ***"How wrong we are"*. And it is this sense, or more formally, this function that we must minimize**.
+
+
+**Posing The Problem**
+
+As we saw above, the problem is to minimize how wrong we are. To do this on a computer, we pose a function, a mathematical mapping that takes an input and returns an output, and we aim to minimize it.
+
+That function is:
+
+$$\frac{1}{2}\sum_{i=1}^N (y_n - t_n)^2$$
+
+The meaning of the individual symbols is given above. We said $$y_n$$ is our prediction, but how do we generate it? This the core question answered differently by different machine learning algorithms. For our purposes in this post, we are going to do that by taking what is called the *dot product* between two vectors. We explain each of these below:
+
+One vector would contain our features for one instance (or one sample in the dataset). *For eg: in our patient example above, each vector x would be a 3 x 1 vector, i.e., 3 rows and 1 column, with each row representing one of the following: Age , Height and Width. So the vector would look something like: 
+$$ \left[ 
+\begin{array}
+	Age\\
+  	Height\\
+    Width
+\end{array}
+\right]
+$$*
+
+
+
