@@ -64,7 +64,7 @@ So, the code `features[:400]` starts from *instance 0* and goes upto but not inc
 The process we just did above was a small part of what is known as *Data Processing*. Now, we talk about the actual algorithm below.
 In machine learning, to *'learn'*, we need to look at how *wrong* we are. To do that mathematically, we define an error function. Let us assume we have *N samples or N instances (eg: N patients, say N = 100)*.
 
-If we let $$y_n$$ denote our answer, or *'prediction'*, and $$t_n$$ denote the true answer, which is available in the training data at training time, then let us call $$y_n - t_n$$ be called the **'error'**.
+If we let $$y_n$$ denote our answer, or *'prediction'*, and $$t_n$$ denote the true answer, which is available in the training data at training time, then let us call $$y_n - t_n$$ the **'error'**.
 So that $$(y_n - t_n)^2$$ is the squared error. Where the subscript *n* denotes the *n'th* training sample, say n = 50. If we sum over all the *N* samples, starting from *1* and going upto *N* in the training data, we get the following formulation:
 
 $$\frac{1}{2}\sum_{i=1}^N (y_n - t_n)^2$$
@@ -189,14 +189,3 @@ $$ \left[
 \right]
 
 $$
-
-
-
-
-
-
-
-
-
-
-
