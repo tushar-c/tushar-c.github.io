@@ -35,7 +35,7 @@ We have 500 samples, each from a different patient. In this case, each sample is
 
 In this case, the *Age, Height and Weight* are called the *'Features'*, and the amount of drug that we are trying to predict is called *'Label'*. This is the basic terminology we need for now. 
 
-![Boston Housing]({{site.baseurl}}/images/house.jpeg)
+![Boston Housing]({{site.baseurl}}/images/houses.jpg)
 
 
 Let us extract the *Features and Labels* from the Boston Dataset now. We do it with the following code, along with explanations below it:
