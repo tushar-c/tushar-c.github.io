@@ -245,3 +245,7 @@ $$w = {({X^T}{X})^{-1}}{X^T}t$$
 
 Thus, we have finally reached the weight vector we were looking for. We are now ready to implement this in code! 
 
+We can now make predictions using *w*, so that our predictions will be:
+
+$$ Xw = y_n$$
+
