@@ -247,5 +247,5 @@ Thus, we have finally reached the weight vector we were looking for. We are now 
 
 We can now make predictions using *w*, so that our predictions will be:
 
-$$ Xw = y_n$$
+$$ Xw = y$$
 
