@@ -394,7 +394,9 @@ Now, we run our code! Save the file in your text editor as `filename.py` . Remem
 
 Once you are in the directory where your python file is, type `python filename.py` and there you have it !
 
-Go over the code and the math again if you feel you need to wrap your head around it. It can take some time if you are seeing this for the first time. This completes this post. If you did this all in one stretch then give yourself a pat on the back! Further places to read more are Wikipedia, also check out YouTube, and if you feel like diving deep, see the book : Pattern Recognition and Machine Learning by Bishop.
+Go over the code and the math again if you feel you need to wrap your head around it. It can take some time if you are seeing this for the first time. This completes this post. If you did this all in one stretch then give yourself a pat on the back! 
+
+Further places to read more are Wikipedia, also check out YouTube, and if you feel like diving deep, see the book : Pattern Recognition and Machine Learning by Bishop.
 
 Thanks for Reading, I'll see you next time!
 
