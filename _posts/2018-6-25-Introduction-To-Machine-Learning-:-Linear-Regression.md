@@ -349,6 +349,10 @@ error = np.sum(np.power(predictions - test_labels, 2)) / 2
 Let us go from inside to the outside on the command, the innermost part finds the *element-wise difference* between our predictions and the true values, then it raises that *vector* (this will be a vector, remember, the difference is element-wise) to the power of *2*. Now, `np.sum(v)` adds up all the elements in the vector `v` and returns a single number, the sum of all the elements in the vector `v`. So the vector that was squared, now has all its elements added together and finally we divide this sum by *2* and store this in the variable `error`.
 
 We finally return the weight vector `W`, the `error` variable and the `predictions` array from this function.
+
+```python
 return (W, error, predictions)
+```
+
 
 
