@@ -393,7 +393,7 @@ See how we use two indices to get our prediction and store it in the variable `p
 
 Then we get the true label and then we print the two values against each other in the same line.
 
-## Running the code
+## Running the Code
 
 
 Now, we run our code! Save the file in your text editor as `filename.py` . Remember the file extension *.py* is extremely important! It tells the computer that this is a python file. Open *cmd*, navigate to the directory where you saved the python file. 
