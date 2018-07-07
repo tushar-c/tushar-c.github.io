@@ -334,4 +334,17 @@ predictions = []
 
 Here, we create a list called `predictions` to store our predictions. Next, we go over the whole test set, looking at each instance on by one, denoted in our *for loop* by the name `entry`. Make sure you see that `entry` is an integer that goes from *0* upto and including *len(X_) - 1*. So that `X_[entry]` gets us an instance from the test set.
 
-Next, we take the dot product between our weight vector and the instance from the test set and store that value in the variable `pred`. Then, we append that to the list `predictions` to store it for later comparing.
+Next, we take the dot product between our weight vector and the instance from the test set and store that value in the variable `pred`. Then, we append that to the list `predictions` to store it for later comparing. We repeat this process for all the samples in the test set. We finally convert `predictions` from a *list* to a *numpy array*. This is because we cannot do mathematical operations on lists, but we can do them on numpy arrays.
+
+The final step is to calculate the error we made while predicting, we see this with the formula we had earlier:
+
+$$\frac{1}{2}\sum_{i=1}^N (y_n - t_n)^2 $$
+
+Here it is in code:
+
+```python
+error = np.sum(np.power(predictions - test_labels, 2)) / 2
+```
+
+Let us go from inside to the outside on the command, the innermost part finds the *element-wise difference* between our predictions and the true values, then it raises that *vector* (this will be a vector, remember, the difference is element-wise) to the power of *2*. Now, `np.sum(v)` adds up all the elements in the vector `v` and returns a single number, the sum of all the elements in the vector `v`. So the vector that was squared, now has all its elements added together and finally we divide this sum by *2* and store this in the variable `error`.
+
