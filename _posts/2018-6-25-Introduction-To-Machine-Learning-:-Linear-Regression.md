@@ -334,4 +334,4 @@ predictions = []
 
 Here, we create a list called `predictions` to store our predictions. Next, we go over the whole test set, looking at each instance on by one, denoted in our *for loop* by the name `entry`. Make sure you see that `entry` is an integer that goes from *0* upto and including *len(X_) - 1*. So that `X_[entry]` gets us an instance from the test set.
 
-Next, we take the dot product between our weight vector and the instance from the test set and store that value
+Next, we take the dot product between our weight vector and the instance from the test set and store that value in the variable `pred`. Then, we append that to the list `predictions` to store it for later comparing.
