@@ -275,7 +275,7 @@ def linear_regression(X, Y, X_, Y_):
         predictions.append(pred)
     predictions = np.array(predictions)
     # compute MSE
-    error = np.sum(np.power(predictions - test_labels, 2)) / len(features)
+    error = np.sum(np.power(predictions - test_labels, 2)) / 2
     return (W, error, predictions)
 
 # load the dataset
@@ -297,3 +297,28 @@ for j in range(len(test_labels)):
     t = test_labels[j]
 
 ```
+
+We start by breaking down the code bit by bit. We first import the packages we need:
+
+```python
+import numpy as np
+import sklearn.datasets
+```
+
+Now, using these, we define a *function* called linear_regression, that contains our algorithm. This function takes as arguments the train features, train labels, test features and test labels. These are denoted by *X*, *Y*, *X_* and *Y_* respectively.
+
+Now, we find the weight vector using the formula we derived above, here it is again:
+
+$$w = {({X^T}{X})^{-1}}{X^T}t$$
+
+In code, here is the implementation:
+
+```python
+W = np.matmul(np.linalg.inv(np.matmul(X.T, X)), np.matmul(X.T, Y))
+```
+`np.matmul(A, B)` multiplies the two matrices *A* and *B*. `np.linalg.inv(A)` finds the inverse of the matrix *A*. In the above definition of *W*, we have just chained these commands together to find *W* quickly.
+
+This one line was the core of our algorithm! Notice that this uses the train features and the train labels. We are now ready to make predictions on the instances present in the test features, grouped together in a matrix *X_*, and check our predictions against the true values *Y_*, the vector.
+
+
+
