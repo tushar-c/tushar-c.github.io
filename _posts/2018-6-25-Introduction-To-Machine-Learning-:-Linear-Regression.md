@@ -354,5 +354,48 @@ We finally return the weight vector `W`, the `error` variable and the `predictio
 return (W, error, predictions)
 ```
 
+Next we prepare our data, since we have already done this before, here is the code:
+
+```python
+# load the dataset
+boston_data = sklearn.datasets.load_boston()
+features = boston_data['data']
+labels = boston_data['target']
+train_features = features[:400]
+train_labels = labels[:400]
+test_features = features[400:]
+test_labels = labels[400:]
+```
+
+Now we can call our function as shown:
+
+```python
+# fit the data
+lr_pred = linear_regression(train_features, train_labels,
+                            test_features, test_labels)
+```
+
+We would also like to visualize our results, so we would like to print our *predictions* against the *true values*. We do this as follows:
+
+```python
+# view our predictions vs the actual targets
+for j in range(len(test_labels)):
+    p = lr_pred[2][j]
+    t = test_labels[j]
+	print(p, t)
+```
+
+See how we use two indices to get our prediction and store it in the variable `p`. This is because the function `linear_regression` returns three values that we stored in the variable `lr_pred`. The last element of those three is our `predictions` array, which we get with index *2*, because in python, indexing starts at *0*. This means the first element is at index *0*, second at *1* and the third at *2*.
+
+Then we get the true label and then we print the two values against each other in the same line.
+
+
+Now, we run our code! Save the file in your text editor as `filename.py` . Remember the file extension *.py* is extremely important! It tells the computer that this is a python file. Open *cmd*, navigate to the directory where you saved the python file. You can change directories in the cmd using the command `cd` and then using the directory name. So, to go into a directory called *Programs*, we would use the command `cd Programs/`. 
+
+Once you are in the directory where your python file is, type `python filename.py` and there you have it !
+
+Go over the code and the math again if you feel you need to wrap your head around it. It can take some time if you are seeing this for the first time. This completes this post. If you did this all in one stretch then give yourself a pat on the back! Further places to read more are Wikipedia, also check out YouTube, and if you feel like diving deep, see the book : Pattern Recognition and Machine Learning by Bishop.
+
+Thanks for Reading, I'll see you next time!
 
 
