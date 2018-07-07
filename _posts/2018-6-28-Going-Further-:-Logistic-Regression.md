@@ -2,6 +2,6 @@
 published: false
 ---
 
-![Classification]{{site.baseurl/images/SheepClass.jpg}}
+![Classification]({{site.baseurl}}/images/SheepClass.jpg)
 
 **Coming Soon!**
