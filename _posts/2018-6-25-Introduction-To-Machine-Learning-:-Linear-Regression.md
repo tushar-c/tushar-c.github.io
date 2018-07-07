@@ -201,11 +201,11 @@ $$(Xw - t)^2 = (Xw - t)^T (Xw - t)  = ({w^T}{X^T} - {t^T})(Xw - t)$$
 
 Note that here, $$A^T$$ denotes the transpose of a matrix A. We have used the property: $${(AB)}^T = {B^T}{A^T}$$.
 
-Now, we write the above as:
+Now, we can write the above as:
 
 $$ ({w^T}{X^T} - {t^T})(Xw - t) = {w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t$$
 
-This is the error function which we write as:
+This is the error function which we can write as:
 
 $$E(w) = {w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t$$
 
