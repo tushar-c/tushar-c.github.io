@@ -84,7 +84,7 @@ $$\frac{1}{2}\sum_{i=1}^N (y_n - t_n)^2 $$
 
 The meaning of the individual symbols is given above. We said $$y_n$$ is our prediction, but how do we generate it? This the core question answered differently by different machine learning algorithms. For our purposes in this post, we are going to do that by taking what is called the *dot product* between two vectors. We explain each of these below:
 
-One vector would be the **feature vector** contain our features for one instance (or one sample in the dataset). *For eg: in our patient example above, each vector x would be a 3 x 1 vector, i.e., 3 rows and 1 column, with each row representing one of the following: Age , Height and Weight. So the vector would look something like:
+One vector would be the **feature vector** which would contain our features for one instance (or one sample in the dataset). *For eg: in our patient example above, each vector x would be a 3 x 1 vector, i.e., 3 rows and 1 column, with each row representing one of the following: Age , Height and Weight. So the vector would look something like:
 
 $$ \left[ 
 \begin{array}{cc}
