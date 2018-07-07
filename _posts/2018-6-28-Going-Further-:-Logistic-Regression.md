@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ![Classification]({{site.baseurl}}/images/SheepClass.jpg)
