@@ -393,6 +393,8 @@ See how we use two indices to get our prediction and store it in the variable `p
 
 Then we get the true label and then we print the two values against each other in the same line.
 
+## Running the code
+
 
 Now, we run our code! Save the file in your text editor as `filename.py` . Remember the file extension *.py* is extremely important! It tells the computer that this is a python file. Open *cmd*, navigate to the directory where you saved the python file. 
 
@@ -405,5 +407,3 @@ Go over the code and the math again if you feel you need to wrap your head aroun
 Further places to read more are Wikipedia, also check out YouTube, and if you feel like diving deep, see the book : Pattern Recognition and Machine Learning by Bishop.
 
 Thanks for Reading, I'll see you next time!
-
-
