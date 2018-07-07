@@ -320,5 +320,18 @@ W = np.matmul(np.linalg.inv(np.matmul(X.T, X)), np.matmul(X.T, Y))
 
 This one line was the core of our algorithm! Notice that this uses the train features and the train labels. We are now ready to make predictions on the instances present in the test features, grouped together in a matrix *X_*, and check our predictions against the true values *Y_*, the vector.
 
+We do this as shown:
 
+```python
+predictions = []
+    # iterate over the test set
+    for entry in range(len(X_)):
+        # get prediction
+        pred = np.matmul(W.T, X_[entry])
+        predictions.append(pred)
+    predictions = np.array(predictions)   
+```
 
+Here, we create a list called `predictions` to store our predictions. Next, we go over the whole test set, looking at each instance on by one, denoted in our *for loop* by the name `entry`. Make sure you see that `entry` is an integer that goes from *0* upto and including *len(X_) - 1*. So that `X_[entry]` gets us an instance from the test set.
+
+Next, we take the dot product between our weight vector and the instance from the test set and store that value
