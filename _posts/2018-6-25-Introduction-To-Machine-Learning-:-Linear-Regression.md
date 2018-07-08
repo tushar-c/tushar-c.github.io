@@ -213,7 +213,7 @@ $$E(w) = {w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t$$
 
 This is a function of w, the weight vector, since *X* is the matrix of train features and *t* is the vector of train labels, both of which are fixed. We now need to minimize this function, to do so, we need the *partial derivative* of the function with respect to the weight vector. 
 
-If you do not know what a *partial derivative* is, here is a [great video](https://www.youtube.com/watch?v=AXqhWeUEtQU) to start on the topic.
+If you do not know what a *partial derivative* is, here is a [great introduction](https://www.youtube.com/watch?v=AXqhWeUEtQU) to the topic.
 
 We look at the specifics of multivariable differential calculus we need and then derive an algorithm that we can finally implement in code:
 
