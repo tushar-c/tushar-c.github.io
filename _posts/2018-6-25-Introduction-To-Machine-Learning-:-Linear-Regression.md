@@ -225,6 +225,8 @@ Let us remember that $$Xw = y$$, our prediction. Using this, we have in the abov
 
 $$frac{\partial ({w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t)}{\partial w}$$ = $$frac{\partial ({w^T}{X^T}{y} - {{Xw}^T}t - {t^T}{Xw} + {t^T}t)} = $$frac{\partial ({w^T}{X^T}{y} - {y^T}t - {t^T}y + {t^T}t)}
 
+Which, on taking the partial derivatives gives:
+
 $$2{X^T}{Xw} - {X^T}t - {t^T}{X} = 2{X^T}{Xw} - 2{X^T}t$$
 
 To minimize this quantity, we set it to zero, and get:
