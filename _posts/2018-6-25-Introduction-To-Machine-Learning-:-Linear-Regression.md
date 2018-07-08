@@ -221,7 +221,7 @@ $$
 \frac{\partial E}{\partial w} = \frac{\partial ({w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t)}{\partial w}
 $$
 
-Let us remember that $$Xw = y$$, our prediction. Using this, we have in the above that:
+Let us remember that $$Xw = y$$ is our prediction. Using this, we have in the above that:
 
 $$frac{\partial ({w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t)}{\partial w}$$ = $$frac{\partial ({w^T}{X^T}{y} - {{Xw}^T}t - {t^T}{Xw} + {t^T}t)}{\partial w}$$ = $$frac{\partial ({w^T}{X^T}{y} - {y^T}t - {t^T}y + {t^T}t)}{\partial w}$$
 
