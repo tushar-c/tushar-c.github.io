@@ -24,7 +24,8 @@
       {% endif %}
     </header>
     
-    <article class="post">
+    <main id="content" class="main-content" role="main">
+      <article class="post">
       <h1>{{ page.title }}</h1>
 
       <div class="entry">
@@ -35,8 +36,13 @@
         Written on {{ page.date | date: "%B %e, %Y" }}
       </div>
 
-      {% include disqus.html %}
-    </article>
+      % include disqus.html %}
+        </article>
+      <footer class="site-footer">
+      </footer>
+    </main>
+    
+      {
 
     {% if site.google_analytics %}
       <script>
