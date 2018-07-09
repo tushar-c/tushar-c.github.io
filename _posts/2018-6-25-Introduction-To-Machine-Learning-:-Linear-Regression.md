@@ -224,7 +224,8 @@ $$
 
 Let us remember that $$Xw = y$$ is our prediction. Using this, we have in the above that:
 
-**Formula here**
+$$frac{\partial ({w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t)}{\partial w}$$
+
 
 Which, on taking the partial derivatives gives:
 
