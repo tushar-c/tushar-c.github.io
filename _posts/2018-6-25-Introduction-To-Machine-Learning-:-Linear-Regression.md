@@ -222,7 +222,7 @@ $$
 $$
 
 
-Now, We have in the above that:
+The quantity we are interested is the one on the right above:
 
 $$\frac{\partial ({w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t)}{\partial w}$$
 
