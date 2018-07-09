@@ -217,11 +217,14 @@ If you do not know what a *partial derivative* is, here is a [great introduction
 
 We look at the specifics of multivariable differential calculus we need and then derive an algorithm that we can finally implement in code:
 
+$$
+\frac{\partial E}{\partial w} = \frac{\partial ({w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t)}{\partial w}
+$$
 
 
 Let us remember that $$Xw = y$$ is our prediction. Using this, we have in the above that:
 
-$$frac{\partial ({w^T}{X^T}{Xw} - {w^T}{X^T}t - {t^T}{Xw} + {t^T}t)}{\partial w}$$ = $$frac{\partial ({w^T}{X^T}{y} - {{Xw}^T}t - {t^T}{Xw} + {t^T}t)}{\partial w}$$ = $$frac{\partial ({w^T}{X^T}{y} - {y^T}t - {t^T}y + {t^T}t)}{\partial w}$$
+**Formula here**
 
 Which, on taking the partial derivatives gives:
 
