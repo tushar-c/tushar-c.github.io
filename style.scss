@@ -281,13 +281,13 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+	width : 100%;
+	max-width:1080px;
 }
 
 footer {
   padding: 20px 0;
   text-align: left;
-width : 100%;
-	max-width:1080px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
