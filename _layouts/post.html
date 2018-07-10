@@ -17,7 +17,21 @@ math: true
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
   
-  <header class="page-header" role="banner">
+  <!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+
+    <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: "Tushar Chaturvedi" }}</h1>
       <h2 class="project-tagline">{{ site.description | default: "https://github.com/tushar-c/" }}</h2>
       <a href="{{ site.baseurl }}/" class="btn">Blog</a>
@@ -27,7 +41,7 @@ math: true
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-  </header>
+    </header>
   
   
   {% include disqus.html %}
