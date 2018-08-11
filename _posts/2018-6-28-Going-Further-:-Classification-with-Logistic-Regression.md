@@ -25,4 +25,6 @@ Let's see what this function looks like, here it is:
 
 ![logistic_sigmoid]({{site.baseurl}}/images/sigmoid.png)
 
+See how it has an *S-shape*, it is a very useful property of this function.
+
 
