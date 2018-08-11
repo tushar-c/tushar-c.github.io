@@ -33,7 +33,7 @@ Let's see what this function looks like, here it is:
 
 See how it has an *S-shape*, it is a very useful property of this function. Another very useful property of this function is that the derivative of this function is easily written in terms of the function itself. Specifically:
 
-$$\nabla f(x) = f(x)(1 - f(x)) $$
+$$\nabla f(x) = f(x)(1 - f(x))$$
 
 So, what does the property of always being in the interval $$[0,1]$$ mean to us? Well, it means that we can assign labels, or *class numbers* with the help of a threshold (usually = $$0.5$$). So that if $$y < 0.5$$, we assign class 0. Else if $$y >= 0.5$$, we assign class 1. But how can we use this function to make predictions by learning from data? We see this below.
 
