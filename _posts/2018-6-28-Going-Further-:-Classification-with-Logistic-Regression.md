@@ -108,4 +108,8 @@ Using this, the last piece required is the Hessian, which can be obtained by dif
 
 $$H = \nabla\nabla E(w) = \sum_{n=1}^N y_n(1 - y_n){x_n}{x_n}^T = {X^T}RX$$
 
-Here, $$R$$ is a diagonal matrix (all entries not on the diagonal are zero. Mathematically, $$R_(i, j) = 0$$ if $$i \neq j$$.
+Here, $$R$$ is a diagonal matrix (all entries not on the diagonal are zero. Mathematically, $$R_(i, j) = 0$$ if $$i \neq j$$. Using the property of the derivative of the logistic sigmoid, the diagonal elements of $$R$$ are given by:
+
+$$R_{nn} = f_n(1 - f_n)$$
+
+where $$f_n$$ = $$f(a_n)$$
