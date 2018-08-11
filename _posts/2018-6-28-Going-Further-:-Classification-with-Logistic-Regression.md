@@ -49,13 +49,14 @@ This function is called the *cross-entropy* error function and is given by:
 
 $$-\sum_{n=1}^N {t_n}\log(y_n) + {1 - t_n}\log(1 - y_n)$$
 
-Here the notation is the same as above, except that $$y_n = f($${w^T}x + b$$)$$ and $$f$$ is the logistic sigmoid function. 
+Here the notation is the same as above, except that $$y_n = f($${w^T}x + b$$)$$ and $$f$$ is the logistic sigmoid function. We derive the cross entropy function below.
 
-The following small optional section describes how to obtain this function as a measure of error. Even if you do decide to skip it, the key thing to take away is the following insight: 
 
 **In Machine Learning, it is always a good idea to write the error as the negative of our probability assignment function. This is because minimizing the negative of something corresponds to maximizing its positive. So that when our error function, so defined, is minimized, our probability function tends to assign high probabilities to correct classes.**
 
-## (OPTIONAL) Derivation Of The Cross-Entropy Function:
+## Solving The Problem
+
+The problem to pose here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of Maximum Likelihood. This method looks to maximize the possibility of the occurence of the optimum value of some variable. We call it *optimizing the objective function with respect to this variable*. Here is the method:
 
 We start by noting that each of our prediction is going to be in one of two classes. So that we can write our probability as:
 
@@ -76,7 +77,5 @@ we get:
 $$L(X) = -\sum_{n=1}^N {t_n}\log(y_n) + {1 - t_n}\log(1 - y_n)$$
 
 
-## Solving The Problem
 
-The problem to pose here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of Maximum Likelihood. This method looks to maximize the possibility of the occurence of the optimum value of some variable. We call it *optimizing the objective function with respect to this variable*. Here is the method:
 
