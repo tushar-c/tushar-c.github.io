@@ -65,6 +65,12 @@ where $$t_n$$ is either $$0$$ or $$1$$, $$y_n$$ is our prediction. We write down
 
 $$ L(X) = \prod_{n=1}^N p(x_n) = \prod_{n=1}^N {y_n}^{t_n} ({1 - y_n}^{1 - t_n}) $$
 
+If we take the negative logarithm of this above equation, and noting the two properties:
+
+**1. $$log(xy) = log(x) + log(y)$$**
+
+**2. a^x = e^{x\log(a)}**
+
 
 
 The problem to pose here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of Maximum Likelihood. This method looks to maximize the possibility of the occurence of the optimum value of some variable. We call it *optimizing the objective function with respect to this variable*. Here is the method:
