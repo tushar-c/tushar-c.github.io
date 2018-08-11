@@ -108,4 +108,4 @@ Using this, the last piece required is the Hessian, which can be obtained by dif
 
 $$H = \nabla\nabla E(w) = \sum_{n=1}^N y_n(1 - y_n){x_n}{x_n}^T = {X^T}RX$$
 
-Here, $$R$$ is a diagonal matrix (all entries not on the diagonal are zero. Mathematically, $$R_(i, j) = 0 if i \neq j$$.
+Here, $$R$$ is a diagonal matrix (all entries not on the diagonal are zero. Mathematically, $$R_(i, j) = 0$$ if $$i \neq j$$.
