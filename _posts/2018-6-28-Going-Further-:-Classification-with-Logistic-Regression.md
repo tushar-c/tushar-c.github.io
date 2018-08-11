@@ -49,6 +49,8 @@ This function is called the *cross-entropy* error function and is given by:
 
 $$-\sum_{n=1}^N {t_n}\log(y_n) + {1 - t_n}\log(1 - y_n)$$
 
+Here the notation is the same as above, except that $$y_n = f($${w^T}x + b$$)$$ and $$f$$ is the logistic sigmoid function.
+
 
 The problem to pose here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of Maximum Likelihood. This method looks to maximize the possibility of the occurence of the optimum value of some variable. We call it *optimizing the objective function with respect to this variable*. Here is the method:
 
