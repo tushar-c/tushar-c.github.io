@@ -37,4 +37,16 @@ So, what does the property of always being in the interval $$[0,1]$$ mean to us?
 
 ## Posing The Problem
 
+Remember that last time the error function we minimized was the sum-of-squares error function given by:
+
+$$\frac{1}{2}\sum_{n=1}^N (y_n - t_n)^2 $$
+
+In the case of the classification problem, it is easy to see that this function is not *descriptive* as we would like. As now the labels and our predictions are going to be one of two possible values, either $$0$$ or $$1$$. So that the terms in the above sum will be either $$0$$ or $$1$$ (make sure you convince yourself of this). We therefore use a different function to measure the error.
+
+This function is called the *cross-entropy* error function and is given by:
+
+$$-\sum_{n=1}^N ({t_n}\log(y_n) + {1 - t_n}\log(1 - y_n))^2$$
+
+
+The problem to pose here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of Maximum Likelihood. This method looks to maximize the possibility of the occurence of the optimum value of some variable. We call it *optimizing the objective function with respect to this variable*. Here is the method:
 
