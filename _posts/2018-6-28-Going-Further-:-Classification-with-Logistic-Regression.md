@@ -127,3 +127,7 @@ $$w^{new} = w^{old} - ({X^TRX})^{-1}{X^T}(y-t)$$
 We have to repeat this step some finite number of times. In this case, we replace $$new$$ by $$N$$, and $$old$$ by $$N - 1$$. 
 
 ## And that's it!##
+
+Now, we can finally implement this solution in code!
+
+## Implementing The Solution In Code
