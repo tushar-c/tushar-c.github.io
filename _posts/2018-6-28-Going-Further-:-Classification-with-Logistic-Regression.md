@@ -115,3 +115,11 @@ Here, $$R$$ is a diagonal matrix (all entries not on the diagonal are zero. Math
 $$R_{nn} = f_n(1 - f_n)$$
 
 where $$f_n$$ = $$f(a_n)$$
+
+Finally, the last step just involves putting these terms together in the *Newton-Raphson Method*, which, recall, was:
+
+$$w^{new} = w^{old} - {H}^{-1} \nabla E(w)$$
+
+Substituting into these equations the values we have just derived, we get:
+
+$$w^{new} = w^{old} - {X^TRX}^{-1}{X^T}(y-t)$$
