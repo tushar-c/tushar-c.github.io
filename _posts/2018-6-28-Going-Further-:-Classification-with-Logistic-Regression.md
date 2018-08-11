@@ -94,6 +94,7 @@ Here, we take an *iterative approach*, in which we do not solve the whole proble
 
 $$w^{new} = w^{old} - {H}^{-1}\nabla E(w)$$
 
+Where $$\nabla E(w)$$ is the gradient of the error function, which we have derived above. $${H}^{-1}$$ is the inverse of the **Hessian Matrix**. This matrix contains the second derivatives of the error function $$E$$ with respect to $$w$$.
 
 
 
