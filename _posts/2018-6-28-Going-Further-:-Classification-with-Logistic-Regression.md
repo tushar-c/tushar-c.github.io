@@ -63,7 +63,7 @@ $$p(x_n) = {y_n}^{t_n} ({1 - y_n}^{1 - t_n})$$
 
 where $$t_n$$ is either $$0$$ or $$1$$, $$y_n$$ is our prediction. We write down the *Likelihood function*, this is the product of the above term, just for all $$N$$ terms in the dataset:
 
-$$ L(X) = \prod_{n=1}^N p(x_n) = \prod_{n=1}^N {y_n}^(t_n){1 - y_n}^(1 - t_n) $$
+$$ L(X) = \prod_{n=1}^N p(x_n) = \prod_{n=1}^N {y_n}^{t_n} ({1 - y_n}^{1 - t_n}) $$
 
 
 
