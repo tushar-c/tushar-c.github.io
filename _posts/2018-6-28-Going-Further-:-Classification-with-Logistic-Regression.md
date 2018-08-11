@@ -77,7 +77,7 @@ Here **X** denotes the whole dataset consisting of all examples $$x_n$$. If we t
 
 we get:
 
-$$L(X) = -\sum_{n=1}^N {t_n}\log(y_n) + {1 - t_n}\log(1 - y_n)$$
+$$L(X) = -\sum_{n=1}^N {t_n}\log(y_n) + (1 - t_n)\log(1 - y_n)$$
 
 
 
