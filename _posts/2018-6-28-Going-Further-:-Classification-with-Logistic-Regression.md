@@ -103,3 +103,9 @@ We can write $$\nabla E(w)$$ in a vectorized form, such as this:
 $$\nabla E(w) = (y - t)X$$
 
 Here, we have collected all $$y_n$$ and $$t_n$$ in the vectors $$y$$ and $$t$$ respectively. Also, we collected all input vectors $$x_n$$ into a single matrix $$X$$.
+
+Using this, the last piece required is the Hessian, which can be obtained by differentiating the immediately above equation once more with respect to $$w$$ to obtain:
+
+$$H = \nabla\nabla E(w) = \sum_{n=1}^N y_n(1 - y_n){x_n}{x_n}^T = {X^T}RX$$
+
+Here, $$R$$ is a diagonal matrix (all entries not on the diagonal are zero. Mathematically, $$R_(i, j) = 0 if i \neq j$$.
