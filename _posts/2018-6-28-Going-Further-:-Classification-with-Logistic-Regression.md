@@ -55,7 +55,7 @@ Here the notation is the same as above, except that $$y_n = f(a_n)$$, where $$a_
 
 **This is because minimizing the negative of something corresponds to maximizing its positive. So that when our error function, so defined, is minimized, our probability function tends to assign high probabilities to correct classes.**
 
-## Posing The Problem
+## Idea Of The Problem
 
 The problem to solve here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of *Maximum Likelihood*. 
 
