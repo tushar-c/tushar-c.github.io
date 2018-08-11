@@ -96,5 +96,10 @@ $$w^{new} = w^{old} - {H}^{-1}\nabla E(w)$$
 
 Where $$\nabla E(w)$$ is the gradient of the error function, which we have derived above. $${H}^{-1}$$ is the inverse of the **Hessian Matrix**. This matrix contains the second derivatives of the error function $$E$$ with respect to $$w$$.
 
+## We are very close to solving this problem, just a few more steps!
 
+We can write $$\nabla E(w)$$ in a vectorized form, such as this:
 
+$$\nabla E(w) = (y - t)X$$
+
+Here, we have collected all $$y_n$$ and $$t_n$$ in the vectors $$y$$ and $$t$$ respectively. Also, we collected all input vectors $$x_n$$ into a single matrix $$X$$.
