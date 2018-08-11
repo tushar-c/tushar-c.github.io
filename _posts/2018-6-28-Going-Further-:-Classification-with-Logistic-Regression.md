@@ -76,6 +76,7 @@ we get:
 $$ L(X) = \prod_{n=1}^N p(x_n) = \prod_{n=1}^N {y_n}^{t_n} ({1 - y_n}^{1 - t_n}) $$
 
 
+## Solving The Problem
 
 The problem to pose here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of Maximum Likelihood. This method looks to maximize the possibility of the occurence of the optimum value of some variable. We call it *optimizing the objective function with respect to this variable*. Here is the method:
 
