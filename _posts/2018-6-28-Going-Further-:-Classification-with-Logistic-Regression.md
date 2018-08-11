@@ -132,6 +132,6 @@ And we choose an initial value for $$w^{0}$$, say $$w^{0} = 0$$, the zero vector
 
 ## And that's it!##
 
-Now, we can finally implement this solution in code!
+Now, we can finally implement this algorithm in code!
 
 ## Implementing The Algorithm In Code
