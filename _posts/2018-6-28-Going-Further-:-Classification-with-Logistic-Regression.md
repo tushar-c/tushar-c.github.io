@@ -92,7 +92,7 @@ This is the function we have to minimize. Now, see that our function ##f## is no
 
 Here, we take an *iterative approach*, in which we do not solve the whole problem in *"one shot"* like we did with plain linear regression, but rather we solve the problem in a finite number of steps. The approach we use is called the *Newton-Raphson Method*. It has the simple but powerful formulation:
 
-$$w^(new) = w^(old) - {H}^(-1)\nabla E$$
+$$w^(new) = w^(old) - {H}^(-1)\nabla E(w)$$
 
 
 
