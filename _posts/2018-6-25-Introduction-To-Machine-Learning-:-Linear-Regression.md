@@ -39,7 +39,7 @@ In this case, the *Age, Height and Weight* are called the *'Features'*, and the 
 
 ## What is Linear Regression?
 
-Basically, Linear Regression, as the name suggests, involves linear equations, or lines. Regression refers to one of the two (of a few others) approaches to machine learning. Regression involves predicting *continuous values*, such as *salary*, *prices*, etc. A prediction in a Linear Regression model is given by $$y$$ , where $$ y = {w^T}x + b $$. 
+Basically, Linear Regression, as the name suggests, involves linear equations, or lines. Regression refers to one of the two (of a few others) approaches to machine learning. Regression involves predicting *continuous values*, such as *salary*, *prices*, etc. A prediction in a Linear Regression model is given by $$y$$ , where $$ y = {w^T}x + b $$. We will see the exact meanings of these terms below. 
 
 This is the basic terminology we need for now.
 
