@@ -1,4 +1,7 @@
-![Classification]({{site.baseurl}}/images/Bio_ANN.png)
+---
+published: false
+---
+![Classification]({{site.baseurl}}/images/Bio_Ann.png)
 
 
 ## Coming Soon...
