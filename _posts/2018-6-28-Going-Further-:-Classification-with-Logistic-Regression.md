@@ -122,4 +122,4 @@ $$w^{new} = w^{old} - {H}^{-1} \nabla E(w)$$
 
 Substituting into these equations the values we have just derived, we get:
 
-$$w^{new} = w^{old} - {X^TRX}^{-1}{X^T}(y-t)$$
+$$w^{new} = w^{old} - ({X^TRX}^{-1}){X^T}(y-t)$$
