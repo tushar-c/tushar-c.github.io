@@ -7,6 +7,8 @@ published: true
 
 ![Classification]({{site.baseurl}}/images/SheepClass.jpg)
 
+## Introduction To Logistic Regression
+
 In the last post we talked about Linear Regression, which is a technique of predicting numerical (more precisely, continuous) values given an input. Now, even though the name of the technique is Logistic Regression, it involves classification rather than regression. Classification, as the name suggests, involves placing a given input into of **1 of N** classes. 
 
 For eg: Predicting if a mail is spam or not; on 5 varying degrees of severity, which degree of a heart attack chance a patient has, etc.
@@ -15,7 +17,9 @@ When $$N = 2$$, we call it *binary classification*. Generally, for $$N > 3$$, we
 
 Recall that last time our predictions were given by $$y = {w^T}x + b$$. This was a continuous value. To extend this same prediction to predict one of two classes, we introduce a function that takes in any value and returns a value in the interval $$[0, 1]$$. This function is heavily used in machine learning and it is the **logistic sigmoid function**.
 
-This function is given by the formula:
+## Star Of The Show
+
+The logistic sigmoid function is given by the formula:
 
 $$ f(x) = \frac{1}{1 + e^{-x}}$$ 
 
@@ -28,5 +32,9 @@ Let's see what this function looks like, here it is:
 ![logistic_sigmoid]({{site.baseurl}}/images/sigmoid.png)
 
 See how it has an *S-shape*, it is a very useful property of this function.
+
+So, what does the property of always being in the interval $$[0,1]$$ mean to us? Well, it means that we can assign labels, or *class numbers* with the help of a threshold (usually = $0.5$). So that if $$y < 0.5$$, we assign class 0. Else if $$y >= 0.5$$, we assign class 1. But how can we use this function to make predictions by learning from data? We see this below.
+
+## Posing The Problem
 
 
