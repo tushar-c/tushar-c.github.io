@@ -57,6 +57,13 @@ The following small optional section describes how to obtain this function as a 
 
 ## (OPTIONAL) Derivation Of The Cross-Entropy Function:
 
+We start by noting that each of our prediction is going to be in one of two classes. So that we can write our probability as:
+
+$$p(x_n) = {y_n}^(t_n){1 - y_n}^(1 - t_n)$$
+
+where $$t_n$$ is either $$0$$ or $$1$$, $$y_n$$ is our prediction. We write down the *Likelihood function*, this is the product of the above term, just for all $$N$$ terms in the dataset:
+
+L(X) = \product_{n=1}^N p(x_n) = \product_{n=1}
 
 
 
