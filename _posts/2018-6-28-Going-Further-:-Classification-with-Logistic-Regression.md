@@ -21,4 +21,8 @@ or equivalently, by:
 
 $$ f(x) = \frac{e^x}{1 + e^x}$$
 
+Let's see what this function looks like, here it is:
+
+![logistic_sigmoid]({{site.baseurl}}/images/simgoid.png)
+
 
