@@ -47,7 +47,7 @@ In the case of the classification problem, it is easy to see that this function 
 
 This function is called the *cross-entropy* error function and is given by:
 
-$$-\sum_{n=1}^N {t_n}\log(y_n) + {1 - t_n}\log(1 - y_n)$$
+$$-\sum_{n=1}^N {t_n}\log(y_n) + (1 - t_n)\log(1 - y_n)$$
 
 Here the notation is the same as above, except that $$y_n = f(x_n)$$ but now $$f$$ is the logistic sigmoid function. We derive the cross entropy function below. If you are not instantly comfortable with all the details, don't worry, the key insight to take is this:
 
