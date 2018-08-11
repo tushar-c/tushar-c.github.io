@@ -45,7 +45,7 @@ In the case of the classification problem, it is easy to see that this function 
 
 This function is called the *cross-entropy* error function and is given by:
 
-$$-\sum_{n=1}^N ({t_n}\log(y_n) + {1 - t_n}\log(1 - y_n))^2$$
+$$-\sum_{n=1}^N {t_n}\log(y_n) + {1 - t_n}\log(1 - y_n)$$
 
 
 The problem to pose here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of Maximum Likelihood. This method looks to maximize the possibility of the occurence of the optimum value of some variable. We call it *optimizing the objective function with respect to this variable*. Here is the method:
