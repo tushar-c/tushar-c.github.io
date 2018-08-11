@@ -55,7 +55,9 @@ Here the notation is the same as above, except that $$y_n = f($${w^T}x + b$$)$$ 
 
 ## Solving The Problem
 
-The problem to solve here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of *Maximum Likelihood*. This method looks to maximize the possibility of the occurence of the optimum value of some variable. We call it *optimizing the objective function with respect to this variable*. Here is the method:
+The problem to solve here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of *Maximum Likelihood*. 
+
+This method looks to maximize the possibility of the occurence of the optimum value of some variable. We call it *optimizing the objective function with respect to this variable*. Here is the method:
 
 We start by noting that each of our prediction is going to be in one of two classes. So that we can write our probability as:
 
