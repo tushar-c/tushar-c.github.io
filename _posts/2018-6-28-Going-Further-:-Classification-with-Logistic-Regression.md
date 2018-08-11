@@ -100,7 +100,7 @@ Where $$\nabla E(w)$$ is the gradient of the error function, which we have deriv
 
 We can write $$\nabla E(w)$$ in a vectorized form, such as this:
 
-$$\nabla E(w) = (y - t)X$$
+$$\nabla E(w) = {X^T}(y - t)$$
 
 Here, we have collected all $$y_n$$ and $$t_n$$ in the vectors $$y$$ and $$t$$ respectively. Also, we collected all input vectors $$x_n$$ into a single matrix $$X$$.
 
