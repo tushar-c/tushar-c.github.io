@@ -124,7 +124,12 @@ Substituting into these equations the values we have just derived, we get:
 
 $$w^{new} = w^{old} - ({X^TRX})^{-1}{X^T}(y-t)$$
 
-We have to repeat this step some finite number of times. In this case, we replace $$new$$ by $$N$$, and $$old$$ by $$N - 1$$. 
+We have to repeat this step some finite number of times. In this case, we replace $$new$$ by $$N$$, and $$old$$ by $$N - 1$$. The update steps then become:
+
+$$w^{N} = w^{N - 1} - ({X^TRX})^{-1}{X^T}(y-t)$$
+
+And we choose an initial value for $$w^{0}$$, say $$w^{0} = 0$$, the zero vector.
+
 
 ## And that's it!##
 
