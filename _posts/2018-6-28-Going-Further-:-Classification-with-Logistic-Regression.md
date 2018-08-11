@@ -49,8 +49,7 @@ This function is called the *cross-entropy* error function and is given by:
 
 $$-\sum_{n=1}^N {t_n}\log(y_n) + {1 - t_n}\log(1 - y_n)$$
 
-Here the notation is the same as above, except that $$y_n = f($${w^T}x + b$$)$$ and $$f$$ is the logistic sigmoid function. We derive the cross entropy function below.
-
+Here the notation is the same as above, except that $$y_n = f($${w^T}x + b$$)$$ and $$f$$ is the logistic sigmoid function. We derive the cross entropy function below. If you are not instantly comfortable with all the details, don't worry, the key insight to take is this:
 
 **In Machine Learning, it is always a good idea to write the error as the negative of our probability assignment function. This is because minimizing the negative of something corresponds to maximizing its positive. So that when our error function, so defined, is minimized, our probability function tends to assign high probabilities to correct classes.**
 
