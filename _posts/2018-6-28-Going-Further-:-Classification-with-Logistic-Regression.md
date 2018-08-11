@@ -73,7 +73,7 @@ If we take the negative logarithm of this above equation, and noting the two pro
 
 we get:
 
-$$ L(X) = \prod_{n=1}^N p(x_n) = \prod_{n=1}^N {y_n}^{t_n} ({1 - y_n}^{1 - t_n}) $$
+$$L(X) = -\sum_{n=1}^N {t_n}\log(y_n) + {1 - t_n}\log(1 - y_n)$$
 
 
 ## Solving The Problem
