@@ -134,4 +134,4 @@ And we choose an initial value for $$w^{0}$$, say $$w^{0} = 0$$, the zero vector
 
 Now, we can finally implement this solution in code!
 
-## Implementing The Solution In Code
+## Implementing The Algorithm In Code
