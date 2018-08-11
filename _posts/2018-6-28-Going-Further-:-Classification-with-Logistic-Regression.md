@@ -41,6 +41,8 @@ Remember that last time the error function we minimized was the sum-of-squares e
 
 $$\frac{1}{2}\sum_{n=1}^N (y_n - t_n)^2 $$
 
+Where $$t_n$$ is the label for the n-th training example and $$y_n$$ is our prediction for the n-th training example.
+
 In the case of the classification problem, it is easy to see that this function is not *descriptive* as we would like. As now the labels and our predictions are going to be one of two possible values, either $$0$$ or $$1$$. So that the terms in the above sum will be either $$0$$ or $$1$$ (make sure you convince yourself of this). We therefore use a different function to measure the error.
 
 This function is called the *cross-entropy* error function and is given by:
