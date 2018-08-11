@@ -55,7 +55,7 @@ Here the notation is the same as above, except that $$y_n = f(a_n)$$, where $$a_
 
 **This is because minimizing the negative of something corresponds to maximizing its positive. So that when our error function, so defined, is minimized, our probability function tends to assign high probabilities to correct classes.**
 
-## Solving The Problem
+## Posing The Problem
 
 The problem to solve here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of *Maximum Likelihood*. 
 
@@ -82,6 +82,13 @@ $$L(X) = -\sum_{n=1}^N {t_n}\log(y_n) + (1 - t_n)\log(1 - y_n)$$
 Now, if we take the gradient of this function with respect to $$w$$ (remember that $$y_n = f(a_n)$$, $$a_n = {w}^T{x_n} + b$$), and rearrange, we get:
 
 $$\nabla(L(X)) = \sum_{n=1}^N (y_n - t_n)x_n$$
+
+
+## Solving The Problem
+
+This is the function we have to minimize. Now, see that our function ##f## is no longer a *linear function*, but a *non-linear function*, given by the *logistic sigmoid*. The surface of the function is now like a landscape, with many mountains (local maxima) and valleys (local minima). So, simply setting the above equation to zero won't give us our answer, we need another approach.
+
+Here, we ta
 
 
 
