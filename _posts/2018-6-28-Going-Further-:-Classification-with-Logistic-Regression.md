@@ -130,7 +130,6 @@ $$w^{N} = w^{N - 1} - ({X^TRX})^{-1}{X^T}(y-t)$$
 
 And we choose an initial value for $$w^{0}$$, say $$w^{0} = 0$$, the zero vector.
 
-
 ## And that's it!##
 
 Now, we can finally implement this solution in code!
