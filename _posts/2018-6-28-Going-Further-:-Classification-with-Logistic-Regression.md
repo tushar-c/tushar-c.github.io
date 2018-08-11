@@ -65,11 +65,15 @@ where $$t_n$$ is either $$0$$ or $$1$$, $$y_n$$ is our prediction. We write down
 
 $$ L(X) = \prod_{n=1}^N p(x_n) = \prod_{n=1}^N {y_n}^{t_n} ({1 - y_n}^{1 - t_n}) $$
 
-If we take the negative logarithm of this above equation, and noting the two properties:
+If we take the negative logarithm of this above equation, and noting the two properties shown below:
 
 **1. $$log(xy) = log(x) + log(y)$$**
 
 **2. a^x = e^{x\log(a)}**
+
+we get:
+
+$$ L(X) = \prod_{n=1}^N p(x_n) = \prod_{n=1}^N {y_n}^{t_n} ({1 - y_n}^{1 - t_n}) $$
 
 
 
