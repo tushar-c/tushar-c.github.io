@@ -35,7 +35,7 @@ See how it has an *S-shape*, it is a very useful property of this function.
 
 So, what does the property of always being in the interval $$[0,1]$$ mean to us? Well, it means that we can assign labels, or *class numbers* with the help of a threshold (usually = $$0.5$$). So that if $$y < 0.5$$, we assign class 0. Else if $$y >= 0.5$$, we assign class 1. But how can we use this function to make predictions by learning from data? We see this below.
 
-## Posing The Problem
+## Idea Of The Problem
 
 Remember that last time the error function we minimized was the sum-of-squares error function given by:
 
@@ -55,7 +55,7 @@ Here the notation is the same as above, except that $$y_n = f(a_n)$$, where $$a_
 
 **This is because minimizing the negative of something corresponds to maximizing its positive. So that when our error function, so defined, is minimized, our probability function tends to assign high probabilities to correct classes.**
 
-## Idea Of The Problem
+## Posing The Problem
 
 The problem to solve here is going to an optimization problem, similar to the one in the last post. But we arrive at it through a slighly different route. Namely, through the idea of *Maximum Likelihood*. 
 
