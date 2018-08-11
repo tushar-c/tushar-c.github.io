@@ -69,7 +69,7 @@ If we take the negative logarithm of this above equation, and noting the two pro
 
 **1. $$log(xy) = log(x) + log(y)$$**
 
-**2. $$a^x = e^{xlog(a)}$$**
+**2. $$a^x = e^{x log(a)}$$**
 
 we get:
 
