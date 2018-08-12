@@ -87,10 +87,11 @@ Now, if we take the gradient of this function with respect to $$w$$ (remember th
 
 $$\nabla E(w) = \sum_{n=1}^N (y_n - t_n)x_n$$
 
+This is the function we have to minimize
 
 ## Solving The Problem
 
-This is the function we have to minimize. Now, see that our function $$f$$ is no longer a *linear function*, but a *non-linear function*, given by the *logistic sigmoid*. The surface of the error function is now like a landscape, with many mountains (local maxima) and valleys (local minima). So, simply setting the above equation to zero won't give us our answer, we need another approach.
+Now, see that our function $$f$$ is no longer a *linear function*, but a *non-linear function*, given by the *logistic sigmoid*. The surface of the error function is now like a landscape, with many mountains (local maxima) and valleys (local minima). So, simply setting the above equation to zero won't give us our answer, we need another approach.
 
 ![surface]({{site.baseurl}}/images/convex.png)
 
