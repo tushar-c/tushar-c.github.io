@@ -286,4 +286,4 @@ Lastly, at the end, we make predictions on the *test set*, record `accuracy`, an
 
 And this completes Logistic Regression! Congratulations if you made it this far! This is a very widely used technique.
 
-In the next post, we will start looking at ##Deep Learning and Artifical Neural Networks##, the buzz of the day. So Stay Tuned! Thanks for Reading and I'll see you next time!
+In the next post, we will start looking at **Deep Learning and Artifical Neural Networks**, the buzz of the day. So Stay Tuned! Thanks for Reading and I'll see you next time!
