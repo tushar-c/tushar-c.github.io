@@ -140,6 +140,7 @@ Now, we can finally implement this algorithm in code!
 ## Implementing The Algorithm In Code
 
 '''python
+
 import numpy as np 
 import sklearn.datasets
 import matplotlib.pyplot as plt
