@@ -87,7 +87,7 @@ Now, if we take the gradient of this function with respect to $$w$$ (remember th
 
 $$\nabla E(w) = \sum_{n=1}^N (y_n - t_n)x_n$$
 
-This is the function we have to minimize
+This is the function we have to minimize.
 
 ## Solving The Problem
 
