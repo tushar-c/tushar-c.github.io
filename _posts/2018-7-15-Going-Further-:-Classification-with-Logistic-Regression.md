@@ -75,9 +75,9 @@ Here **X** denotes the whole dataset consisting of all examples $$x_n$$. If we t
 
 **1. $$log(xy) = log(x) + log(y)$$**
 
-**2. $$a^x = e^{x log(a)}$$**
+**2. $$log(e^{x}) = e^{log(x)} = x$$**
 
-**3. $$log(e^{x}) = e^{log(x)} = x$$**
+**3. $$a^x = e^{x log(a)}$$**
 
 we get:
 
