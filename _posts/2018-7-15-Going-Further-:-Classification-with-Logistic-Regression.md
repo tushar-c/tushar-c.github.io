@@ -272,7 +272,7 @@ plt.xlabel("Iteration")
 plt.show()
 ```
 
-We have seen a lot of the bits in this code before. Here we use the `stable_log` function to keep a *lower* and an *upper* bound for the function, so that it does not result in *numerical overflow / underflow*. 
+We have seen a lot of this code before in the previous post. Here we use the `stable_log` function to keep a *lower* and an *upper* bound for the function, so that it does not result in *numerical overflow / underflow*. 
 
 The parameter `n_iterations` sets how many iterations we want of the method. The function `stable_sigmoid` also ensures *numerical stability*.
 
