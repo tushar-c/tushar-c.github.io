@@ -276,7 +276,9 @@ We have seen a lot of the bits in this code before. Here we use the `stable_log`
 
 The parameter `n_iterations` sets how many iterations we want of the method. The function `stable_sigmoid` also ensures *numerical stability*.
 
-The function `newton_raphson` applies the equation we derived before. The function `grad_logistic_sigmoid` usese the definition for the gradient that we derived. The function `prepare_predictions` *prepares* our vector of $$y_n$$ for all $$n$$ and then combines them all into a single vector $$y$$. The function `predictions` performs the actual *prediction*, it is also controlled by a parameter `classify` that assigns classes if it is set to `True`.
+The function `newton_raphson` applies the equation we derived before. The function `grad_logistic_sigmoid` usese the definition for the gradient that we derived. The function `prepare_predictions` *prepares* our vector of $$y_n$$ for all $$n$$ and then combines them all into a single vector $$y$$. 
+
+The function `predictions` performs the actual *prediction*, it is also controlled by a parameter `classify` that assigns classes if it is set to `True`.
 
 The function `cross_entropy_error` calculates the error using the definition for it we derived previously. While the function `update_matrices` recomputes $$\nablaE, H^{-1}$$ and $$R$$ for each new value of $$w$$. The whole training is initiated with the function `train`.
 
