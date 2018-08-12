@@ -139,7 +139,7 @@ Now, we can finally implement this algorithm in code!
 
 ## Implementing The Algorithm In Code
 
-'''python
+```python
 
 import numpy as np 
 import sklearn.datasets
@@ -268,4 +268,4 @@ print('accuracy = {} %'.format((correct / l_test.shape[0]) * 100))
 
 plt.plot(error_log)
 plt.show()
-'''
+```
