@@ -83,7 +83,7 @@ we get:
 
 $$E(w) = -\sum_{n=1}^N {t_n}\log(y_n) + (1 - t_n)\log(1 - y_n)$$
 
-Now, if we take the gradient of this function with respect to $$w$$ (remember that $$y_n = f(a_n)$$, $$a_n = {w}^T{x_n} + b$$), and rearrange, we get:
+Now, if we take the gradient of this function with respect to $$w$$ (remember that $$y_n = f(a_n)$$, where $$a_n = {w}^T{x_n} + b$$), and rearrange, we get:
 
 $$\nabla E(w) = \sum_{n=1}^N (y_n - t_n)x_n$$
 
