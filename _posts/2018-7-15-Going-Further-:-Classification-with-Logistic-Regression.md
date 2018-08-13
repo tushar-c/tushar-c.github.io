@@ -284,6 +284,6 @@ The function `cross_entropy_error` calculates the error using the definition for
 
 Lastly, at the end, we make predictions on the *test set*, record `accuracy`, and display `error` progress over time on a graph.
 
-And this completes Logistic Regression! Congratulations if you made it this far! This is a very widely used technique.
+And this completes Logistic Regression! Congratulations if you made it this far!
 
 In the next post, we will start looking at **Deep Learning and Artifical Neural Networks**, the buzz of the day. So Stay Tuned! Thanks for Reading and I'll see you next time!
