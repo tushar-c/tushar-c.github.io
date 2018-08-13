@@ -276,7 +276,7 @@ We have seen a lot of this code before in the previous post. Here we use the `st
 
 The parameter `n_iterations` sets how many iterations we want of the method. The function `stable_sigmoid` also ensures *numerical stability*.
 
-The function `newton_raphson` applies the equation we derived before. The function `grad_logistic_sigmoid` usese the definition for the gradient that we derived. The function `prepare_predictions` *prepares* our vector of $$y_n$$ for all $$n$$ and then combines them all into a single vector $$y$$. 
+The function `newton_raphson` applies the equation we derived before. The function `grad_logistic_sigmoid` uses the definition for the gradient that we derived. The function `prepare_predictions` *prepares* our vector of $$y_n$$ for all $$n$$ and then combines them all into a single vector $$y$$. 
 
 The function `predictions` performs the actual *prediction*, it is also controlled by a parameter `classify` that assigns classes if it is set to `True`.
 
