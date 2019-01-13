@@ -31,7 +31,7 @@ $$ f(x) = x$$
 
 Using this we can write the computation in the above image as:
 
-$$ y = f(\sum_{n=1}^3 (x_n * w_n)) = \sum_{n=1}^3 (x_n * w_n)$$
+$$ y = f(\sum_{n=1}^3 (x_n * w_n)) = \sum_{n=1}^3 (x_n * w_n) + b$$
 
 But *linearity* is boring, in fact, reality is *non-linear* and *noisy*. Here, we introduce *non-linearities* into the system by using other forms of $$f$$ as opposed to the identity.
 
