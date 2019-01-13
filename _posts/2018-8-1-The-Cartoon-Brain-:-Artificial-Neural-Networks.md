@@ -54,4 +54,6 @@ Now that we've seen the computation for a single *neuron*, you might think that 
 ![Classification]({{site.baseurl}}/images/tikz10.png)
 
 
+The first *layer* that you see is just the inputs, while the actual neurons are in the *first hidden layer*, where each neuron performs the computation defined by $$y$$ just above, and the final *layer* is the *output layer*.
+
 
