@@ -9,3 +9,14 @@ In this post we are going to talk about a learning technique that is, at least a
 
 ## A Few Points To Keep In Mind
 Before we begin describing the architecture and how it works, it is important to keep in mind *what the algorithms are really doing*. It is very easy to get hung up into the machinery involved and lose sight of the *big picture*. 
+
+As noted at the start, these models are really *cartoon* models (oversimplifications) of the actual neurons in our brains. While these models work very well in many domains in practice, their applicability in understanding the neurophysiological basis of things is limited.
+
+In this post we will use the term **neuron** to refer to an **artifical neuron**.
+
+
+## Let's Begin
+![Classification]({{site.baseurl}}/images/1_tMuOsWWRX3fR84xoSeJcAw.png)
+
+As the above image shows, in the most simple case, an artifi
+
