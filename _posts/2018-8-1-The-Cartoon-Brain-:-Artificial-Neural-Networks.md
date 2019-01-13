@@ -21,9 +21,9 @@ In this post we will use the term **neuron** to refer to an **artifical neuron**
 
 As the above image shows, in the most simple case, an artificial neuron has the basic computational structure of computing weighted sums of its inputs. In the above image, the output **y** is obtained from its inputs is obtained as follows:
 
-$$ y = \sum_{n=1}^3 (x_n * w_n) $$
+$$ y = \sum_{n=1}^3 (x_n * w_n) + b $$
 
-where the $$ w_n $$ , $$n = 1, 2, 3$$ denote the weights and similary the $$x_n$$ denote the inputs. This simple computation is really the basis for most ANNs.
+where the $$ w_n $$ , $$n = 1, 2, 3$$ denote the weights and similary the $$x_n$$ denote the inputs, the $$b$$ parameter denotes the *bias*, or the *offset*. This simple computation is really the basis for most ANNs.
 
 But notice how this computation is *linear*, in fact, the **activation function** $$f$$ as it is so called, is the identity in this case, which means:
 
@@ -45,7 +45,7 @@ $$ f(x) = \frac{1}{1 + e^{-x}}$$
 
 In our case, we can then write the computation of this neuron as:
 
-$$ y = f(\sum_{n=1}^3 (x_n * w_n)) = \frac{1}{1 + e^{\sum_{n=1}^3 (x_n * w_n)}}$$
+$$ y = f(\sum_{n=1}^3 (x_n * w_n)) = \frac{1}{1 + e^{\sum_{n=1}^3 (x_n * w_n) + b}}$$
 
 ## Multiple Neurons
 
@@ -58,4 +58,7 @@ The first *layer* that you see is just the inputs, while the actual neurons are 
 
 In this image, the *input layer* has three inputs, let us call them $$x_i, i = 1, 2, 3$$. The *hidden layer* has four neurons, let us call them $$n_i, i = 1, 2, 3, 4$$. The output is just one neuron, let us call it $$o$$.
 
+Thus we can describe the computation of each $$n_i$$ as shown below:
+
+$$ y = f(\sum_{n=1}^3 (x_n * w_n)) = \frac{1}{1 + e^{\sum_{n=1}^3 (x_n * w_n)}}$$
 
