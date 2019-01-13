@@ -70,9 +70,10 @@ The output is given by a similar computation:
 
 $$ o = f(\sum_{k=1}^4 (n_k * w_{ok} + b_o)) = \frac{1}{1 + e^{\sum_{k=1}^4 (n_k * w_{ok} + b_o}}$$ 
 
-## Backward Pass
-
 What we have just computed is the **forward pass**. This procedure takes the input and maps it to an output. Now to enforce *learning* we need a measure of *how much we currently know and how far do we have to go*.
+
+
+## Backward Pass
 
 For this purpose, we get an algorithm called **backpropagation**. This algorithm drives the procedure of the **backward pass**. The motive of the algorithm is to provide each neuron with a measure of *how much did it contribute to the overall error*, and thus by obtaining that measure, we can make changes to each neuron's weight and thus get closer and closer to the *true output*.
 
