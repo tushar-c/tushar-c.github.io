@@ -37,6 +37,8 @@ But *linearity* is boring, in fact, reality is *non-linear* and *noisy*. Here, w
 
 One *non-linearity* we have already seen is the *sigmoid* function in the post about logistic regression. There are other such functions used too, such as *tanh*, *relu*, etc. In fact, you can use a function of your own as long it is well behaved, code for *differentiable*.
 
+The property of *differentiability* is going to come in handy later.
+
 The logistic sigmoid is given by:
 
 $$ f(x) = \frac{1}{1 + e^{-x}}$$ 
