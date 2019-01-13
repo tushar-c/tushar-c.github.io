@@ -62,7 +62,7 @@ Thus we can describe the computation of each $$n_i$$ as shown below:
 
 $$ n_i = f(\sum_{k=1}^3 (x_k * w_(ik))) = \frac{1}{1 + e^{\sum_{k=1}^3 (x_k * w_k) + b_i}}$$ 
 
-where each neuron $$n_i$$ has its own *bias* parameter $$b_i$$.
+where each neuron $$n_i$$ has its own *bias* parameter $$b_i$$, and the $$w_(ik)$$ denotes the *weight* between neuron $$i$$ in the current layer and neuron $$j$$ in previous layer.
 
 The output is given by a similar computation:
 
