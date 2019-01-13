@@ -81,11 +81,19 @@ The motive of the algorithm is to provide each neuron with a measure of *how muc
 
 We first need a measure of error, for the simplest case we use the **MSE(Mean Squared Error)**, which is given by:
 
-$$ E = \sum_{k=1}^K (y_k - o_k)^2$$ 
+$$ E = \frac{1}{2}\sum_{k=1}^K (o_k - y_k)^2$$ 
 
 Here, $$y_k, k = 1, K = 1$$, is the difference (*error*) between our predictions and the true value for the inputs.
 
 It is here from where the *propagation* of error backwards begins, we compute a lot of partial derivatives, each computing the contribution of each neuron (namely, its *weight and bias*) to the overall error. We do this in each layer. Let's begin!
+
+At the output, the error is given by:
+
+$$\frac{\partial E}{\partial o_k} = \frac{\partial (\sum_{k=1}^K (o_k - y_k)^2)}{\partial o_k}$$
+
+which gives us:
+
+$$\frac{\partial E}{\partial o_k} = 2 * (o_k - y_k) * (1)$$ = 
 
 
 
