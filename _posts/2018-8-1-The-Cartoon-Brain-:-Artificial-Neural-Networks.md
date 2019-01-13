@@ -60,5 +60,7 @@ In this image, the *input layer* has three inputs, let us call them $$x_i, i = 1
 
 Thus we can describe the computation of each $$n_i$$ as shown below:
 
-$$ y = f(\sum_{n=1}^3 (x_n * w_n)) = \frac{1}{1 + e^{\sum_{n=1}^3 (x_n * w_n)}}$$
+$$ n_i = f(\sum_{k=1}^3 (x_k * w_k)) = \frac{1}{1 + e^{\sum_{k=1}^3 (x_k * w_k) + b_i}}$$ 
+
+where each neuron $$n_i$$ has its own *bias* parameter.
 
