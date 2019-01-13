@@ -33,5 +33,9 @@ Using this we can write the computation in the above image as:
 
 $$ y = f(\sum_{n=1}^3 (x_n * w_n)) $$
 
+But *linearity* is boring, in fact, reality is *non-linear* and *noisy*. Here, we introduce *non-linearities* into the system by using other forms of $$f$$ as opposed to the identity.
+
+One *non-linearity* we have already seen is the *sigmoid* function in the post about logistic regression. There are other such functions used too, such as *tanh*, *relu*, etc. In fact, you can use a function of your own as long it is well behaved, code for *differentiable*.
+
 
 
