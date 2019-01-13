@@ -85,7 +85,7 @@ $$ E = \sum_{k=1}^K (y_k - o_k)^2$$
 
 Here, $$y_k, k = 1, K = 1$$, is the difference (*error*) between our predictions and the true value for the inputs.
 
-It is here from where the *propagation* of error backwards begins, we compute a lot of partial derivatives, each computing the contribution of each neuron (namely, its *weight and bias*) to the overall error. We do this in each layer.
+It is here from where the *propagation* of error backwards begins, we compute a lot of partial derivatives, each computing the contribution of each neuron (namely, its *weight and bias*) to the overall error. We do this in each layer. Let's begin!
 
 
 
