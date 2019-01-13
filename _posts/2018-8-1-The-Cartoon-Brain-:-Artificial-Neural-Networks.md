@@ -19,5 +19,10 @@ In this post we will use the term **neuron** to refer to an **artifical neuron**
 ## Let's Begin
 ![Classification]({{site.baseurl}}/images/1_tMuOsWWRX3fR84xoSeJcAw.png)
 
-As the above image shows, in the most simple case, an artifi
+As the above image shows, in the most simple case, an artificial neuron has the basic computational structure of computing weighted sums of its inputs. In the above image, the output **y** is obtained from its inputs is obtained as follows:
+
+$$ y = \sum_{n=1}^3 (x_n * w_n)^2 $$
+
+where the $$ w_n $$ , $$n = 1, 2, 3$$ denote the weights and similary the $$x_n$$ denote the inputs. 
+
 
