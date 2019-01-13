@@ -58,6 +58,8 @@ The first *layer* that you see is just the inputs, while the actual neurons are 
 
 In this image, the *input layer* has three inputs, let us call them $$x_i, i = 1, 2, 3$$. The *hidden layer* has four neurons, let us call them $$n_i, i = 1, 2, 3, 4$$. The output is just one neuron, let us call it $$o$$.
 
+## Forward Pass
+
 Thus we can describe the computation of each $$n_i$$ as shown below:
 
 $$ n_i = f(\sum_{k=1}^3 (x_k * w_ik)) = \frac{1}{1 + e^{\sum_{k=1}^3 (x_k * w_ik) + b_i}}$$ 
@@ -68,3 +70,8 @@ The output is given by a similar computation:
 
 $$ o = f(\sum_{k=1}^4 (n_k * w_ok + b_o)) = \frac{1}{1 + e^{\sum_{k=1}^4 (n_k * w_ok + b_o}}$$ 
 
+## Backward Pass
+
+What we have just computed is the **forward pass**. This procedure takes the input and maps it to an output. Now to enforce *learning* we need a measure of *how much we currently know and how far do we have to go*.
+
+For this purpose, we get an algorithm called **b
