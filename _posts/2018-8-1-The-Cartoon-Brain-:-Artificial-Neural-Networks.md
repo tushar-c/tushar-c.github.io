@@ -75,6 +75,8 @@ What we have just computed is the **forward pass**. This procedure takes the inp
 
 ## Backward Pass
 
-For this purpose, we get an algorithm called **backpropagation**. This algorithm drives the procedure of the **backward pass**. The motive of the algorithm is to provide each neuron with a measure of *how much did it contribute to the overall error*, and thus by obtaining that measure, we can make changes to each neuron's weight and thus get closer and closer to the *true output*.
+For this purpose, we get an algorithm called **backpropagation**. This algorithm drives the procedure of the **backward pass**. 
+
+The motive of the algorithm is to provide each neuron with a measure of *how much did it contribute to the overall error*, and thus by obtaining that measure, we can make changes to each neuron's weight and thus get closer and closer to the *true output*.
 
 
