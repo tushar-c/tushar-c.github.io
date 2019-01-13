@@ -51,7 +51,7 @@ $$ y = f(\sum_{n=1}^3 (x_n * w_n)) = \frac{1}{1 + e^{\sum_{n=1}^3 (x_n * w_n)}}$
 
 Now that we've seen the computation for a single *neuron*, you might think that the computational power of such a system is limited and indeed this is the case. However, we can easily this to multiple neurons, such as shown in the below image:
 
-![Classification]({{site.baseurl}}/images/tinkz10.png)
+![Classification]({{site.baseurl}}/images/tikz10.png)
 
 
 
