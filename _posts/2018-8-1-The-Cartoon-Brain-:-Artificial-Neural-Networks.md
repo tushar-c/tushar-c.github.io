@@ -56,4 +56,6 @@ Now that we've seen the computation for a single *neuron*, you might think that 
 
 The first *layer* that you see is just the inputs, while the actual neurons are in the *first hidden layer*, where each neuron performs the computation defined by $$y$$ just above, and the final *layer* is the *output layer*.
 
+In this image, the *input layer* has three inputs, let us call them $$x_i, i = 1, 2, 3$$. The *hidden layer* has four neurons, let us call them $$n_i, i = 1, 2, 3, 4$$. The output is just one neuron, let us call it $$o$$.
+
 
