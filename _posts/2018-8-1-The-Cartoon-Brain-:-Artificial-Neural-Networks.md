@@ -23,6 +23,15 @@ As the above image shows, in the most simple case, an artificial neuron has the 
 
 $$ y = \sum_{n=1}^3 (x_n * w_n) $$
 
-where the $$ w_n $$ , $$n = 1, 2, 3$$ denote the weights and similary the $$x_n$$ denote the inputs. 
+where the $$ w_n $$ , $$n = 1, 2, 3$$ denote the weights and similary the $$x_n$$ denote the inputs. This simple computation is really the basis for most ANNs.
+
+But notice how this computation is *linear*, in fact, the **activation function** $$f$$ as it is so called, is the identity in this case, which means:
+
+$$ f(x) = x$$
+
+Using this we can write the computation in the above image as:
+
+$$ y = f(\sum_{n=1}^3 (x_n * w_n)) $$
+
 
 
