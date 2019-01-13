@@ -37,5 +37,13 @@ But *linearity* is boring, in fact, reality is *non-linear* and *noisy*. Here, w
 
 One *non-linearity* we have already seen is the *sigmoid* function in the post about logistic regression. There are other such functions used too, such as *tanh*, *relu*, etc. In fact, you can use a function of your own as long it is well behaved, code for *differentiable*.
 
+The logistic sigmoid is given by:
+
+$$ f(x) = \frac{1}{1 + e^{-x}}$$ 
+
+In our case, we can then write the computation of this neuron as:
+
+$$ y = f(\sum_{n=1}^3 (x_n * w_n)) = \frac{1}{1 + e^{\sum_{n=1}^3 (x_n * w_n)}}$$
+
 
 
