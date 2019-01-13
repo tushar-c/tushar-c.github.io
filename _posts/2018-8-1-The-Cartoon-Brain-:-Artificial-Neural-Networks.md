@@ -66,5 +66,5 @@ where each neuron $$n_i$$ has its own *bias* parameter $$b_i$$.
 
 The output is given by a similar computation:
 
-$$ o = f(\sum_{k=1}^4 (n_k * w_k)) = \frac{1}{1 + e^{\sum_{k=1}^3 (x_k * w_k) + b_i}}$$ 
+$$ o = f(\sum_{k=1}^4 (n_k * w_(ok) + b_o)) = \frac{1}{1 + e^{\sum_{k=1}^4 (n_k * w_(ok) + b_o}}$$ 
 
