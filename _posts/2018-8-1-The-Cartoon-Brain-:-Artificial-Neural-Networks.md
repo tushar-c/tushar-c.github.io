@@ -79,4 +79,13 @@ For this purpose, we get an algorithm called **backpropagation**. This algorithm
 
 The motive of the algorithm is to provide each neuron with a measure of *how much did it contribute to the overall error*, and thus by obtaining that measure, we can make changes to each neuron's weight and thus get closer and closer to the *true output*.
 
+We first need a measure of error, for the simplest case we use the **MSE(Mean Squared Error)**, which is given by:
+
+$$ E = \sum_{k=1}^K (y_k - o_k)^2$$ 
+
+Here, $$y_k, k = 1, K = 1$$, is the difference (*error*) between our predictions and the true value for the inputs.
+
+It is here from where the *propagation* of error backwards begins, we compute a lot of partial derivatives, each computing the contribution of each neuron (namely, its *weight and bias*) to the overall error. We do this in each layer.
+
+
 
