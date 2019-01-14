@@ -89,7 +89,7 @@ It is here from where the *propagation* of error backwards begins, we compute a 
 
 Throught this derivation, there is really one equation and a small variation of it that helps us derive the required quantities, it is an application of the chain rule and is given by:
 
-$$\frac{\partial E}{\partial w_{ik}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial w_{ij}} $$
+$$\frac{\partial E}{\partial w_{ij}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial w_{ij}} $$
 
 where $$a_j$$ is given by:
 
