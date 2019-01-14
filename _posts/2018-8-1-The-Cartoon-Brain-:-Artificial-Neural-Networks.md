@@ -129,6 +129,10 @@ The other quantity is given by:
 
 $$\frac{\partial a_j}{\partial b_{j}} = \frac{\partial \sum_{i} (w_{ij} * x_{i}) + b_j)}{\partial b_{j}} = \frac{\partial b_j}{\partial b_{j}} = 1$$
 
+Now there is really one quantity left to calculate, the first quantity in both the equations, which actually gets divided into two cases and that's the *variant*.
+
+The first is where the *k-th neuron* is in the output layer, then:
+
 At the output, the error is given by:
 
 $$\frac{\partial E}{\partial o_k} = \frac{\partial (\sum_{k=1}^K (o_k - y_k)^2)}{\partial o_k}$$
