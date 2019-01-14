@@ -115,5 +115,5 @@ which gives us:
 
 $$\frac{\partial E}{\partial o_k} = 2 * \frac{1}{2}* (o_k - y_k) * (1) = (o_k - y_k) $$
 
-Now this is good, but what if we wanted the error with respect to the output of a neuron midway in the network?
+
 
