@@ -151,7 +151,13 @@ which, when substituting the derived quantities, gives the full error w.r.t an o
 
 $$\frac{\partial E}{\partial w_{ij}} = (o_k - y_k) * f'(a_j) * x_i$$
 
-## Case
+and for the *bias* :
+
+$$\frac{\partial E}{\partial b_{j}} = (o_k - y_k) * f'(a_j) * 1 = (o_k - y_k) * f'(a_j)$$
+
+## Case 2
+
+The second is where the *k-th neuron* is in some intermediate layer, then:
 
 
 
