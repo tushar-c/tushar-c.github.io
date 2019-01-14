@@ -107,6 +107,10 @@ The two equations thus give us the contribution to the error by a neuron's weigh
 
 Let's start at the end!
 
+## Backpropagation Derivation
+
+
+
 At the output, the error is given by:
 
 $$\frac{\partial E}{\partial o_k} = \frac{\partial (\sum_{k=1}^K (o_k - y_k)^2)}{\partial o_k}$$
