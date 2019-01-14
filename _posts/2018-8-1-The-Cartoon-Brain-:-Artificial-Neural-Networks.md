@@ -198,5 +198,5 @@ then
 
 $$f'(x) = f(x) * (1 - f(x))$$
 
-
+This completes the backpropagation for a network with arbitrary number of layers and neurons!
 
