@@ -141,7 +141,7 @@ $$\frac{\partial E}{\partial o_k} = \frac{\partial (\sum_{k=1}^K (o_k - y_k)^2)}
 
 which gives us:
 
-$$\frac{\partial E}{\partial o_k} = 2 * \frac{1}{2}* (o_k - y_k) * (1) = (o_k - y_k) $$
+$$\frac{\partial E}{\partial o_k} = 2 * \frac{1}{2}* (o_k - y_k) * (1) = o_k - y_k $$
 
 In this case, the full error quantities for a neuron in the output layer become:
 
