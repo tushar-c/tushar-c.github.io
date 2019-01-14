@@ -105,8 +105,7 @@ $$\frac{\partial E}{\partial w_{ik}} = \frac{\partial E}{\partial o_j} * \frac{\
 
 The two equations thus give us the contribution to the error by a neuron's weight and its bias components.
 
-
-
+Let's start at the end!
 
 At the output, the error is given by:
 
