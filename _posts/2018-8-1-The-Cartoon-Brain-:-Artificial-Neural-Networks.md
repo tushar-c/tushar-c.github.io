@@ -159,5 +159,8 @@ $$\frac{\partial E}{\partial b_{j}} = (o_k - y_k) * f'(a_j) * 1 = (o_k - y_k) * 
 
 The second is where the *k-th neuron* is in some intermediate layer, then:
 
+$$\frac{\partial E}{\partial o_k} = \sum_{l} \frac{\partial E}{\partial a_l} * \frac{\partial a_l}{\partial o_k} = \frac{\partial E}{\partial o_l} * \frac{\partial o_l}{\partial a_l} * \frac{\partial a_l}{\partial o_k}$$
+
+
 
 
