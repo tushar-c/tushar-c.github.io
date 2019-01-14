@@ -185,7 +185,3 @@ becomes:
 $$\frac{\partial E}{\partial o_k} = \sum_{l} \frac{\partial E}{\partial a_l} * \frac{\partial a_l}{\partial o_k} = \sum_{l} \frac{\partial E}{\partial o_l} * \frac{\partial o_l}{\partial a_l} * w_{kl}$$
 
 Note the first term in the last above, if an $$l$$ is in the output layer, that partial derivative can be taken as in **Case 1**, otherwise, this same scheme in **Case 2** must be done for that neuron. In practice, we start from the end, and by the time we reach this part, we already have the required derivatives.
-
-
-
-
