@@ -95,6 +95,14 @@ where $$a_j$$ is given by:
 
 $$ a_j = \sum_{i} (w_{ij} * x_{i}) + b_j$$
 
+and $$o_j$$ is given by:
+
+$$o_j = f(a_j)$$
+
+the other equation is given by:
+
+$$\frac{\partial E}{\partial w_{ik}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial b_{j}} $$
+
 
 At the output, the error is given by:
 
