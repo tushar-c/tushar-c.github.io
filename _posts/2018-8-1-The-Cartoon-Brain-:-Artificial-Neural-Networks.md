@@ -85,7 +85,7 @@ $$ E = \frac{1}{2}\sum_{k=1}^K (o_k - y_k)^2$$
 
 Here, $$y_k, k = 1, K = 1$$, is the difference (*error*) between our predictions and the true value for the inputs.
 
-It is here from where the *propagation* of error backwards begins, we compute a lot of partial derivatives, each computing the contribution of each neuron (namely, its *weight and bias*) to the overall error. We do this in each layer. Let's begin!
+It is here from where the *propagation* of error backwards begins, we compute a lot of partial derivatives, each computing the contribution of each neuron (namely, its *weight and bias*) to the overall error. We do this in each layer.
 
 Throught this derivation, there is really one equation and a small variation of it that helps us derive the required quantities, it is an application of the chain rule and is given by:
 
@@ -102,6 +102,10 @@ $$o_j = f(a_j)$$
 the other equation is given by:
 
 $$\frac{\partial E}{\partial w_{ik}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial b_{j}} $$
+
+The two equations thus give us the contribution to the error by a neuron's weight and its bias components.
+
+
 
 
 At the output, the error is given by:
