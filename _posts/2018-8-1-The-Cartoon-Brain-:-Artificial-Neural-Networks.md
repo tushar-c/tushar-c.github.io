@@ -117,7 +117,9 @@ and
 
 $$\frac{\partial E}{\partial b_{j}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial b_{j}} $$
 
+Let us first compute the last two quantities in both the above equations, doing that we have:
 
+$$\frac{\partial o_j}{\partial a_j} = \frac{\partial f(a_j)}{\partial a_j} = f'(a_j) * \frac{\partial a_j}{\partial a_j} = f'(a_j)$$
 
 At the output, the error is given by:
 
