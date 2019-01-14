@@ -200,7 +200,7 @@ $$f'(x) = f(x) * (1 - f(x))$$
 
 This completes the backpropagation for a network with arbitrary number of layers and neurons!
 
-##Congratulations!
+## Congratulations!
 
 Though this derivation is long and can take some getting used to, remember that backpropagation is really just the chain rule.
 
