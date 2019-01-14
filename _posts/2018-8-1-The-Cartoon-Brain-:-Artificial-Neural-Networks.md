@@ -87,13 +87,22 @@ Here, $$y_k, k = 1, K = 1$$, is the difference (*error*) between our predictions
 
 It is here from where the *propagation* of error backwards begins, we compute a lot of partial derivatives, each computing the contribution of each neuron (namely, its *weight and bias*) to the overall error. We do this in each layer. Let's begin!
 
+Throught this derivation, there is really one equation and a small variation of it that helps us derive the required quantities, it is an application of the chain rule and is given by:
+
+$$\frac{\partial E}{\partial w_{ik}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial w_{ij}} $$
+
+where $$a_j$$ is given by:
+
+$$ a_j = \sum_{i} (w_{ij} * x_{i}) + b_j$$
+
+
 At the output, the error is given by:
 
 $$\frac{\partial E}{\partial o_k} = \frac{\partial (\sum_{k=1}^K (o_k - y_k)^2)}{\partial o_k}$$
 
 which gives us:
 
-$$\frac{\partial E}{\partial o_k} = 2 * \frac{1}{2}* (o_k - y_k) * (1) = 2 * (o_k - y_k) $$
+$$\frac{\partial E}{\partial o_k} = 2 * \frac{1}{2}* (o_k - y_k) * (1) = (o_k - y_k) $$
 
-
+Now this is good, but what if we wanted the error with respect to the output of a neuron midway in the network?
 
