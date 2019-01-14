@@ -127,7 +127,7 @@ $$\frac{\partial a_j}{\partial w_{ij}} = \frac{\partial \sum_{i} (w_{ij} * x_{i}
 
 The other quantity is given by:
 
-$$\frac{\partial a_j}{\partial b_{j}} = \frac{\partial \sum_{i} (w_{ij} * x_{i}) + b_j)}{\partial b_{j}} = \frac{\partial b_j)}{\partial b_{bj}} = 1$$
+$$\frac{\partial a_j}{\partial b_{j}} = \frac{\partial \sum_{i} (w_{ij} * x_{i}) + b_j)}{\partial b_{j}} = \frac{\partial b_j)}{\partial b_{j}} = 1$$
 
 At the output, the error is given by:
 
