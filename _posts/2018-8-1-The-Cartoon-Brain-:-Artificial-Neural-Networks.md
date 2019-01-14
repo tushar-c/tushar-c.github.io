@@ -109,6 +109,14 @@ Let's start at the end!
 
 ## Backpropagation Derivation
 
+So let's group the two required equations together again:
+
+$$\frac{\partial E}{\partial w_{ij}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial w_{ij}} $$
+
+and 
+
+$$\frac{\partial E}{\partial b_{j}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial b_{j}} $$
+
 
 
 At the output, the error is given by:
