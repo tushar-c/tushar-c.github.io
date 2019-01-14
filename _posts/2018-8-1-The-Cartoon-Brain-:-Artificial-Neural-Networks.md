@@ -101,7 +101,7 @@ $$o_j = f(a_j)$$
 
 the other equation is given by:
 
-$$\frac{\partial E}{\partial w_{ik}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial b_{j}} $$
+$$\frac{\partial E}{\partial b_{j}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial b_{j}} $$
 
 The two equations thus give us the contribution to the error by a neuron's weight and its bias components.
 
