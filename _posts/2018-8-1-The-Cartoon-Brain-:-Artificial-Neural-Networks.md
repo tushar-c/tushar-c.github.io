@@ -162,5 +162,26 @@ The second is where the *k-th neuron* is in some intermediate layer, then:
 $$\frac{\partial E}{\partial o_k} = \sum_{l} \frac{\partial E}{\partial a_l} * \frac{\partial a_l}{\partial o_k} = \frac{\partial E}{\partial o_l} * \frac{\partial o_l}{\partial a_l} * \frac{\partial a_l}{\partial o_k}$$
 
 
+where the sum over $$l$$ is over all neurons that receive input from neuron $$k$$. Also of interest is the quantity:
+
+$$\frac{\partial a_l}{\partial o_k} = w_{kl}$$
+
+this is because the sum $$a_l$$ in a neuron $$l$$ that receives input from neuron $$k$$ is given by:
+
+$$ a_l = \sum_{l} (w_{il} * o_{l}) + b_l$$
+
+and so, the quantity: 
+
+$$\frac{\partial a_l}{\partial o_k} = \frac{\partial \sum_{l} (w_{kl} * o_{l}) + b_l}{\partial o_k} = w_{kl}$$
+
+is obtained.
+
+We have derived rest of the quantities already, and so putting these together we get the equation for the weights:
+
+$$\frac{\partial E}{\partial o_k} = \sum_{l} \frac{\partial E}{\partial a_l} * \frac{\partial a_l}{\partial o_k} = \frac{\partial E}{\partial o_l} * \frac{\partial o_l}{\partial a_l} * \frac{\partial a_l}{\partial o_k}$$
+
+becomes:
+
+$$\frac{\partial E}{\partial o_k} = \sum_{l} \frac{\partial E}{\partial a_l} * \frac{\partial a_l}{\partial o_k} = \frac{\partial E}{\partial o_l} * \frac{\partial o_l}{\partial a_l} * w_{kl}$$
 
 
