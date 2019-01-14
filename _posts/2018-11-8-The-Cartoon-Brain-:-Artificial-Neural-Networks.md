@@ -199,3 +199,16 @@ then
 $$f'(x) = f(x) * (1 - f(x))$$
 
 This completes the backpropagation for a network with arbitrary number of layers and neurons!
+
+##Congratulations!
+
+Though this derivation is long and can take some getting used to, remember that backpropagation is really just the chain rule.
+
+Also, remember that while these networks with the help of backpropagation and a lot of data can find patterns, they are not very useful for understanding neurophysiological basis of cognition. It has been said that *The brain does not do backpropagation*.
+
+With that, let us end this post. In the next post we are going to implement a neural network in code and see it in action. 
+
+Thanks For Reading! See you next time!
+
+
+
