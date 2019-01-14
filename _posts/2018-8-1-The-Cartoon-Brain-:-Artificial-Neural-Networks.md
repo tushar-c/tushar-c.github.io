@@ -131,6 +131,8 @@ $$\frac{\partial a_j}{\partial b_{j}} = \frac{\partial \sum_{i} (w_{ij} * x_{i})
 
 Now there is really one quantity left to calculate, the first quantity in both the equations, which actually gets divided into two cases and that's the *variant*.
 
+## Case 1
+
 The first is where the *k-th neuron* is in the output layer, then:
 
 At the output, the error is given by:
@@ -140,6 +142,16 @@ $$\frac{\partial E}{\partial o_k} = \frac{\partial (\sum_{k=1}^K (o_k - y_k)^2)}
 which gives us:
 
 $$\frac{\partial E}{\partial o_k} = 2 * \frac{1}{2}* (o_k - y_k) * (1) = (o_k - y_k) $$
+
+In this case, the full error quantities for a neuron in the output layer become:
+
+$$\frac{\partial E}{\partial w_{ij}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial w_{ij}} $$ 
+
+which, when substituting the derived quantities, gives:
+
+$$\frac{\partial E}{\partial w_{ij}} = (o_k - y_k) * f'(a_j) * x_i$$
+
+## Case
 
 
 
