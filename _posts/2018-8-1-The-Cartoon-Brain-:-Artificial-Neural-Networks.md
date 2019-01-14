@@ -125,6 +125,10 @@ This quantity is the second equation is both the required equations, so we need 
 
 $$\frac{\partial a_j}{\partial w_{ij}} = \frac{\partial \sum_{i} (w_{ij} * x_{i}) + b_j)}{\partial w_{ij}} = x_i$$
 
+The other quantity is given by:
+
+
+
 At the output, the error is given by:
 
 $$\frac{\partial E}{\partial o_k} = \frac{\partial (\sum_{k=1}^K (o_k - y_k)^2)}{\partial o_k}$$
