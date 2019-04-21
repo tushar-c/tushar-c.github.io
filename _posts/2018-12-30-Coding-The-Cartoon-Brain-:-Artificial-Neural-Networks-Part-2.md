@@ -83,7 +83,17 @@ def forward(x, y, weights, f):
 
 Because each layer has a single weight matrix, `len(weights)` gives us the number of layers. `affines` refers to the $$ a_l $$, while transforms refers to $$ o_l $$, we cache both of them. $$f$$ refers to the *activation function* used.
 
-The loss in vectorized form can be written as
+The loss in vectorized form can be written as here.
+
+```
+def mse(y, pred):
+	error = y - pred
+    loss = np.sum(error.T, error) / 2
+    return loss[0][0]
+```
+
+Simple, in line with the equation for the **MSE** above, with the two zero indices present for better presentation in the output.
+
 
 
 
