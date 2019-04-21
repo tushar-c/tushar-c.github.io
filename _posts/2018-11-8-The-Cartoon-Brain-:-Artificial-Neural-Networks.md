@@ -172,7 +172,7 @@ $$ a_l = \sum_{i} (w_{il} * o_{i}) + b_l$$
 
 and so, the quantity: 
 
-$$\frac{\partial a_l}{\partial o_k} = \frac{\partial \sum_{l} (w_{kl} * o_{l}) + b_l}{\partial o_k} = w_{kl}$$
+$$\frac{\partial a_l}{\partial o_k} = \frac{\partial \sum_{i} (w_{il} * o_{i}) + b_l}{\partial o_k} = w_{kl}$$
 
 is obtained.
 
