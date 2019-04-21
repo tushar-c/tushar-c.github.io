@@ -41,6 +41,13 @@ This is just our forward pass! So that if there are $$L$$ layers in the network,
 $$ a_l = W_l o_{l - 1} $$
 $$ o_l = f(a_l) $$
 
+and then for the final output, $$ y_ = o_l$$, where $$ y_ $$ is our prediction and the ***MSE(Mean Squared Error)*** in the vectorized form becomes:
+
+$$ L(y_, y) = \frac{1}{2}(y_ - y)^T (y_ - y) $$
+
+where $$ y_ $$ is our prediction, $$y$$ is the true label. Keep in mind that $$L(y_, y)$$ is a scalar, or a real number.
+
+
 
 
 ## The Code
