@@ -114,7 +114,45 @@ And these are the backward equations! Now to update the gradients we use a simpl
 
 $$ w = w - \epsilon * \nabla{w} $$
 
+where $$ \epsilon $$, *epsilon*, is also referred to as the *learning rate*, usually a constant, but it can be a variable quantity.
 
+SGD can be implemented as shown below.
+
+```
+def sgd(weights, grad_weights, eps):
+    for n in range(len(weights)):
+        weights[n] = weights[n] - (grad_weights[n] * eps)
+    return weights
+```
+
+With that, the final function is the backpropagation method as shown below.
+
+```
+def backward(x, y, error, weights, affines, transforms, grad_f):
+    grads = []
+    g = error
+    N = len(weights)
+    for n in range(N - 1, -1, -1):
+        g = g * grad_f(affines[n])
+        grad = np.matmul(g, transforms[n].T)
+        grads.append(grad)
+        g = np.matmul(weights[n].T, g)
+    return [j for j in reversed(grads)]
+
+```
+
+Look at the code carefully, the code makes `grad` use `transforms[n]` while in the equation we had
+
+$$ \nabla_{W_l}{L} = g $  $ o_{l - 1}^T $$
+
+This is because `transforms` has one more element than `affines`, and that is the original input `x`.
+
+We also create random *10-dimensional data vectors* as inputs, and *real value random scalars* as labels.
+
+`EPOCHS` refers to the number of times we go through the whole dataset.
+
+
+We show the full code below.
 
 
 ## The Code
@@ -191,4 +229,11 @@ for e in range(EPOCHS):
 
     print('Epoch {} / {}; Loss {}'.format(e + 1, EPOCHS, epoch_loss / N))
 ```
+
+
+In this, `make_net` initializes the `weights`. Take not how `make_net` swaps the elements of the tuple passed to it as the arguments, this is because when we call `make_net` in the definition of `weights`, we use tuples of the form (`input_dimension`, `output_dimension`).
+
+## Conclusion
+
+And that's it! That is the backpropagation algorithm in code. Go through it more if you feel that you need to study this more, as it can take time to get used to this.
 
