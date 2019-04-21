@@ -45,6 +45,9 @@ where W_k is the matrix we were talking about, with each $$w_{ij}$$ in the matri
 This is just our forward pass! So that if there are $$L$$ layers in the network, we can do the following for $$l = 1, ..., L$$:
 
 $$ a_l = W_l o_{l - 1} $$
+
+and
+
 $$ o_l = f(a_l) $$
 
 and then for the final output, $$ y_ = o_l$$, where $$ y_ $$ is our prediction and the ***MSE(Mean Squared Error)*** in the vectorized form becomes:
