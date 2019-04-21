@@ -143,7 +143,7 @@ def backward(x, y, error, weights, affines, transforms, grad_f):
 
 Look at the code carefully, the code makes `grad` use `transforms[n]` while in the equation we had
 
-$$ \nabla_{W_l}{L} = g  o_{l - 1}^T $$
+$$ \nabla_{W_l}{L} = g o_{l - 1}^T $$
 
 This is because `transforms` has one more element than `affines`, and that is the original input `x`.
 
