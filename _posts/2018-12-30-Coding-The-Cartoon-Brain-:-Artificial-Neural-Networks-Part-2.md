@@ -104,8 +104,9 @@ $$ g = g \odot f'(a_l) $$
 
 where \odot is the element-wise multiplication operator for vectors, also known as the hadamard product. 
 
-$$ g = \nabla_{y}{L} = (y - t) $$
+$$ \nabla_{W_l}{L} = g o_{l - 1}^T $$
 
+$$ g = g \odot f'(a_l) $$
 
 ## The Code
 
