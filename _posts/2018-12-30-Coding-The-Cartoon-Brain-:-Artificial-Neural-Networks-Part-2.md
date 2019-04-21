@@ -131,7 +131,8 @@ def sgd(weights, grad_weights, eps):
 
 def mse(y, pred):
 	error = y - pred
-    return np.sum(error.T, error) / 2
+    loss = np.sum(error.T, error) / 2
+    return loss[0][0]
 
 
 N = 50
