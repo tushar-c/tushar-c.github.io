@@ -112,7 +112,9 @@ $$ g = W_{l}^T g $$
 
 And these are the backward equations! Now to update the gradients we use a simple and widely used algorithm called Stochastic Gradient Descent (SGD), which is based on a simple equation.
 
-$$ w = w - \epsilon * \nabla{w}
+$$ w = w - \epsilon * \nabla{w} $$
+
+
 
 
 ## The Code
