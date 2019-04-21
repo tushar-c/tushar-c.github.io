@@ -96,8 +96,11 @@ Simple, in line with the equation for the **MSE** above, with the two zero indic
 
 Through the same tricks used for forward pass, we can derive the equations for the backward pass as follows.
 
-$$ g = \nabla{L}$$
+$$ g = \nabla_{y}{L} = (y - t)$$
 
+then for layers $$ l = L, ..., 1$$ we do:
+
+$$ g = g \odot f'(a_l) $$
 
 
 ## The Code
