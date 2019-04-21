@@ -24,15 +24,17 @@ The vectorized form of backpropagation is really again just the chain rule along
 If we look at the equations for the forward pass, we can spot some patterns (pun intended!), and get some hints for the backward pass as well. Let's see what they are, by recalling the equations.
 
 
-$$ a_j = \sum_{i} (w_{ij} * x_{i}) + b_j$$
+$$ a_j = \sum_{i} (w_{ij} * o_{i}) + b_j$$
 $$ o_j = f(a_j)$$
 
-Seeing the above two equations, we can see that $$a_j$$ is really just a $dot product$ between the vectors $$ w_i $$ and $$ x_i $$, to which a vector $$b$$ is added. Remember that vector addition is element-wise.
+Seeing the above two equations, we can see that $$a_j$$ is really just a $dot product$ between the vectors $$ w_i $$ and $$ o_i $$, to which a vector $$b$$ is added. Remember that vector addition is element-wise.
 
-Also, f is again the sigmoid function applied element-wise.
+Also, f is again the sigmoid function applied element-wise. Now imagine if each $$ w_i $$ was sitting in the row of a matrix called $$W$$, and all the $$o_i$$ were stacked into a vector called $$o$$, then the above equations would become:
 
+$$ a_k = W_k o_{k - 1} $$
+$$ o_k = f(a_k) $$
 
-
+where W_k is the matrix we were talking about, with each $$w_{ij}$$ in the matrix connected weights from the $$i-th$$ neuron in the current layer ($$k$$) to the $$j-th$$ neuron in the previous layer ($$k-1$$).
 
 ## The Code
 
