@@ -13,6 +13,12 @@ Before we begin, we will need some helper functions, to reduce our workload, and
 
 For our purposes, we need only one script that we will just save into the same directory where we are going to create the file that will contain our code for this post. That required script can be found [here](https://github.com/tushar-c/MLProjects/blob/master/conv_utils.py)
 
+## Some Generalization
+
+In the previous post, we derived the backpropagation procedure in the non-vectorized form. However, numerical packages such as numpy make it very easy and efficient to implement these operations in vector form. We are going to understand that generalization, and then we will implement the final version in code.
+
+The vectorized form of backpropagation is really again just the chain rule along with clever tricks from matrix calculus and linear algebra. We're going to understand all of that here!
+
 ## The Code
 
 ```
