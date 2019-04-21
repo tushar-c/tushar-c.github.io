@@ -168,7 +168,7 @@ $$\frac{\partial a_l}{\partial o_k} = w_{kl}$$
 
 this is because the sum $$a_l$$ in a neuron $$l$$ that receives input from neuron $$k$$ is given by:
 
-$$ a_l = \sum_{l} (w_{il} * o_{l}) + b_l$$
+$$ a_l = \sum_{i} (w_{il} * o_{i}) + b_l$$
 
 and so, the quantity: 
 
