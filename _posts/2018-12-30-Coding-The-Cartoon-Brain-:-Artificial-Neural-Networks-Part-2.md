@@ -63,7 +63,7 @@ import numpy as np
 import conv_utils
 ```
 
-*numpy* is there as always, while conv_utils refers to the helper script we described earlier.
+`numpy` is there as always, while `conv_utils` refers to the helper script we described earlier.
 
 
 The forward pass can be defined now as shown.
