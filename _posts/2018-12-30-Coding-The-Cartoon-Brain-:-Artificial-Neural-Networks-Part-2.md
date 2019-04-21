@@ -104,7 +104,7 @@ $$ g = g \odot f'(a_l) $$
 
 where \odot is the element-wise multiplication operator for vectors, also known as the hadamard product. 
 
-$$ \nabla_{W_l}{L} = g o_{l - 1}^T $$
+$$ \nabla_{W_l}{L} = g $  $ o_{l - 1}^T $$
 
 this just above are the gradients, now what do we do with the gradients ? We'll see a simple algorithm to use these gradients in one line shortly.
 
