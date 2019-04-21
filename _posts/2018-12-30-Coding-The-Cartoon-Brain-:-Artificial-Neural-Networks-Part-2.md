@@ -102,6 +102,10 @@ then for layers $$ l = L, ..., 1$$ we do:
 
 $$ g = g \odot f'(a_l) $$
 
+where \odot is the element-wise multiplication operator for vectors, also known as the hadamard product. 
+
+$$ g = \nabla_{y}{L} = (y - t) $$
+
 
 ## The Code
 
