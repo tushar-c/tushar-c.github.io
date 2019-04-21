@@ -27,7 +27,7 @@ If we look at the equations for the forward pass, we can spot some patterns (pun
 $$ a_j = \sum_{i} (w_{ij} * x_{i}) + b_j$$
 $$ o_j = f(a_j)$$
 
-Seeing the above two equations, we can see that $$a_j$$ is really just a `dot product` between the vectors $$ w_i $$ and $$ x_i $$, to which a vector $$b$$ is added. Remember that vector addition is element-wise.
+Seeing the above two equations, we can see that $$a_j$$ is really just a $dot product$ between the vectors $$ w_i $$ and $$ x_i $$, to which a vector $$b$$ is added. Remember that vector addition is element-wise.
 
 Also, f is again the sigmoid function applied element-wise.
 
