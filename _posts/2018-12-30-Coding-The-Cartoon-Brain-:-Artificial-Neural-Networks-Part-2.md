@@ -83,6 +83,8 @@ def forward(x, y, weights, f):
 
 Because each layer has a single weight matrix, `len(weights)` gives us the number of layers. `affines` refers to the $$ a_l $$, while transforms refers to $$ o_l $$, we cache both of them. $$f$$ refers to the *activation function* used.
 
+The loss in vectorized form can be written as
+
 
 
 
@@ -128,7 +130,8 @@ def sgd(weights, grad_weights, eps):
 
 
 def mse(y, pred):
-    return np.sum(np.power(y - pred, 2)) / 2
+	error = y - pred
+    return np.sum(error.T, error) / 2
 
 
 N = 50
