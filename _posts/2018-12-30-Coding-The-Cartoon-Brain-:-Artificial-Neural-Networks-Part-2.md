@@ -235,5 +235,8 @@ In this, `make_net` initializes the `weights`. Take not how `make_net` swaps the
 
 ## Conclusion
 
-And that's it! That is the backpropagation algorithm in code. Go through it more if you feel that you need to study this more, as it can take time to get used to this.
+And that's it! That is the backpropagation algorithm in code. Go through it more if you feel that you need to study this more, as it can take time to get used to this. Next time we'll see a very exciting and applied field (it's a surprise) that has great potential and where Machine Learning and Signal Processing have great applications.
+
+I'll see you next time!
+
 
