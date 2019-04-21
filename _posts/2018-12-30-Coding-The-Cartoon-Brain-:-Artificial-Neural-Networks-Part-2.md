@@ -52,9 +52,9 @@ $$ o_l = f(a_l) $$
 
 and then for the final output, $$ y = o_l$$, where $$ y $$ is our prediction and the ***MSE(Mean Squared Error)*** in the vectorized form becomes:
 
-$$ L(y_, y) = \frac{1}{2}(y_ - y)^T (y_ - y) $$
+$$ L(y, t) = \frac{1}{2}(y - t)^T (y - t) $$
 
-where $$ y_ $$ is our prediction, $$y$$ is the true label. Keep in mind that $$L(y_, y)$$ is a scalar, or a real number.
+where $$ y $$ is our prediction, $$t$$ is the true label. Keep in mind that $$L(y, t)$$ is a scalar, or a real number.
 
 
 
