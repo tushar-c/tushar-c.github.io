@@ -50,7 +50,7 @@ and
 
 $$ o_l = f(a_l) $$
 
-and then for the final output, $$ y_ = o_l$$, where $$ y_ $$ is our prediction and the ***MSE(Mean Squared Error)*** in the vectorized form becomes:
+and then for the final output, $$ y = o_l$$, where $$ y $$ is our prediction and the ***MSE(Mean Squared Error)*** in the vectorized form becomes:
 
 $$ L(y_, y) = \frac{1}{2}(y_ - y)^T (y_ - y) $$
 
