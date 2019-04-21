@@ -11,7 +11,7 @@ In the previous post we talked about Artifical Neural Networks as cartoon models
 
 Before we begin, we will need some helper functions, to reduce our workload, and at the same time, to work reliably under numerical instability, as is often the case when doing large-scale mathematical problems with computers.
 
-For our purposes, we need only one script that we will just save into the same directory where we are going to create the file that will contain our code for this post. That required script can be found [here](https://github.com/tushar-c/MLProjects/blob/master/conv_utils.py)
+For our purposes, we need only one script that we will just save into the same directory where we are going to create the file that will contain our code for this post. That required script can be found [here].(https://github.com/tushar-c/MLProjects/blob/master/conv_utils.py)
 
 ## Some Generalization
 
