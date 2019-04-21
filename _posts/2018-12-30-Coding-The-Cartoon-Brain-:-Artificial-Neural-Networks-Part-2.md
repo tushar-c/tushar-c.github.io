@@ -21,6 +21,8 @@ The vectorized form of backpropagation is really again just the chain rule along
 
 ## Vectorizing Backpropagation
 
+
+
 ## The Code
 
 ```
@@ -29,7 +31,7 @@ import conv_utils
 
 
 def make_net(layers):
-    return [np.random.randn(w[0], w[1]) for w in layers]
+    return [np.random.randn(w[1], w[0]) for w in layers]
 
 
 def forward(x, y, weights, f):
@@ -70,9 +72,9 @@ N = 50
 eps = 0.05
 EPOCHS = 100
 
-weights = make_net([(100, 10), (150, 100), (80, 150), (40, 80), (10, 40), (2, 10)])
+weights = make_net([(10, 60), (60, 140), (140, 50), (50, 10), (10, 1)])
 samples = [np.random.randn(10, 1) for _ in range(N)]
-labels = [np.random.randn(2, 1) for _ in range(N)]
+labels = [np.random.randn(1, 1) for _ in range(N)]
 
 f = conv_utils.stable_sigmoid
 grad_f = conv_utils.sigmoid_gradient
@@ -92,6 +94,5 @@ for e in range(EPOCHS):
         weights = sgd(weights, weight_grads, eps)
 
     print('Epoch {} / {}; Loss {}'.format(e + 1, EPOCHS, epoch_loss / N))
-
 ```
 
