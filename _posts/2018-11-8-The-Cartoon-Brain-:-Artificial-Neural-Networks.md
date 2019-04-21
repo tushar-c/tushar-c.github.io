@@ -121,7 +121,7 @@ Let us first compute the last two quantities in both the above equations, doing 
 
 $$\frac{\partial o_j}{\partial a_j} = \frac{\partial f(a_j)}{\partial a_j} = f'(a_j) * \frac{\partial a_j}{\partial a_j} = f'(a_j)$$
 
-This quantity is the second equation is both the required equations, so we need two more quantities and we get that through:
+This quantity is the second equation in both the required equations, so we need two more quantities and we get that through:
 
 $$\frac{\partial a_j}{\partial w_{ij}} = \frac{\partial \sum_{i} (w_{ij} * x_{i}) + b_j}{\partial w_{ij}} = x_i$$
 
