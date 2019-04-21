@@ -94,7 +94,9 @@ def mse(y, pred):
 
 Simple, in line with the equation for the **MSE** above, with the two zero indices present for better presentation in the output.
 
+Through the same tricks used for forward pass, we can derive the equations for the backward pass as follows.
 
+$$ g = \nabla{L}$$
 
 
 
