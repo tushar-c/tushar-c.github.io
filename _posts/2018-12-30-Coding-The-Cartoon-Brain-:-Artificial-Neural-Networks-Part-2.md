@@ -21,6 +21,17 @@ The vectorized form of backpropagation is really again just the chain rule along
 
 ## Vectorizing Backpropagation
 
+If we look at the equations for the forward pass, we can spot some patterns (pun intended!), and get some hints for the backward pass as well. Let's see what they are, by recalling the equations.
+
+
+$$ a_j = \sum_{i} (w_{ij} * x_{i}) + b_j$$
+$$ o_j = f(a_j)$$
+
+Seeing the above two equations, we can see that $$a_j$$ is really just a `dot product` between the vectors $$ w_i $$ and $$ x_i $$, to which a vector $$b$$ is added. Remember that vector addition is element-wise.
+
+Also, f is again the sigmoid function applied element-wise.
+
+
 
 
 ## The Code
