@@ -56,6 +56,33 @@ $$ L(y, t) = \frac{1}{2}(y - t)^T (y - t) $$
 
 where $$ y $$ is our prediction, $$t$$ is the true label. Keep in mind that $$L(y, t)$$ is a scalar, or a real number.
 
+With these definitions, we can already implement half the code, but first we import two required libraries.
+
+```
+import numpy as np 
+import conv_utils
+```
+
+*numpy* is there as always, while conv_utils refers to the helper script we described earlier.
+
+
+The forward pass can be defined now as shown.
+
+```
+def forward(x, y, weights, f):
+    affines = []
+    transforms = [x]
+    a = x 
+    for w in range(len(weights)):
+        a = np.matmul(weights[w], a)
+        affines.append(a)
+        a = f(a)
+        transforms.append(a)
+    return affines, transforms
+```
+
+Because each layer has a single weight matrix, `len(weights)` gives us the number of layers. `affines` refers to the $$ a_l $$, while transforms refers to $$ o_l $$, we cache both of them. $$f$$ refers to the *activation function* used.
+
 
 
 
