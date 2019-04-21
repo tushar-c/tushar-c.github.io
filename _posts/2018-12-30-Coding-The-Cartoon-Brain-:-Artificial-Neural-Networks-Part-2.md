@@ -29,12 +29,19 @@ $$ o_j = f(a_j)$$
 
 Seeing the above two equations, we can see that $$a_j$$ is really just a $dot product$ between the vectors $$ w_i $$ and $$ o_i $$, to which a vector $$b$$ is added. Remember that vector addition is element-wise.
 
-Also, f is again the sigmoid function applied element-wise. Now imagine if each $$ w_i $$ was sitting in the row of a matrix called $$W$$, and all the $$o_i$$ were stacked into a vector called $$o$$, then the above equations would become:
+Also, $$f$$ is again the sigmoid function applied element-wise. Now imagine if each $$ w_i $$ was sitting in the row of a matrix called $$W$$, and all the $$o_i$$ were stacked into a vector called $$o$$, then the above equations would become:
 
 $$ a_k = W_k o_{k - 1} $$
 $$ o_k = f(a_k) $$
 
 where W_k is the matrix we were talking about, with each $$w_{ij}$$ in the matrix connected weights from the $$i-th$$ neuron in the current layer ($$k$$) to the $$j-th$$ neuron in the previous layer ($$k-1$$).
+
+This is just our forward pass! So that if there are $$L$$ layers in the network, we can do the following for $$l = 1, ..., L$$:
+
+$$ a_l = W_l o_{l - 1} $$
+$$ o_l = f(a_l) $$
+
+
 
 ## The Code
 
