@@ -143,7 +143,7 @@ def backward(x, y, error, weights, affines, transforms, grad_f):
 
 Look at the code carefully, the code makes `grad` use `transforms[n]` while in the equation we had
 
-$$ \nabla_{W_l}{L} = g $  $ o_{l - 1}^T $$
+$$ \nabla_{W_l}{L} = g  o_{l - 1}^T $$
 
 This is because `transforms` has one more element than `affines`, and that is the original input `x`.
 
@@ -238,5 +238,3 @@ In this, `make_net` initializes the `weights`. Take not how `make_net` swaps the
 And that's it! That is the backpropagation algorithm in code. Go through it more if you feel that you need to study this more, as it can take time to get used to this. Next time we'll see a very exciting and applied field (it's a surprise) that has great potential and where Machine Learning and Signal Processing have great applications.
 
 I'll see you next time!
-
-
