@@ -19,6 +19,8 @@ In the previous post, we derived the backpropagation procedure in the non-vector
 
 The vectorized form of backpropagation is really again just the chain rule along with clever tricks from matrix calculus and linear algebra. We're going to understand all of that here!
 
+## Vectorizing Backpropagation
+
 ## The Code
 
 ```
