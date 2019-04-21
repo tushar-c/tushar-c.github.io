@@ -188,7 +188,7 @@ Note the first term in the last equation above, if an $$l$$ is in the output lay
 
 Using this equation in the original equation for the weights gives:
 
-$$\frac{\partial E}{\partial w_{ij}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial w_{ij}} = (\sum_{l} \frac{\partial E}{\partial o_l} * \frac{\partial o_l}{\partial a_l} * w_{kl}) * f'(a_j) * x_i$$
+$$\frac{\partial E}{\partial w_{ij}} = \frac{\partial E}{\partial o_j} * \frac{\partial o_j}{\partial a_j} * \frac{\partial a_j}{\partial w_{ij}} = (\sum_{l} \frac{\partial E}{\partial o_l} * \frac{\partial o_l}{\partial a_l} * w_{kl}) * f'(a_j) * o_i$$
 
 Note that if $$f$$ is the sigmoid function given by:
 
