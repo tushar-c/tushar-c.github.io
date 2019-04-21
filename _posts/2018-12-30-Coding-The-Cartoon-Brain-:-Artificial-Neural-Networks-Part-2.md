@@ -27,7 +27,7 @@ If we look at the equations for the forward pass, we can spot some patterns (pun
 $$ a_j = \sum_{i} (w_{ij} * o_{i}) + b_j$$
 $$ o_j = f(a_j)$$
 
-Seeing the above two equations, we can see that $$a_j$$ is really just a $dot product$ between the vectors $$ w_i $$ and $$ o_i $$, to which a vector $$b$$ is added. Remember that vector addition is element-wise.
+Seeing the above two equations, we can see that $$a_j$$ is really just a *dot product* between the vectors $$ w_i $$ and $$ o_i $$, to which a vector $$b$$ is added. Remember that vector addition is element-wise.
 
 Also, $$f$$ is again the sigmoid function applied element-wise. Now imagine if each $$ w_i $$ was sitting in the row of a matrix called $$W$$, and all the $$o_i$$ were stacked into a vector called $$o$$, then the above equations would become:
 
