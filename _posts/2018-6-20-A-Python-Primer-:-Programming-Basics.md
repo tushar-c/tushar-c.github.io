@@ -207,12 +207,12 @@ Let's put this all together and see an example of a function that prints a nice 
 
 ```python
 >>> def introduction_generator(first_name): # define the function
-...     introduction = "Hi, my name is {} and I like football!".format(first_name) # do stuff with it
+...     introduction = "Hi, my name is {} and I like football!".format(first_name)
 ...     return introduction # return value
 ...
 >>> name = 'Tushar'
 >>> introduction_generator(name) # call the function
-'Hi, my name is Tushar and I like football!' # Isn't that nice!
+'Hi, my name is Tushar and I like football!'
 >>> 
 ```
 
@@ -225,10 +225,10 @@ As a last point, we can easily extend our function to have more than a single ar
 ...     introduction = "Hi, my name is {} {} and I like football!".format(first_name, last_name)
 ...     return introduction # return value
 ...
->>> first_name = 'Four-Eyed'
->>> last_name = 'Willy'
+>>> first_name = 'Tushar'
+>>> last_name = 'Chaturvedi'
 >>> introduction_generator(first_name, last_name) # call the function
-'Hi, my name is Four-Eyed Willy and I like football!' # :)
+'Hi, my name is Tushar Chaturvedi and I like football!' # :)
 >>> 
 ```
 
@@ -250,9 +250,9 @@ A list is a generalization of a variable. Where a variable stores a single value
 We can lists of other data types such as strings too.
 
 ```python
->>> names = ['fred', 'shaggy', 'scooby', 'jerry']
+>>> names = ['python', 'perl', 'c++', 'julia']
 >>> names
-['fred', 'shaggy', 'scooby', 'jerry']
+['python', 'perl', 'c++', 'julia']
 >>> 
 ```
 Moreover, we can even mix these data types! Here is another example:
