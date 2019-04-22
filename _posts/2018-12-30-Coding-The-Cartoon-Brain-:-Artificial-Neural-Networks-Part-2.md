@@ -68,7 +68,7 @@ import conv_utils
 
 The forward pass can be defined now as shown.
 
-```
+```python
 def forward(x, y, weights, f):
     affines = []
     transforms = [x]
