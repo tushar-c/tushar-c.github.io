@@ -85,7 +85,12 @@ Because each layer has a single weight matrix, `len(weights)` gives us the numbe
 
 The loss in vectorized form can be written as here.
 
-
+```
+def mse(y, t):
+	error = y - t
+    loss = np.matmul(error.T, error) / 2
+    return loss[0][0]
+```
 
 Simple, in line with the equation for the **MSE** above, with the two zero indices present for better presentation in the output.
 
@@ -191,8 +196,8 @@ def sgd(weights, grad_weights, eps):
     return weights
 
 
-def mse(y, pred):
-	error = y - pred
+def mse(y, t):
+	error = y - t
     loss = np.sum(error.T, error) / 2
     return loss[0][0]
 
