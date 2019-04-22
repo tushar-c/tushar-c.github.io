@@ -58,7 +58,7 @@ where $$ y $$ is our prediction, $$t$$ is the true label. Keep in mind that $$L(
 
 With these definitions, we can already implement half the code, but first we import two required libraries.
 
-```
+```python
 import numpy as np 
 import conv_utils
 ```
