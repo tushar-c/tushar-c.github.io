@@ -118,7 +118,7 @@ where $$ \epsilon $$, *epsilon*, is also referred to as the *learning rate*, usu
 
 SGD can be implemented as shown below.
 
-```
+```python
 def sgd(weights, grad_weights, eps):
     for n in range(len(weights)):
         weights[n] = weights[n] - (grad_weights[n] * eps)
