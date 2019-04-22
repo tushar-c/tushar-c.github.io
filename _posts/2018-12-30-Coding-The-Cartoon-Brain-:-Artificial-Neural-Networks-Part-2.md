@@ -85,7 +85,7 @@ Because each layer has a single weight matrix, `len(weights)` gives us the numbe
 
 The loss in vectorized form can be written as here.
 
-```
+```python
 def mse(y, t):
     error = y - t
     loss = np.matmul(error.T, error) / 2
