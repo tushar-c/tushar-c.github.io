@@ -87,7 +87,7 @@ The loss in vectorized form can be written as here.
 
 ```
 def mse(y, t):
-error = y - t
+    error = y - t
     loss = np.matmul(error.T, error) / 2
     return loss[0][0]
 ```
