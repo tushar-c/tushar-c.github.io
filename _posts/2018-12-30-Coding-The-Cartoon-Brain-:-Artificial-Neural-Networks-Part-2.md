@@ -127,7 +127,7 @@ def sgd(weights, grad_weights, eps):
 
 With that, the final function is the backpropagation method as shown below.
 
-```
+```python
 def backward(x, y, error, weights, affines, transforms, grad_f):
     grads = []
     g = error
