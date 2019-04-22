@@ -258,9 +258,9 @@ We can lists of other data types such as strings too.
 Moreover, we can even mix these data types! Here is another example:
 
 ```python
->>> names_and_ages = ['fred', 'shaggy', 18, 'jerry', 20, 10]
->>> names_and_ages
-['fred', 'shaggy', 18, 'jerry', 20, 10]
+>>> names_and_nums = ['python', 'perl', 18, 'c++', 20, 10]
+>>> names_and_nums
+['python', 'perl', 18, 'c++', 20, 10]
 >>> 
 ```
 We can thus mix different data types in a list, in any order.
@@ -271,10 +271,10 @@ Let us *iterate* (look at each element one by one) over a list and print its con
 >>> for entry in names_and_ages:
 ...     print(entry)
 ... 
-fred
-shaggy
+python
+perl
 18
-jerry
+c++
 20
 10
 >>> 
