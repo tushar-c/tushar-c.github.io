@@ -40,7 +40,7 @@ and
 
 $$ o_k = f(a_k) $$
 
-where W_k is the matrix we were talking about, with each $$w_{ij}$$ in the matrix connected weights from the $$i-th$$ neuron in the current layer ($$k$$) to the $$j-th$$ neuron in the previous layer ($$k-1$$).
+where W_k is the matrix we were talking about, with each $$w_{ij}$$ in the matrix connected weights from the $$i^{th}$$ neuron in the current layer ($$k$$) to the $$j^{th}$$ neuron in the previous layer ($$k-1$$).
 
 This is just our forward pass! So that if there are $$L$$ layers in the network, we can do the following for $$l = 1, ..., L$$:
 
