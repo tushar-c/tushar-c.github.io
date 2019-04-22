@@ -102,7 +102,7 @@ then for layers $$ l = L, ..., 1$$ we do:
 
 $$ g = g \odot f'(a_l) $$
 
-where \odot is the element-wise multiplication operator for vectors, also known as the hadamard product. 
+where $$ \odot $$ is the element-wise multiplication operator for vectors, also known as the hadamard product. 
 
 $$ \nabla_{W_l}{L} = g o_{l - 1}^T $$
 
