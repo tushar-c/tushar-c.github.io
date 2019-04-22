@@ -231,7 +231,9 @@ for e in range(EPOCHS):
 ```
 
 
-In this, `make_net` initializes the `weights`. Take note how `make_net` swaps the elements of the tuple passed to it as the arguments, this is because when we call `make_net` in the definition of `weights`, we use tuples of the form (`input_dimension`, `output_dimension`). Feel free to change the network structure and the code in general!
+In this, `make_net` initializes the `weights`. Take note how `make_net` swaps the elements of the tuple passed to it as the arguments, this is because when we call `make_net` in the definition of `weights`, we use tuples of the form (`input_dimension`, `output_dimension`).
+
+Feel free to change the network structure and the code in general!
 
 ## Conclusion
 
