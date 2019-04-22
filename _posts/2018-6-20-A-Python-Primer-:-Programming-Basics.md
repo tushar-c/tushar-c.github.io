@@ -308,9 +308,9 @@ As the name would strike a meaning, that very meaning is what a dictionary in Py
 Here is an example:
 
 ```python
->>> age_dictionary = {'bob':18, 'will':20, 'may':22, 'tuna':2}
+>>> age_dictionary = {'person1':18, 'person2':20, 'person3':22, 'person4':2}
 >>> age_dictionary
-{'bob': 18, 'will': 20, 'may': 22, 'tuna': 2}
+{'person': 18, 'person2': 20, 'person3': 22, 'person4': 2}
 >>> 
 ```
 This is a string where names have ages as values. The *:* (colon) indicates a separation. The entries to the left are keys, to the right are values. Each key-value pair is separated by commas.
@@ -318,25 +318,25 @@ This is a string where names have ages as values. The *:* (colon) indicates a se
 To access a value (analogous to finding a meaning), we do as shown:
 
 ```python
->>> age_dictionary['bob']
+>>> age_dictionary['person']
 18
 >>> 
 ```
 also
 
 ```python
->>> age_dictionary['tuna']
+>>> age_dictionary['person4']
 2
 >>> 
 ```
 We can even change the value associated with a key. Here's how:
 
 ```python
->>> age_dictionary['tuna'] = 200
->>> age_dictionary['tuna']
+>>> age_dictionary['person4'] = 200
+>>> age_dictionary['person4']
 200
 ```
-That tuna is really old !
+`person4` is really old !
 
 **Sets**
 
