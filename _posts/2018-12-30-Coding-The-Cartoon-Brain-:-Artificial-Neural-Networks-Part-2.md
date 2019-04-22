@@ -157,7 +157,7 @@ We show the full code below.
 
 ## The Code
 
-```
+```python
 import numpy as np 
 import conv_utils
 
