@@ -8,7 +8,7 @@ published: true
 
 This post is a little special. One of the main reasons is that I'm taking to writing after a year, as I managed to burn myself out completely in the past 6 months! I am glad for all the people who have taken the time out to read and review what I have to say on things I like, that was a big part of what has kept me writing. 
 
-This is the first time we have a post about an ongoing issue and not just something that's abstract, but something very real and something that can affect us all, either directly or indirectly. 
+This is the first time we have a post about an ongoing issue and not just something that's abstract, but something very real and something that can affect us all, either directly or indirectly, which is why the tone of this post, unlike those in the past, is going to be realistic.
 
 One last thing that should be mentioned before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. This is why you should make sure to keep as many sources of information open to you as possible. 
 
