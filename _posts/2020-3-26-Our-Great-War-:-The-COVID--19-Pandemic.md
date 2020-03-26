@@ -16,7 +16,7 @@ A lot of the COVID-19 posts tend to live on two extremes. They either become too
 
 One last thing that should be mentioned before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. 
 
-This is why you should make sure to keep as many sources of information open to you as possible. I've tried to maintain a balance. The aim is to boil things down to their simplest forms while not being wrong.
+That is why you should make sure to keep as many sources of information open to you as possible. I've tried to maintain a balance. The aim is to boil things down to their simplest forms while not being wrong.
 
 In all this time, one thing that hasn't changed is that:
 
