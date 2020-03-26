@@ -14,9 +14,11 @@ This is why the tone of this post, unlike those in the past, is going to be real
 
 A lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or they start to resemble popular culture magazine articles. 
 
-One last thing that should be mentioned before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. 
+One last thing that should be mentioned before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. That is why you should make sure to keep as many sources of information open to you as possible. 
 
-That is why you should make sure to keep as many sources of information open to you as possible. I've tried to maintain a balance. The aim is to boil things down to their simplest forms while not being wrong.
+
+I've tried to maintain a balance. The aim is to boil things down to their simplest forms while not being wrong.
+
 
 After all this time, one thing that hasn't changed is that:
 
