@@ -10,6 +10,3 @@ Hey there, Welcome to my blog! I am interested in the applications of Deep Learn
 
 
 *Being able to explain things clearly is a superpower all of us should strive for.*
-
-
-You can reach me at [tushar.chat192@gmail.com](mailto:tushar.chat192@gmail.com)
