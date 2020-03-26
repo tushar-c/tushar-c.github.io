@@ -26,3 +26,4 @@ With all that out of the way, let's begin!
 
 
 ## Introduction: So What Is The Coronavirus Really?
+![Classification]({{site.baseurl}}/images/tenor.gif)
