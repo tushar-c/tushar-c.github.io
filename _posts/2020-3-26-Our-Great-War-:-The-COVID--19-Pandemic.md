@@ -6,7 +6,9 @@ published: true
 
 ## (A Personal) Prologue
 
-This post is a little special. One of the main reasons is that I'm taking to writing after a year, as I managed to burn myself out completely in the past 6 months! I am glad for all the people who have taken the time out to read and review what I have to say on things I like, that was a big part of what has kept me writing. 
+This post is a little special. One of the main reasons is that I'm taking to writing after a year, as I managed to burn myself out completely in the past 6 months!
+
+I am glad for all the people who have taken the time out to read and review what I have to say on things I like, that was a big part of what has kept me writing. 
 
 This is the first time we have a post on an ongoing issue and not just something that's abstract, but something very real and something that can affect us all, either directly or indirectly. 
 
