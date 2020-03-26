@@ -12,7 +12,7 @@ I am glad for all the people who have taken the time out to read and review what
 
 This is the first time we have a post on an ongoing issue and not just something that's abstract, but something very real and something that can affect us all, either directly or indirectly. 
 
-This is why the tone of this post, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and funny with pictures, animated GIFs to maintain an upbeat tone among a very serious topic that is the cause of these uncertain times. 
+The tone of this post, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and funny with pictures, animated GIFs to maintain an upbeat tone among a very serious topic that is the cause of these uncertain times. 
 
 A lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or they start to resemble popular culture magazine articles. 
 
