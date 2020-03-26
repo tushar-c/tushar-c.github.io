@@ -22,7 +22,7 @@ After all this time, one thing that hasn't changed is:
 
 **THERE IS STILL PASSIONATE HATE FOR COMPLEX WORDS AND TECHNICAL JARGON IN THIS BLOG!**
 
-With that out of the way, let's begin!
+With all that out of the way, let's begin!
 
 
 ## Introduction
