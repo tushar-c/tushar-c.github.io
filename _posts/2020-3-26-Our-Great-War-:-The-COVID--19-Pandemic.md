@@ -10,7 +10,7 @@ This post is a little special. One of the main reasons is that I'm taking to wri
 
 This is the first time we have a post on an ongoing issue and not just something that's abstract, but something very real and something that can affect us all, either directly or indirectly. 
 
-This is why the tone of this post, unlike those in the past, is going to be realistic, which basically means informal.
+This is why the tone of this post, unlike those in the past, is going to be realistic, which is code for informal.
 
 A lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or they start to resemble popular culture magazine articles. 
 
