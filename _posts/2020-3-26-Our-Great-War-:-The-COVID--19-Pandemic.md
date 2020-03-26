@@ -18,7 +18,7 @@ I've tried to maintain a balance. The aim is to boil things down to their simple
 
 In all this time, one thing that hasn't changed is that:
 
-**I STILL PASSIONATELY HATE COMPLEX WORDS AND TECHNICAL JARGON!**
+**THERE IS STILL PASSIONATE HATE FOR COMPLEX WORDS AND TECHNICAL JARGON IN THIS BLOG.**
 
 With that out of the way, let's begin!
 
