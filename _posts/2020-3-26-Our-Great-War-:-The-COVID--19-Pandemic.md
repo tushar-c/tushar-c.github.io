@@ -10,7 +10,7 @@ This post is a little special. One of the main reasons is that I'm taking to wri
 
 I am glad for all the people who have taken the time out to read and review what I have to say on things I like, that was a big part of what has kept me writing. 
 
-The tone of this post, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and funny with pictures, animated GIFs to maintain an upbeat tone while talking about a very serious topic that is the cause of these uncertain times. 
+The tone of this post, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and funny with pictures, animated GIFs, to maintain an upbeat tone while talking about a very serious topic that is the cause of these uncertain times. 
 
 A lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or they start to resemble popular culture magazine articles. 
 
