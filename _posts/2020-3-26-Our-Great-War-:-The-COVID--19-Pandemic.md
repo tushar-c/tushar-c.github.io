@@ -8,7 +8,7 @@ published: true
 
 This post is a little special. One of the main reasons is that I'm taking to writing after a year, as I managed to burn myself out completely in the past 6 months!
 
-I am glad for all the people who have taken the time out to read and review what I have to say on things I like, that was a big part of what has kept me writing. 
+I am glad for all the people who have taken the time out to read and review what I have to say on things I like. That was a big part of what has kept me writing. 
 
 The tone of this post, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with pictures, animated GIFs while talking about a very serious topic that is the cause of these uncertain times. 
 
