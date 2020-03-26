@@ -16,9 +16,9 @@ A lot of the COVID-19 posts tend to live on two extremes. They either become too
 
 I've tried to maintain a balance. The aim is to boil things down to their simplest forms while not being wrong, and be able to explain the relevant science to anyone, anywhere, regardless of their background.
 
-One last thing that should be mentioned before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. That is why you should make sure to keep as many sources of information open to you as possible. 
+One point worth mentioning before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. That is why you should make sure to keep as many sources of information open to you as possible. 
 
-After all this time, one thing that hasn't changed is:
+One last thing. After all this time, one thing that hasn't changed is:
 
 **THERE IS STILL PASSIONATE HATE FOR COMPLEX WORDS AND TECHNICAL JARGON IN THIS BLOG!**
 
