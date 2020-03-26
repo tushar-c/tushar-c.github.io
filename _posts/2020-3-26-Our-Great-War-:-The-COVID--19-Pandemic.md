@@ -29,4 +29,4 @@ With all that out of the way, let's begin!
 
 To understand the enemy (the coronavirus) in all its gory depth, we have to first get an image of what a virus actually is. 
 
-It might come as a surprise to you that in the world of biology, viruses are considered to be neither alive nor living. Why's that? Well that's what this blog is here for.
+It might come as a surprise to you that in the world of biology, viruses are considered to be neither alive nor living! Why's that? Well that's what this blog is here for.
