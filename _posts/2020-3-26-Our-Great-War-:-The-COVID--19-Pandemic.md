@@ -10,7 +10,7 @@ This post is a little special. One of the main reasons is that I'm taking to wri
 
 This is the first time we have a post on an ongoing issue and not just something that's abstract, but something very real and something that can affect us all, either directly or indirectly. 
 
-This is why the tone of this post, unlike those in the past, is going to be realistic, which is code for informal.
+This is why the tone of this post, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and funny with pictures, animated GIFs to maintain an upbeat tone among a very serious topic that is the cause of these uncertain times. 
 
 A lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or they start to resemble popular culture magazine articles. 
 
@@ -26,6 +26,8 @@ With all that out of the way, let's begin!
 
 
 ## Introduction: So What Is The Coronavirus Really?
+
+![Classification]({{site.baseurl}}/images/virus.gif)
 
 To understand the enemy in all its gory depth, we first have to get an image of what a virus actually is. It might come as a surprise to you that in the world of biology, viruses are considered to be neither alive nor living! We'll see very shortly why that is the case.
 
