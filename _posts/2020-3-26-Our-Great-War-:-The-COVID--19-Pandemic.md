@@ -18,7 +18,7 @@ I've tried to maintain a balance. The aim is to boil things down to their simple
 
 One last thing that should be mentioned before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. That is why you should make sure to keep as many sources of information open to you as possible. 
 
-After all this time, one thing that hasn't changed is that:
+After all this time, one thing that hasn't changed is:
 
 **THERE IS STILL PASSIONATE HATE FOR COMPLEX WORDS AND TECHNICAL JARGON IN THIS BLOG!**
 
