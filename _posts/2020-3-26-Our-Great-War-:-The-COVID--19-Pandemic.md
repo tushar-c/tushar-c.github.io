@@ -14,7 +14,6 @@ One last thing that should be mentioned before we begin is that the material on 
 
 Also, most COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or they start to resemble popular culture magazine articles. I've tried to maintain a balance. The aim is to boil things down to their simplest forms while not being wrong.
 
-
 **I STILL PASSIONATELY HATE COMPLEX WORDS AND TECHNICAL JARGON!**
 
 With that out of the way, let's begin!
