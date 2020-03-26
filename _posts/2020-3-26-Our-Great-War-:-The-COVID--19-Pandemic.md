@@ -27,7 +27,7 @@ With all that out of the way, let's begin!
 
 ## Introduction: So What Is The Coronavirus Really?
 
-<img width="460" height="300" src="https://github.com/tushar-c/tushar-c.github.io/blob/master/images/virus.gif">
+![Classification]({{site.baseurl}}/images/virus.gif)
 
 To understand the enemy in all its gory depth, we first have to get an image of what a virus actually is. It might come as a surprise to you that in the world of biology, viruses are considered to be neither alive nor living! We'll see very shortly why that is the case.
 
