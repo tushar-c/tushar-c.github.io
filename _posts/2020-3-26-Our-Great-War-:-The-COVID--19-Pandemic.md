@@ -12,7 +12,7 @@ I am glad for people who have taken the time out to read and review what I have 
 
 The tone of this post, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with pictures, animated GIFs while talking about a very serious topic that is the cause of these uncertain times. 
 
-Now, a lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or they merely enlist a bunch of statistics without any explanation and start to resemble popular culture magazine articles.
+Now, a lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or merely enlist a bunch of statistics without any explanation and start to resemble popular culture magazine articles.
 
 I've tried to maintain a balance. The aim is to boil things down to their simplest forms while not being wrong, and be able to explain the relevant science to anyone, anywhere, regardless of their background.
 
