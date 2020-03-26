@@ -22,7 +22,7 @@ One last thing. After all this time, one thing that hasn't changed is:
 
 **THERE IS STILL PASSIONATE HATE FOR COMPLEX WORDS AND TECHNICAL JARGON IN THIS BLOG!**
 
-With all that out of the way, let's begin!
+With all that out of the way, sit back, relax, put on your thinking cap and let's begin!
 
 
 ## Introduction: So What Is The Coronavirus Really?
