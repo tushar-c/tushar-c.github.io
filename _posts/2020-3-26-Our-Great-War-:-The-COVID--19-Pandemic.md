@@ -12,7 +12,7 @@ This is the first time I'm ever writing about an ongoing issue and not just some
 
 **I STILL PASSIONATELY HATE COMPLEX WORDS AND TECHNICAL JARGON!**
 
-Also, most COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or they start to resemble popular culture magazine articles. I've tried to maintain a balance. 
+Also, most COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or they start to resemble popular culture magazine articles. I've tried to maintain a balance. The aim is to boil things down to their simplest forms while not being wrong.
 
 One last thing that should be mentioned before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. This is why you should make sure to keep as many sources of information open to you as possible. 
 
