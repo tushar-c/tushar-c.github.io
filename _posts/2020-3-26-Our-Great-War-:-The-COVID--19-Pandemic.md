@@ -45,7 +45,7 @@ However, once they breach into a host cell, that is when they exhibit all these 
 
 They use the host's resources to perform their everyday tasks, thereby weakening the host (if this goes on too much for too long, the host falls sick. You might see where this is going).
 
-It might have probably occured to you that viruses are like parasites in nature, and you wouldn't be wrong!
+It might have probably occured to you that viruses are like parasites in nature, you wouldn't be wrong!
 
 To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms. This might seem confusing (It is).
 
