@@ -67,4 +67,9 @@ As you can see, there's really only three real parts:
 
 **1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid)  of the Virus**
 
-The DNA / RNA is the 'brain' of the virus and decides how and what the virus will create more copies, use energy, and infect the host. The ultimate goal of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. Though not important to us right now, there is a slight but significant difference between how viruses with DNA versus viruses with RNA at their core function.
+The DNA / RNA is the 'brain' of the virus and decides how and what the virus will create more copies, use energy, and infect the host. The ultimate goal of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. 
+
+Though not important to us right now, there is a slight but significant difference between how viruses with DNA versus viruses with RNA at their core function.
+
+**2. The Protein Coat**
+
