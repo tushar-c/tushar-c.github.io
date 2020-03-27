@@ -57,10 +57,12 @@ A cartoon structure is down here.
 
 ![Virus Diagram]({{site.baseurl}}/images/virus.png)
 
-There's really only three real parts:
+Technically, this picture is that of an 'Animal Virus', the kind of virus that affects you and me. There very many (over 5,000) species of viruses. Another picture that will be shown below might be more mainstream, but let's keep that aside for now.
 
-1. The DNA of the Virus
+As you can see, there's really only three real parts:
+
+1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid)  of the Virus
 2. The Protein Coat
 3. The Envelope
 
-The DNA (Deoxyribonucleic Acid) is the 'brain' of the virus and decides how and what the virus will do. There are viruses that have RNA (Ribonucleic Acid) instead. The difference is not important to us right now.
+The DNA ( is the 'brain' of the virus and decides how and what the virus will do. There are viruses that have RNA  instead. The difference is not important to us right now.
