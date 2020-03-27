@@ -25,7 +25,7 @@ One last thing. The one thing we keep in our minds at all times is:
 With all that out of the way, sit back, relax, put on your thinking cap and let's begin!
 
 
-## Introduction: So What Is The Coronavirus Really? WHO (pun intended) else is in the family?
+## An Introduction: So What Is The Coronavirus Really? WHO (pun intended) else is in the family?
 
 ![Classification]({{site.baseurl}}/images/virus.gif)
 
