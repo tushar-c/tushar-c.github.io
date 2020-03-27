@@ -47,8 +47,6 @@ They use the host's resources to perform their everyday tasks, thereby weakening
 
 It might have probably occured to you that viruses are like parasites in nature, you wouldn't be wrong!
 
-To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms. This might seem confusing (It is).
-
 The basic components of a virus (when the individual virus particle is outside a cell, roaming about in the world, it is called a *virion*, an unemployed virus) are simple to understand. 
 
 A cartoon structure is down here.
