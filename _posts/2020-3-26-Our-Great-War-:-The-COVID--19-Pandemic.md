@@ -85,4 +85,6 @@ That necklace made up of beads is the protein coat. What does that do? Well, it 
 **B. It has slots that allow the virus to latch on to a host.**
 **C. It contains chemicals (proteins) that let the virion (remember the unemployed virus?) sneak into the host (in technical jargon: these proteins help the virion penetrate into the host's cell membrane. but that's boring.)**
 
+**3. The Envelope**
+
 
