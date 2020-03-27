@@ -33,4 +33,4 @@ Heres :              ![Classification]({{site.baseurl}}/images/virus.gif)
 
 To understand the enemy in all its gory depth, we first have to get an image in our minds of what a virus actually is. Viruses are a huge topic and have a whole academic field in their own right. However, we only need a very minute portion of that field here.
 
-It might come as a surprise to you that, apart from being the most populous type of biological entity, viruses are considered to be neither alive nor dead! We'll see very shortly why that is the case.
+It might come as a surprise to you that, apart from being the most populous type of biological entity, viruses are considered to be neither alive nor dead!
