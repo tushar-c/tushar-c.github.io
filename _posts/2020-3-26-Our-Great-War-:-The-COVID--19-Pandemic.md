@@ -76,6 +76,6 @@ See that dark thread in the middle? You would not be very far from the truth if 
 
 That material, which is either DNA or RNA (the distinction is **NOT** important to us right now), is the 'brain' of the virus and decides how the virus will function, that is, how will it create more copies, use energy, and infect the host. 
 
-The name of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. More copies of the virus means more quantity of that protein, more protein in this case means more infection.
+The name of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. More copies of the virus means more quantity of that protein, more protein in this case means more infection. Simple.
 
 **2. The Protein Coat**
