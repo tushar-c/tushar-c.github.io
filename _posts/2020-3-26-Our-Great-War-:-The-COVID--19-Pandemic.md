@@ -12,7 +12,7 @@ I am glad for people who have taken the time out to read and review what I have 
 
 ##  Simple Is The New Sexy: Understanding This Complex Beast
 
-The tone of this post unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with pictures and GIFs while talking about a very serious topic that is the cause of these uncertain times. 
+The tone of this post unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with comic images and GIFs while talking about a very serious topic that is the cause of these uncertain times. 
 
 Now, a lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or merely enlist a bunch of statistics without any explanation and start to resemble popular culture magazine articles.
 
@@ -33,6 +33,6 @@ With all that out of the way, sit back, relax, put on your thinking cap and let'
 
 To understand the enemy in all its gory depth, we first have to get an image in our minds of what a virus actually is. Viruses are a huge topic and have a whole academic field in their own right. 
 
-Don't worry, we won't spend all day here! We only need a 30-second blitz worth of it here.
+But don't worry, we won't spend all day here! We only need a 30-second blitz worth of it here.
 
-It might come as a surprise to you that, apart from being the most populous type of biological entity, viruses are considered to be neither alive nor dead!
+It might come as a surprise to you that, apart from being the most populous type of biological entity, viruses are considered to be neither alive nor dead! The basic components of a virus when it is not inside a cell are simple to understand.
