@@ -16,7 +16,9 @@ The tone of this post unlike those in the past, is going to be realistic, which 
 
 Now, a lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or merely enlist a bunch of statistics without any explanation, jump to conclusions and start resembling popular culture magazine articles.
 
-I've tried to maintain a balance. The aim is to boil things down to their simplest forms while not being wrong, and be able to explain the relevant science to anyone, anywhere, regardless of their background.
+I've tried to maintain a balance by trying to boil things down to their simplest forms while not being wrong. 
+
+### The aim is to be able to explain the relevant science to anyone, anywhere, regardless of their background.
 
 One point worth mentioning before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. That is why you should make sure to keep as many sources of information open to you as possible. 
 
