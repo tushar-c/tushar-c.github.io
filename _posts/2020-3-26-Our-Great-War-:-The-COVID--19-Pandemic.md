@@ -22,7 +22,7 @@ One point worth mentioning before we begin is that the material on this subject 
 
 We have to remember that:
 
-**THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE EFFORT OF SOUNDING IMPRESSIVE. WE MUST KEEP IT AS SIMPLE AS POSSIBLE**
+**THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE EFFORT OF SOUNDING IMPRESSIVE. SIMPLE IS THE NEW SEXY**
 
 With all that out of the way, sit back, relax, put on your thinking cap and let's begin!
 
