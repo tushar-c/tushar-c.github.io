@@ -45,6 +45,6 @@ There's really only three real parts:
 2. Protein Coat
 3. Envelope
 
-The Core Genetic Material is the 'brain' of the whole virus and decides how and what the virus will do. This *Core Genetic Material* can be either DNA or RNA. The difference is not important for us right now.
+The Core Genetic Material is the 'brain' of the virus and decides how and what the virus will do. This *Core Genetic Material* can be either DNA or RNA. The difference is not important for us right now.
 
 
