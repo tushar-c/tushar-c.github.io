@@ -33,6 +33,6 @@ With all that out of the way, sit back, relax, put on your thinking cap and let'
 
 To understand the enemy in all its gory depth, we first have to get an image in our minds of what a virus actually is. Viruses are a huge topic and have a whole academic field in their own right. 
 
-However, we only need a 30-second blitz worth of content here.
+Don't worry, we won't spend all day here! We only need a 30-second blitz worth of it here.
 
 It might come as a surprise to you that, apart from being the most populous type of biological entity, viruses are considered to be neither alive nor dead!
