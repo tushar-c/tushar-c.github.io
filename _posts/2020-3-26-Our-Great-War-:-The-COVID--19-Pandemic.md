@@ -37,7 +37,7 @@ Before we can get to the interesting stuff about the Coronavirus and COVID-19, t
 
 To understand the enemy in all its gory depth, we first have to get an image in our minds of what a virus actually is. Viruses are a huge topic and have a whole academic field in their own right. 
 
-But don't worry, we won't spend all day here! We only need a 30-second blitz worth of it here.
+But don't worry, we won't spend all day here! We only need a 30-second blitz worth of it.
 
 It might come as a surprise to you that, in spite of being the most populous type of biological entity, viruses are considered to be neither alive nor dead! The basic components of a virus when it is not inside a cell (this is called a *virion*, an unemployed virus) are simple to understand. A cartoon structure is down here.
 
