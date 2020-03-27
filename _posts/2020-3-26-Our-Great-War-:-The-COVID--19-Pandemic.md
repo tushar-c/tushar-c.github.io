@@ -61,7 +61,7 @@ With that being said, a cartoon structure is down here.
 
 ![Virus Diagram]({{site.baseurl}}/images/virus.png)
 
-Technically, this picture is that of an 'Animal Virus', the kind of virus that affects you and me. 
+Technically, this picture is that of an 'Animal Virus', the kind of virus that affects you and me. A more mainstream picture will make an appearance further down. 
 
 As you can see, there's really only three real parts:
 
