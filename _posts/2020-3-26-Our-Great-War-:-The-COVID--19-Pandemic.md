@@ -39,7 +39,7 @@ It might come as a surprise to you that, apart from being the most populous type
 
 ![Virus Diagram]({{site.baseurl}}/images/virus.png)
 
-As can be seen, there are three main components:
+There's only three real parts:
 
 1. The Core Genetic Material
 2. Protein Coat
