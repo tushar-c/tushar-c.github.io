@@ -31,7 +31,7 @@ With all that out of the way, sit back, relax, put on your thinking cap and let'
 
 ![Gadhbadh Virus]({{site.baseurl}}/images/virus.gif)
 
-**"Everyone wants to party, but nobody wants to do the dishes"**
+**"Everyone wants to party, but nobody wants to do the dishes."**
 
 Before we can get to the interesting stuff about the Coronavirus and COVID-19, the associated disease, it's a good idea get a relatively good grip of the basics. This won't take long!
 
