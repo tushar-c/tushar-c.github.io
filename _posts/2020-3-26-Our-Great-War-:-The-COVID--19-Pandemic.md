@@ -39,4 +39,10 @@ It might come as a surprise to you that, apart from being the most populous type
 
 ![Virus Diagram]({{site.baseurl}}/images/virus.png)
 
+As can be seen, there are three main components:
+
+1. The Core Genetic Material
+2. Protein Coat
+3. Envelope
+
 The Core Genetic Material is the brain of the whole virus and decides how the virus will act. This *Core Genetic Material* can be either DNA or RNA. The difference is not important for us right now.
