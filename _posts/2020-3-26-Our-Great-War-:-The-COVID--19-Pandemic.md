@@ -29,7 +29,7 @@ With all that out of the way, sit back, relax, put on your thinking cap and let'
 
 ## An Introduction: So What Is The Coronavirus Really?
 
-Heres what a virus might look like :              ![Classification]({{site.baseurl}}/images/virus.gif)
+Heres :              ![Classification]({{site.baseurl}}/images/virus.gif)
 
 To understand the enemy in all its gory depth, we first have to get an image in our minds of what a virus actually is. Viruses are a huge topic and have a whole academic field in their own right. However, we only need a very minute portion of that field here.
 
