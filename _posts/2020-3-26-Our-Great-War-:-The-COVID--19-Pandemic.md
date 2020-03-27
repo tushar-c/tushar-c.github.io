@@ -50,7 +50,7 @@ A cartoon structure is down here.
 There's really only three real parts:
 
 1. The DNA of the Virus
-2. Protein Coat
-3. Envelope
+2. The Protein Coat
+3. The Envelope
 
-The Core Genetic Material is the 'brain' of the virus and decides how and what the virus will do. This *Core Genetic Material* can be either DNA (Deoxyribonucleic Acid) or RNA (Ribonucleic Acid). The difference is not important to us right now.
+The DNA (Deoxyribonucleic Acid) is the 'brain' of the virus and decides how and what the virus will do. There are viruses that have RNA (Ribonucleic Acid) instead. The difference is not important to us right now.
