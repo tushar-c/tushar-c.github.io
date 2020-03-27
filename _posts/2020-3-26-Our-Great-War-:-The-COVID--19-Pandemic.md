@@ -98,4 +98,4 @@ These materials give the virus the ability to evade the immune system of the hos
 
 By having materials from the immune system of the host, the virus is able to evade the immune system of the host (this is much like playing a reverse card in UNO).  
 
-## You've got the basics needed!
+## We're done with the basics of viruses! Armed with these, we can understand a lot about the Coronavirus!
