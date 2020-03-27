@@ -49,7 +49,7 @@ They use the host's resources to perform their everyday tasks, thereby weakening
 
 It might have probably occured to you that viruses are like parasites in nature, you wouldn't be wrong!
 
-The basic components of a virus (when the individual virus particle is outside a cell, roaming about in the world, it is called a *virion*, an unemployed virus) are simple to understand. 
+The basic components of a virus (when the  virus is not busy infecting a cell, roaming about in the world, it is called a *virion*, an unemployed virus) are simple to understand. 
 
 A cartoon structure is down here.
 
