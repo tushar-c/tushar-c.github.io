@@ -57,7 +57,8 @@ A cartoon structure is down here.
 
 ![Virus Diagram]({{site.baseurl}}/images/virus.png)
 
-Technically, this picture is that of an 'Animal Virus', the kind of virus that affects you and me. There are very many (over 5,000) species of viruses. Another picture that we will see below might be more mainstream, but let's keep that aside for now.
+Technically, this picture is that of an 'Animal Virus', the kind of virus that affects you and me. 
+Another picture that we will see below might be more mainstream, but let's keep that aside for now.
 
 As you can see, there's really only three real parts:
 
@@ -72,4 +73,3 @@ The DNA / RNA is the 'brain' of the virus and decides how and what the virus wil
 Though not important to us right now, there is a slight but significant difference between how viruses with DNA versus viruses with RNA at their core function.
 
 **2. The Protein Coat**
-
