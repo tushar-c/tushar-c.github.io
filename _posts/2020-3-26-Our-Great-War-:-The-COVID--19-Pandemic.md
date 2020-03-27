@@ -1,3 +1,6 @@
+---
+published: false
+---
 ![Classification]({{site.baseurl}}/images/tusharBlog-01.png)
 
 
@@ -28,7 +31,7 @@ With all that out of the way, sit back, relax, put on your thinking cap and let'
 
 ![Gadhbadh Virus]({{site.baseurl}}/images/virus.gif)
 
-As the saying goes: "Everyone wants to party, but nobody wants to do the dishes".
+**"Everyone wants to party, but nobody wants to do the dishes"**
 
 Before we can get to the interesting stuff about the Coronavirus and COVID-19, the associated disease, it's a good idea get a relatively good grip of the basics. This won't take long!
 
@@ -47,5 +50,3 @@ There's really only three real parts:
 3. Envelope
 
 The Core Genetic Material is the 'brain' of the virus and decides how and what the virus will do. This *Core Genetic Material* can be either DNA (Deoxyribonucleic Acid) or RNA (Ribonucleic Acid). The difference is not important to us right now.
-
-
