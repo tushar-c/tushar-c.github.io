@@ -85,7 +85,7 @@ That necklace made up of beads (they are called 'capsomers' in technical jargon.
 
 **B. It has slots that allow the virus to latch on to a host.**
 
-**C. It contains chemicals (proteins) that let the virion (remember the unemployed virus?) sneak into the host (in technical jargon: these proteins help the virion penetrate into the host's cell membrane. but that's boring.)**
+**C. It contains chemicals (proteins) that let the virion (remember the unemployed virus?) sneak into the host (in technical jargon: these proteins help the virion penetrate into the host's cell membrane. But that's boring.)**
 
 **3. The Envelope**
 
