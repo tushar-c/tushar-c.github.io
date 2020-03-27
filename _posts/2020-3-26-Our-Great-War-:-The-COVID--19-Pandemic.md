@@ -38,3 +38,5 @@ But don't worry, we won't spend all day here! We only need a 30-second blitz wor
 It might come as a surprise to you that, apart from being the most populous type of biological entity, viruses are considered to be neither alive nor dead! The basic components of a virus when it is not inside a cell are simple to understand. A cartoonish structure is down here.
 
 ![Virus Diagram]({{site.baseurl}}/images/virus.png)
+
+The *Core Genetic Material* is the brains of the whole virus and decides how the virus will act. This *Core Genetic Material* can be either DNA or RNA. The difference is not important for us right now.
