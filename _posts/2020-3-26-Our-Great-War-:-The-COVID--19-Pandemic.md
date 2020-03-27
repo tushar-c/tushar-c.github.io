@@ -20,9 +20,9 @@ I've tried to maintain a balance. The aim is to boil things down to their simple
 
 One point worth mentioning before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. That is why you should make sure to keep as many sources of information open to you as possible. 
 
-The one thing that has not changed is:
+We have to remember that:
 
-**THERE IS PASSIONATE HATE FOR COMPLEX WORDS AND TECHNICAL JARGON IN THIS BLOG!**
+**THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE EFFORT OF SOUNDING IMPRESSIVE. WE MUST KEEP IT AS SIMPLE AS POSSIBLE**
 
 With all that out of the way, sit back, relax, put on your thinking cap and let's begin!
 
