@@ -41,7 +41,7 @@ But don't worry, we won't spend all day here! We only need a 60-second blitz wor
 
 It might come as a surprise to you that, in spite of being the most populous type of biological entity, viruses are considered to be neither alive nor dead! 
 
-The basic components of a virus when it is not inside a cell (this is called a *virion*, an unemployed virus) are simple to understand. 
+The basic components of a virus (when the individual virus particle is outside a cell, roaming about in the world, it is called a *virion*, an unemployed virus) are simple to understand. 
 
 A cartoon structure is down here.
 
