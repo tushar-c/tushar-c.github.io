@@ -43,7 +43,7 @@ It might come as a surprise to you that, in spite of being the most populous typ
 
 However, once they come into contact with a host cell, that is when they exhibit all these properties. It might have probably occured to you that viruses are like parasites in nature, and you wouldn't be wrong!
 
-To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms, but rather as androids (aka, robots) .
+To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms, but rather as androids (similar to robots).
 
 The basic components of a virus (when the individual virus particle is outside a cell, roaming about in the world, it is called a *virion*, an unemployed virus) are simple to understand. 
 
