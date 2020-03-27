@@ -74,7 +74,7 @@ As you can see, there's really only three real parts:
 
 See that dark thread in the middle? You would not be very far from the truth if you said that threads like this one are the reason you're forced to sit in your home right now. That's the genetic material of the virus.
 
-That material, which is either DNA or RNA (the distinction is **NOT** important to us right now), is the 'brain' of the virus and decides how and what the virus will create more copies, use energy, and infect the host. 
+That material, which is either DNA or RNA (the distinction is **NOT** important to us right now), is the 'brain' of the virus and decides how the virus will function, that is, how will it create more copies, use energy, and infect the host. 
 
 The name of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. More copies of the virus means more quantity of that protein, more protein in this case means more infection.
 
