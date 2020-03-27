@@ -20,7 +20,7 @@ I've tried to maintain a balance. The aim is to boil things down to their simple
 
 One point worth mentioning before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. That is why you should make sure to keep as many sources of information open to you as possible. 
 
-The theme of this blog that hasn't changed is:
+The core belief of this blog that hasn't changed is:
 
 **THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE PURSUIT OF SOUNDING IMPRESSIVE.**
 
