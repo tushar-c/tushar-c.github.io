@@ -1,6 +1,3 @@
----
-published: true
----
 ![Classification]({{site.baseurl}}/images/tusharBlog-01.png)
 
 
@@ -27,9 +24,13 @@ The theme of this blog that hasn't changed is:
 With all that out of the way, sit back, relax, put on your thinking cap and let's begin!
 
 
-## An Introduction: But What Is The Coronavirus Really?
+## An Introduction: So What Is The Coronavirus Really?
 
 ![Gadhbadh Virus]({{site.baseurl}}/images/virus.gif)
+
+As the saying goes: "Everyone wants to party, but nobody wants to do the dishes".
+
+Before we can get to the interesting stuff about the Coronavirus and COVID-19, the associated disease, it's a good idea get a relatively good grip of the basics. This won't take long!
 
 To understand the enemy in all its gory depth, we first have to get an image in our minds of what a virus actually is. Viruses are a huge topic and have a whole academic field in their own right. 
 
@@ -45,4 +46,6 @@ There's really only three real parts:
 2. Protein Coat
 3. Envelope
 
-The Core Genetic Material is the 'brain' of the virus and decides how and what the virus will do. This *Core Genetic Material* can be either DNA (Deoxyribonucleic Acid) or RNA (Ribonucleic Acid). The difference is not important for us right now.
+The Core Genetic Material is the 'brain' of the virus and decides how and what the virus will do. This *Core Genetic Material* can be either DNA (Deoxyribonucleic Acid) or RNA (Ribonucleic Acid). The difference is not important to us right now.
+
+
