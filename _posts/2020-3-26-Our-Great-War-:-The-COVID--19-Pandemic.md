@@ -39,7 +39,9 @@ To understand the enemy in all its gory depth, we first have to get an image in 
 
 But don't worry, we won't spend all day here! We only need a 60-second blitz worth of it.
 
-It might come as a surprise to you that, in spite of being the most populous type of biological entity, viruses are considered to be neither alive nor dead! 
+It might come as a surprise to you that, in spite of being the most populous type of biological entity, viruses are considered to be neither alive nor dead! This is because viruses by themselves cannot replicated (read: grow), they cannot derive their own energy (read: food). 
+
+However, once they come into contact with a host cell, that is when they exhibit all these properties. It might have probably occured to you that viruses are like parasites in nature, and you wouldn't be wrong!
 
 The basic components of a virus (when the individual virus particle is outside a cell, roaming about in the world, it is called a *virion*, an unemployed virus) are simple to understand. 
 
