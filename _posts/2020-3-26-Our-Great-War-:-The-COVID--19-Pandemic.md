@@ -73,7 +73,7 @@ As you can see, there's really only three real parts:
 **1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid)  of the Virus**
 
 See that dark thread in the middle? You would not be very far from the truth if you said that threads like this one are the reason you're forced to sit in your home right now. That's the genetic material of the virus.
-The DNA / RNA is the 'brain' of the virus and decides how and what the virus will create more copies, use energy, and infect the host. The name of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. 
+That material, which is either DNA or RNA, is the 'brain' of the virus and decides how and what the virus will create more copies, use energy, and infect the host. The name of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. 
 
 Though not important to us right now, there is a slight but significant difference between how viruses with DNA versus viruses with RNA at their core function.
 
