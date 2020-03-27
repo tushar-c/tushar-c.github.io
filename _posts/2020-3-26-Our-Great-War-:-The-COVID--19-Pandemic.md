@@ -43,7 +43,7 @@ It might come as a surprise to you that, in spite of being the most populous typ
 
 To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms, though their status has historically always been a matter of debate. This might seem confusing (It is).
 
-However, once they breach into a host cell, that is when they exhibit all these properties. They can create more copies of themselves and package them for redistribution, as well as derive energy from the host to keep replicating. 
+However, once they breach into a host cell, that is when they exhibit all the habits you would expect from living beings. They can create more copies of themselves and package them for redistribution, as well as derive energy from the host to keep replicating. 
 
 They use the host's resources to perform their everyday tasks, thereby weakening the host (if this goes on too much for too long, the host falls sick. You might see where this is going).
 
