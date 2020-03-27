@@ -10,7 +10,7 @@ This post is a little special. One of the main reasons is that I'm taking to wri
 
 I am glad for people who have taken the time out to read and review what I have to say on things I like. That was a big part of what has kept me writing. 
 
-## How This Post Plans To Approach This Complex Beast
+##  Simple Is The New Sexy: Understanding This Complex Beast
 
 The tone of this post, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with pictures, animated GIFs while talking about a very serious topic that is the cause of these uncertain times. 
 
@@ -22,7 +22,7 @@ One point worth mentioning before we begin is that the material on this subject 
 
 We have to remember that:
 
-**THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE EFFORT OF SOUNDING IMPRESSIVE. SIMPLE IS THE NEW SEXY**
+**THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE EFFORT OF SOUNDING IMPRESSIVE.**
 
 With all that out of the way, sit back, relax, put on your thinking cap and let's begin!
 
