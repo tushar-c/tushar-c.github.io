@@ -104,4 +104,4 @@ Oh and about that mainstream virus image? Here it is, this is a type of virus th
 
 ![Virus Diagram]({{site.baseurl}}/images/bacteriophage_detailed.png)
 
-## We're done with the basics of viruses! Armed with these, we can understand a lot about the Coronavirus!
+## We're done with the basics of viruses! Now, onto the interesting questions!
