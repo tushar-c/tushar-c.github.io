@@ -20,9 +20,9 @@ I've tried to maintain a balance. The aim is to boil things down to their simple
 
 One point worth mentioning before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. That is why you should make sure to keep as many sources of information open to you as possible. 
 
-The singlemost important aspect of learning is that:
+The one core belief around which everything else here exists is that:
 
-**THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE PURSUIT OF SOUNDING IMPRESSIVE. TOO MANY PEOPLE WHO TRY TO EXPLAIN END UP TRYING TO SHOW HOW MANY TRICKS THEY HAVE RESTING UP THEIR SLEEVE.**
+**THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE PURSUIT OF SOUNDING IMPRESSIVE.**
 
 With all that out of the way, sit back, relax, put your thinking cap on and let's begin!
 
