@@ -22,7 +22,7 @@ One point worth mentioning before we begin is that the material on this subject 
 
 The theme of this blog is:
 
-**THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE EFFORT OF SOUNDING IMPRESSIVE.**
+**THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE PURSUIT OF SOUNDING IMPRESSIVE.**
 
 With all that out of the way, sit back, relax, put on your thinking cap and let's begin!
 
