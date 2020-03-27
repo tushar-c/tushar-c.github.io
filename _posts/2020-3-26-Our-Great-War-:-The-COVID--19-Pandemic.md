@@ -57,7 +57,7 @@ A cartoon structure is down here.
 
 ![Virus Diagram]({{site.baseurl}}/images/virus.png)
 
-Technically, this picture is that of an 'Animal Virus', the kind of virus that affects you and me. There very many (over 5,000) species of viruses. Another picture that will be shown below might be more mainstream, but let's keep that aside for now.
+Technically, this picture is that of an 'Animal Virus', the kind of virus that affects you and me. There are very many (over 5,000) species of viruses. Another picture that will be shown below might be more mainstream, but let's keep that aside for now.
 
 As you can see, there's really only three real parts:
 
