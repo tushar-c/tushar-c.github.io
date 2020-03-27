@@ -81,7 +81,7 @@ The name of the game is to synthesize (create) proteins. These proteins are what
 
 That necklace made up of beads (they are called 'capsomers' in technical jargon. capsomers are basically capsules filled with protein) is the protein coat. What does that do? Well, it got hired by our beloved management at Virus Incorporated for three main reasons:
 
-**A. The coat protects the DNA / RNA of the virus. Think of it as the skull that protects the brain. **
+**A. The coat protects the DNA / RNA of the virus. Think of it as the skull that protects the brain.**
 
 **B. It has slots that allow the virus to latch on to a host.**
 
