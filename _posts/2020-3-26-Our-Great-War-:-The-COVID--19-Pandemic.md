@@ -77,6 +77,8 @@ That material, which is either DNA or RNA (the distinction is **NOT** important 
 
 The name of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. More copies of the virus means more quantity of that protein, more protein in this case means more infection.
 
+### We're almost there!
+
 **2. The Protein Coat**
 
 That necklace made up of beads (they are called 'capsomers' in technical jargon. capsomers are basically capsules filled with protein) is the protein coat. What does that do? Well, it got hired by our beloved management at Virus Incorporated for three main reasons:
