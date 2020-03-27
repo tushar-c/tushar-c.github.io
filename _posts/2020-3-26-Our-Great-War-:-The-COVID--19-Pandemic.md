@@ -39,4 +39,4 @@ It might come as a surprise to you that, apart from being the most populous type
 
 ![Virus Diagram]({{site.baseurl}}/images/virus.png)
 
-The *Core Genetic Material*  is the brain of the whole virus and decides how the virus will act. This *Core Genetic Material* can be either DNA or RNA. The difference is not important for us right now.
+The Core Genetic Material is the brain of the whole virus and decides how the virus will act. This *Core Genetic Material* can be either DNA or RNA. The difference is not important for us right now.
