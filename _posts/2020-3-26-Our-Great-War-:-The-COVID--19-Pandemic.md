@@ -53,7 +53,7 @@ The basic components of a virus (when the individual virus particle is outside a
 
 A cartoon structure is down here.
 
-**There's a very tiny bit of technical terms coming up. Again, if you do not know what they mean, please don't let that discourage you. We'll take apart each of them and you'll see they aren't that complex after all!**
+**There's a very tiny bit of technical terms coming up. Again, if you do not know what they mean, please don't let that discourage you. We'll take apart each of them and you'll see they aren't that complex after all.**
 
 ![Virus Diagram]({{site.baseurl}}/images/virus.png)
 
