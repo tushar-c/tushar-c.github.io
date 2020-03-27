@@ -53,6 +53,8 @@ They use the host's resources to perform their everyday tasks, thereby weakening
 
 It might have probably occured to you that viruses are like parasites in nature, you wouldn't be wrong!
 
+![Virus Diagram]({{site.baseurl}}/images/tom_hardy_parasite.gif)
+
 The basic parts of a virus (when the  virus is not busy infecting a cell, roaming about in the world, it is called a *virion*, an unemployed virus) are simple to understand. 
 
 **There's a very tiny bit of technical terms coming up. Again, if you do not know what they mean, please don't let that discourage you. We'll take apart each one of them and you'll see that just like most things, they aren't that complex after all.**
