@@ -84,3 +84,5 @@ That necklace made up of beads is the protein coat. What does that do? Well, it 
 **A. The coat protects the DNA / RNA of the virus. Think of it as the skull that protects the brain. **
 **B. It has slots that allow the virus to latch on to a host.**
 **C. It contains chemicals (proteins) that let the virion (remember the unemployed virus?) sneak into the host (in technical jargon: these proteins help the virion penetrate into the host's cell membrane. but that's boring.)**
+
+
