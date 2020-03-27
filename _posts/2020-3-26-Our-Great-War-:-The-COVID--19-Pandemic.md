@@ -66,7 +66,7 @@ Technically, this picture is that of an 'Animal Virus', the kind of virus that a
 As you can see, there's really only three real parts:
 
 1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid) - The Mastermind
-2. The Protein Coat - The Security
+2. The Protein Coat - The Muscle
 3. The Envelope - The Trickster
 
 **1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid)  of the Virus**
