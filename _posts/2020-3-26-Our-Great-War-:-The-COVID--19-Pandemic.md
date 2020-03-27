@@ -27,7 +27,7 @@ The one core belief around which everything else here exists is that:
 With all that out of the way, let's get to business. So sit back, relax, put your thinking cap on and let's begin!
 
 
-# An Introduction: So What Is The Coronavirus Really? Hold On, What Exactly Is A Virus Though?
+## An Introduction: So What Is The Coronavirus Really? Hold On, What Exactly Is A Virus Though?
 
 ![Gadhbadh Virus]({{site.baseurl}}/images/virus.gif)
 
