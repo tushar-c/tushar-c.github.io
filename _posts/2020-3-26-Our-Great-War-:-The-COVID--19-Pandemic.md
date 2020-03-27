@@ -33,7 +33,7 @@ With all that out of the way, sit back, relax, put on your thinking cap and let'
 
 **"Everyone wants to party, but nobody wants to do the dishes."**
 
-Before we can get to the interesting stuff about the Coronavirus and COVID-19, the associated disease, it's a good idea get a relatively good grip of the basics. This won't take long!
+Before we can get to the interesting stuff about the Coronavirus and COVID-19, the associated disease, it's a good idea get a relatively good grip of the basics. Before we get to the *Corona* bit, we will talk a little about the *Virus* bit. This won't take long!
 
 To understand the enemy in all its gory depth, we first have to get an image in our minds of what a virus actually is. Viruses are a huge topic and have a whole academic field in their own right. 
 
