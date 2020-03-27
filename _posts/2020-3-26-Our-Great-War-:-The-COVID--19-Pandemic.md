@@ -91,5 +91,7 @@ That necklace made up of beads (they are called 'capsomers' in technical jargon.
 
 This outline, the envelope, contains materials (called glycoproteins, a special kind of protein. The specifics are not important to us right now) from the virus as well as the host (if the virus has come in contact with a host).
 
-These materials give the virus the ability to evade the immune system of the host. The immu 
+These materials give the virus the ability to evade the immune system of the host. The immune system works on memory. It can fend off pathogens (disease causing microorganisms) it has seen before. 
+
+By having materials from the immune system of the host, the virus is able to evade the immune system of the host (this is much like playing a reverse card in UNO).  
 
