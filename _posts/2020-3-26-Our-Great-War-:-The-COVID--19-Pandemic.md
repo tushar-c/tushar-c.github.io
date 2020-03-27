@@ -102,5 +102,6 @@ By having materials from the immune system of the host, the virus is able to eva
 
 Oh and about that mainstream virus image? Here it is, this is a type of virus that's called a *Bacteriophage*. This means that it is a virus that specifically infects bacteria. Impressive in it's own right, but not of much use to us right now. If you want, you can compare this to the earlier seen 'Animal Virus' image.
 
+![Virus Diagram]({{site.baseurl}}/images/bacteriophage_detailed.png)
 
 ## We're done with the basics of viruses! Armed with these, we can understand a lot about the Coronavirus!
