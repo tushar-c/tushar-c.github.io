@@ -27,7 +27,7 @@ The theme of this blog that hasn't changed is:
 With all that out of the way, sit back, relax, put on your thinking cap and let's begin!
 
 
-## An Introduction: So What Is The Coronavirus Really?
+## An Introduction: But What Is The Coronavirus Really?
 
 ![Gadhbadh Virus]({{site.baseurl}}/images/virus.gif)
 
@@ -46,5 +46,3 @@ There's really only three real parts:
 3. Envelope
 
 The Core Genetic Material is the 'brain' of the virus and decides how and what the virus will do. This *Core Genetic Material* can be either DNA (Deoxyribonucleic Acid) or RNA (Ribonucleic Acid). The difference is not important for us right now.
-
-
