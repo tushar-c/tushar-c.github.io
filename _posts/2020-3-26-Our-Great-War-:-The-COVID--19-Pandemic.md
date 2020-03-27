@@ -33,7 +33,7 @@ With all that out of the way, let's get to business. So sit back, relax, put you
 
 **"Everyone wants to party, but nobody wants to do the dishes."**
 
-Before we can get to the interesting stuff about the Coronavirus and COVID-19, the associated disease, it's a good idea get a relatively good grip of the basics. Before we get to the 'Corona' bit, we will talk a little about the 'Virus' bit.
+Before we can get to the interesting stuff about the Coronavirus and COVID-19, the associated disease, it's a good idea to get a relatively good grip of the basics. Before we get to the 'Corona' bit, we will talk a little about the 'Virus' bit.
 
 To understand the enemy in all its gory depth, we first have to get an image in our minds of what a virus actually is. Viruses are a huge topic, there are over 5,000 species of viruses and they have a whole academic field in their own right, that's Virology. 
 
