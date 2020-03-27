@@ -22,7 +22,7 @@ One point worth mentioning before we begin is that the material on this subject 
 
 The singlemost important aspect of learning is that:
 
-**THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE PURSUIT OF SOUNDING IMPRESSIVE.**
+**THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE PURSUIT OF SOUNDING IMPRESSIVE. TOO MANY PEOPLE WHO TRY TO EXPLAIN END UP TRYING TO SHOW HOW MANY TRICKS THEY HAVE RESTING UP THEIR SLEEVE.**
 
 With all that out of the way, sit back, relax, put your thinking cap on and let's begin!
 
