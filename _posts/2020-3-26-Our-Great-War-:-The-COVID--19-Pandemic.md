@@ -65,4 +65,4 @@ As you can see, there's really only three real parts:
 2. The Protein Coat
 3. The Envelope
 
-The DNA is the 'brain' of the virus and decides how and what the virus will do. There are viruses that have RNA  instead. The difference is not important to us right now.
+The DNA / RNA is the 'brain' of the virus and decides how and what the virus will create more copies, use energy, and infect the host. The ultimate goal of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. Though not important to us right now, there is a slight but significant difference between how viruses with DNA versus viruses with RNA at their core function.
