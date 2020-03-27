@@ -24,7 +24,7 @@ The one core belief of this blog that hasn't changed is:
 
 **THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE PURSUIT OF SOUNDING IMPRESSIVE.**
 
-With all that out of the way, sit back, relax, put on your thinking cap and let's begin!
+With all that out of the way, sit back, relax, put your thinking cap on and let's begin!
 
 
 ## An Introduction: So What Is The Coronavirus Really?
