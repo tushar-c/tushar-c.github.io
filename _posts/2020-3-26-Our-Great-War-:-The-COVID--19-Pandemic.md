@@ -98,4 +98,6 @@ These materials give the virus the ability to evade the immune system of the hos
 
 By having materials from the immune system of the host, the virus is able to evade the immune system of the host (this is much like playing a reverse card in UNO).  
 
+Oh and about that mainstream virus image? Here it is, this is a type of virus that's called a *Bacteriophage*. This means that it is a virus that specifically infects bacteria. Impressive in it's own right, but not of much use to us right now.
+
 ## We're done with the basics of viruses! Armed with these, we can understand a lot about the Coronavirus!
