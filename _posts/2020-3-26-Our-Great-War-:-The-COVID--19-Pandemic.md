@@ -45,7 +45,7 @@ However, once they breach into a host cell, that is when they exhibit all these 
 
 It might have probably occured to you that viruses are like parasites in nature, and you wouldn't be wrong!
 
-To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms.
+To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms. This might seem confusing, it is.
 
 The basic components of a virus (when the individual virus particle is outside a cell, roaming about in the world, it is called a *virion*, an unemployed virus) are simple to understand. 
 
