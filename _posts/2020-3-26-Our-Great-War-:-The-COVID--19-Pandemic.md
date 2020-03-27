@@ -45,7 +45,7 @@ To make things clear, the larger consensus among the scientific community is to 
 
 However, once they breach into a host cell, that is when they exhibit all the habits you would expect from living beings. 
 
-**A. They can create more copies of themselves (this is really all there is to the world, basically :) )**
+**A. They can create more copies of themselves (this is really all there is to biology, basically :) )**
 
 **B. Package them for redistribution (send the children to work), as well as derive energy from the host to keep replicating.** 
 
