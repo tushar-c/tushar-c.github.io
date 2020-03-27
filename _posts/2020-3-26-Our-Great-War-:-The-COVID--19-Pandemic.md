@@ -78,6 +78,4 @@ That material, which is either DNA or RNA (the distinction is **NOT** important 
 
 The name of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. More copies of the virus means more quantity of that protein, more protein in this case means more infection.
 
-Though not important to us right now, there is a slight but significant difference between how viruses with DNA versus viruses with RNA at their core function.
-
 **2. The Protein Coat**
