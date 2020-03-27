@@ -41,7 +41,7 @@ But don't worry, we won't spend all day here! We only need a 60-second blitz wor
 
 It might come as a surprise to you that, in spite of being the most populous type of biological entity, viruses are considered to be neither alive nor dead! This is because viruses by themselves cannot replicate (*read: grow*), nor can they derive their own energy (*read: food*). 
 
-To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms. This might seem confusing (It is).
+To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms, though their status has historically always been a matter of debate. This might seem confusing (It is).
 
 However, once they breach into a host cell, that is when they exhibit all these properties. They can create more copies of themselves and package them for redistribution, as well as derive energy from the host to keep replicating. 
 
