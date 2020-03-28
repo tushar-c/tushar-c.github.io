@@ -104,6 +104,8 @@ By having materials from the immune system of the host, the virus is able to dod
 
 Thus, showing signs of having some 'memory' of the immune system off of which it is working (this is much like playing a reverse card in UNO).  
 
+
+### One for the 'Gram
 Oh and about that mainstream virus image? 
 
 Here it is, this is a type of virus that's called a *Bacteriophage*. They are viruses that specifically infect bacteria. Impressive in their own right, but not of much use to us right now.
