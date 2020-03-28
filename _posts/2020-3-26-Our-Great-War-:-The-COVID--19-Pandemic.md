@@ -113,6 +113,6 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
 
 ![Virus Diagram]({{site.baseurl}}/images/bacteriophage_new.jpg)
 
-### There you have it! We've required basics of what viruses are. Not that intimidating after all, right?
+### There you have it! . Not that intimidating after all, right?
 
 ## Meeting Each Other Finally: The Coronavirus
