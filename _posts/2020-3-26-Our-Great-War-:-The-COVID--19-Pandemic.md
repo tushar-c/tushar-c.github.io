@@ -100,7 +100,7 @@ This outline, the envelope, contains materials (called glycoproteins, a special 
 
 These materials give the virus the ability to evade the immune system of the host. The immune system works on memory. It can fend off pathogens (disease causing microorganisms) it has seen before. 
 
-By having materials from the immune system of the host, the virus is able to dodge punches the immune system of the host might throw. 
+By having materials from the immune system of the host, the virus is able to dodge any punches the immune system of the host might throw. 
 
 Thus, showing signs of having some 'memory' of the immune system off of which it is working (this is much like playing a reverse card in UNO).  
 
