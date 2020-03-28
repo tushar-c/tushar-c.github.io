@@ -54,7 +54,7 @@ Viruses rely on hosts for their growth and nourishment. Once they breach into a 
 
 They use the host's resources to perform their everyday tasks, thereby weakening the host (if this goes on too much for too long, the host falls sick. Happens to us all.).
 
-It might have probably occured to you that viruses are like parasites in nature, you wouldn't be wrong!
+It might have probably occured to you that viruses are like parasites in nature. You wouldn't be wrong!
 
 The basic parts of a virus are simple to understand. As an aside, when the  virus is not busy infecting a cell, roaming about in the world, it is called a *virion*, an unemployed virus. 
 
