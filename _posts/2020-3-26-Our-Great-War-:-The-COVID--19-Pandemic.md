@@ -71,7 +71,7 @@ As you can see, there's really only three real parts:
 
 2. The Protein Coat - **The Muscle**
 
-3. The Envelope - **The Trickster**
+3. The Envelope - **The Street Smarts**
 
 **1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid)  of the Virus**
 
