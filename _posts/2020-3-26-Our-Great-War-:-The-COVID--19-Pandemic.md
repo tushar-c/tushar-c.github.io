@@ -111,4 +111,4 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. This means 
 
 ![Virus Diagram]({{site.baseurl}}/images/bacteriophage_new.jpg)
 
-### We're done with the basics of viruses! Now, onto the interesting questions!
+### That does it for the basics of viruses! Now, onto the interesting questions!
