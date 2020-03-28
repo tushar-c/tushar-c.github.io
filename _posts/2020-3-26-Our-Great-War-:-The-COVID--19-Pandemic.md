@@ -10,7 +10,7 @@ This post is a little special. One of the main reasons is that I'm taking to wri
 
 I am glad for people who have taken the time out to read and review what I have to say on things I like. That was a big part of what has kept me writing. 
 
-##  Simple Is The New Sexy: Understanding This Complex Beast
+##  Simple Is The New Sexy: Our Approach To Understanding
 
 The tone of this post unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with comic images and GIFs, (try my best to) make jokes, while talking about a very serious topic that is the cause of these uncertain times. 
 
