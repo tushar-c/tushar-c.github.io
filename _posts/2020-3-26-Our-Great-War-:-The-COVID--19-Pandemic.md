@@ -105,6 +105,6 @@ By having materials from the immune system of the host, the virus is able to dod
 
 Oh and about that mainstream virus image? Here it is, this is a type of virus that's called a *Bacteriophage*. This means that it is a virus that specifically infects bacteria. Impressive in it's own right, but not of much use to us right now.
 
-![Virus Diagram]({{site.baseurl}}/images/bacteriophage_detailed.png)
+![Virus Diagram]({{site.baseurl}}/images/bacteriophage_new.jpg)
 
 ### We're done with the basics of viruses! Now, onto the interesting questions!
