@@ -101,7 +101,7 @@ This outline, the envelope, contains materials (called glycoproteins, a special 
 
 These materials give the virus the ability to evade the immune system of the host. The immune system works on memory. It can fend off pathogens (disease causing microorganisms) it has seen before. 
 
-By having materials from the immune system of the host, the virus is able to dodge punches the immune system of the host might throw, so now the virus has some 'memory' of the immune system off of which it is working now(this is much like playing a reverse card in UNO).  
+By having materials from the immune system of the host, the virus is able to dodge punches the immune system of the host might throw, showing signs of having some 'memory' of the immune system off of which it is working (this is much like playing a reverse card in UNO).  
 
 Oh and about that mainstream virus image? Here it is, this is a type of virus that's called a *Bacteriophage*. This means that it is a virus that specifically infects bacteria. Impressive in it's own right, but not of much use to us right now.
 
