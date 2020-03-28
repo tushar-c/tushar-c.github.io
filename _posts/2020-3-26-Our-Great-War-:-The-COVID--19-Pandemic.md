@@ -73,7 +73,7 @@ As you can see, there's really only three real parts:
 
 3. The Envelope - **The Street Smarts**
 
-**1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid)  of the Virus**
+### 1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid)  of the Virus
 
 See that dark thread in the middle? You would not be very far from the truth if you said that threads like this one are the reason you're forced to sit in your home right now. That's the genetic material of the virus.
 
@@ -81,11 +81,7 @@ That material, which is either DNA or RNA (the distinction is **NOT** important 
 
 The name of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. More copies of the virus means more quantity of that protein, more protein in this case means more infection.
 
-
-### Hang in there, we're almost done with the basics of a virus!
-
-
-**2. The Protein Coat**
+### 2. The Protein Coat
 
 That necklace made up of beads (they are called 'capsomeres' in technical jargon. capsomeres are structures filled with protein, they come in different shapes and sizes) is the protein coat. What does that do? 
 
@@ -97,7 +93,7 @@ Well, it got hired by our beloved management at Virus Incorporated for three mai
 
 **C. It contains chemicals (proteins) that let the virion (remember the unemployed virus?) sneak into the host (in technical jargon: these proteins help the virion penetrate the host's cell membrane. But that's boring.)**
 
-**3. The Envelope**
+### 3. The Envelope
 
 This outline, the envelope, contains materials (called glycoproteins, a special kind of protein) from the virus as well as the host (if the virus has come in contact with a host).
 
