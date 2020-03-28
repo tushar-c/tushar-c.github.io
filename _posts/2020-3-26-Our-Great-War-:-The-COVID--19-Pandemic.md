@@ -1,6 +1,3 @@
----
-published: true
----
 ![Classification]({{site.baseurl}}/images/tusharBlog-01.png)
 
 
@@ -16,7 +13,7 @@ The tone of this post unlike those in the past, is going to be realistic, which 
 
 Now, a lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or merely enlist a bunch of statistics without any explanation, jump to conclusions and start resembling popular culture magazine articles.
 
-I've tried to maintain a balance by trying to boil things down to their simplest forms while not being wrong. The approach to learning here is 'need-based' rather than sequential. We will talk about ideas only when they are needed and not try to cover everything first and then proceed with the applications, that's supremely inefficient.
+I've tried to maintain a balance by trying to boil things down to their simplest forms while not being wrong. 
 
 ### The aim is to be able to explain the relevant science to anyone, anywhere, regardless of their background.
 
@@ -81,6 +78,7 @@ That material, which is either DNA or RNA (the distinction is **NOT** important 
 
 The name of the game is to synthesize (create) proteins. These proteins are what let the virus do it's job. More copies of the virus means more quantity of that protein, more protein in this case means more infection.
 
+
 ### Hang in there, we're almost done with the basics of a virus!
 
 
@@ -90,12 +88,9 @@ That necklace made up of beads (they are called 'capsomers' in technical jargon.
 
 **A. The coat protects the DNA / RNA of the virus. Think of it as the skull that protects the brain.**
 
-
 **B. It has slots that allow the virus to latch on to a host.**
 
-
 **C. It contains chemicals (proteins) that let the virion (remember the unemployed virus?) sneak into the host (in technical jargon: these proteins help the virion penetrate into the host's cell membrane. But that's boring.)**
-
 
 **3. The Envelope**
 
