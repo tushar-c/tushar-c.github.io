@@ -67,7 +67,7 @@ With that being said, a cartoon structure is down here.
 
 Technically, this picture is that of an 'Animal Virus', the kind of virus that affects you and me. A more mainstream picture will make an appearance further down. 
 
-As you can see, there's really only three real parts:
+As you can see, there's really only three parts:
 
 1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid) - **The Mastermind**
 
