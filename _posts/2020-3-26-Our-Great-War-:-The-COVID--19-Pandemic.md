@@ -39,7 +39,7 @@ Before we can get to the interesting stuff about the Coronavirus and COVID-19, t
 
 ### If you already feel like this is something you don't, won't or cant' understand, you're not alone. I know the feeling. Give it five more minutes.
 
-To understand the enemy in all its gory depth, we first have to get an image in our minds of what a virus actually is. Viruses are a huge topic, there are over 5,000 species of viruses and they have a whole academic field in their own right, that's Virology. 
+To understand the enemy in all its gory depth, we first have to get an image in our minds of what a virus actually is. Viruses are a huge topic, there are over 5,000 species of viruses! They have a whole academic field in their own right, that's Virology. 
 
 But don't worry, we won't spend all day here! We only need a 2-minute blitz worth of it.
 
