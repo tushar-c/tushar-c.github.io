@@ -49,7 +49,7 @@ To make things clear, the larger consensus among the scientific community is to 
 
 Viruses rely on hosts for their growth and nourishment. Once they breach into a host cell, that is when they show all the habits you would expect from living beings: 
 
-**A. They can create more copies of themselves ( this is really all there is to biology, basically :) )**
+**A. They can create more copies of themselves ( this is really all there is to biology :) )**
 
 **B. Package their copies for redistribution ( send the children to work ), as well as derive energy from the host to keep replicating ( see the point? ).** 
 
