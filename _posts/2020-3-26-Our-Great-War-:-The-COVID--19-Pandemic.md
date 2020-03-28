@@ -109,4 +109,4 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. This means 
 
 ![Virus Diagram]({{site.baseurl}}/images/bacteriophage_new.jpg)
 
-### That does it for the basics of viruses! Now, onto the interesting questions!
+### That does it for the basics of viruses! If you made it this far, you deserve to eat out at your favorite place right now! Too bad that's not possible! What should we do then ? Well, move onto the interesting questions!
