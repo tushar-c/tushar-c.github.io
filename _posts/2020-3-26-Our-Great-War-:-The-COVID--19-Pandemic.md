@@ -88,7 +88,7 @@ That necklace made up of beads (they are called 'capsomeres' in technical jargon
 
 Well, it got hired by our beloved management at Virus Incorporated for three main reasons:
 
-**A. The coat protects the DNA / RNA of the virus. Think of it as the skull that protects the brain.**
+**A. The coat protects the DNA / RNA of the virus. Similar to how the skull protects the brain.**
 
 **B. It has slots that allow the virus to latch on to a host.**
 
@@ -113,6 +113,6 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
 
 ![Virus Diagram]({{site.baseurl}}/images/bacteriophage_new.jpg)
 
-### We do have the required basics of what viruses are. Not that intimidating after all, right?
+### There you have it! We've  required basics of what viruses are. Not that intimidating after all, right?
 
 ## Meeting Each Other Finally: The Coronavirus
