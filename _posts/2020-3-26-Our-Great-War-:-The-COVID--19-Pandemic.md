@@ -1,3 +1,6 @@
+---
+published: false
+---
 ![Classification]({{site.baseurl}}/images/tusharBlog-01.png)
 
 
@@ -46,7 +49,7 @@ Viruses rely on hosts for their growth and nourishment. Once they breach into a 
 
 **A. They can create more copies of themselves (this is really all there is to biology, basically :) )**
 
-**B. Package them for redistribution (send the children to work), as well as derive energy from the host to keep replicating ( see the point? ).** 
+**B. Package copies for redistribution (send the children to work), as well as derive energy from the host to keep replicating ( see the point? ).** 
 
 They use the host's resources to perform their everyday tasks, thereby weakening the host (if this goes on too much for too long, the host falls sick. You might see where this is going).
 
