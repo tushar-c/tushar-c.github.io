@@ -51,7 +51,7 @@ Viruses rely on hosts for their growth and nourishment. Once they breach into a 
 
 **B. Package copies for redistribution (send the children to work), as well as derive energy from the host to keep replicating ( see the point? ).** 
 
-They use the host's resources to perform their everyday tasks, thereby weakening the host (if this goes on too much for too long, the host falls sick. Happens to us all).
+They use the host's resources to perform their everyday tasks, thereby weakening the host (if this goes on too much for too long, the host falls sick. Happens to us all.).
 
 It might have probably occured to you that viruses are like parasites in nature, you wouldn't be wrong!
 
