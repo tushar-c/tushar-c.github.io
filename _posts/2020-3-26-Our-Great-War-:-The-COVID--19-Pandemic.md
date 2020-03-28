@@ -116,3 +116,5 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
 ### There you have it! You now know enough about viruses to be responsible about the Coronavirus. Not that intimidating after all, right?
 
 ## Meeting Each Other Finally: The Coronavirus
+
+![Coronavirus]({{site.baseurl}}/images/coronavirus.gif)
