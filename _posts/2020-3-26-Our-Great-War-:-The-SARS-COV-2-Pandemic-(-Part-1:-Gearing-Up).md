@@ -127,4 +127,4 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
 
 ![Virus Diagram]({{site.baseurl}}/images/bacteriophage_new.jpg)
 
-## We're halfway there! \*Progress Bar: 50 % \*
+## We're halfway there!
