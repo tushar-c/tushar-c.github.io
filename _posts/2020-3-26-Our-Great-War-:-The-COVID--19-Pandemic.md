@@ -46,9 +46,10 @@ It might come as a surprise to you that, in spite of being the most populous typ
 
 To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms, though their status has historically always been a matter of debate. This might seem confusing (It is).
 
-**Viruses show what is called 'host specificity'. This means that all viruses do not affect all organisms. This is an important point that we will use later.**
+Viruses rely on a host for their growth and nourishment.
 
-Viruses rely on hosts for their growth and nourishment. Once they breach into a host cell, that is when they show all the habits you would expect from living beings: 
+**Viruses show what is called 'host specificity'. This means that all viruses do not affect all organisms. This is an important point that we will use later.**
+ Once they breach into a host cell, that is when they show all the habits you would expect from living beings: 
 
 **A. They can create more copies of themselves ( this is really all there is to biology :) )**
 
