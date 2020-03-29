@@ -118,7 +118,6 @@ By having materials from the immune system of the host, the virus is able to dod
 
 Thus, showing signs of having some 'memory' of the immune system off of which it is working (this is much like playing a reverse card in UNO).  
 
-
 ### One for the 'Gram: Feel Free To Give This One No Likes
 
 Oh and about that mainstream virus image? 
