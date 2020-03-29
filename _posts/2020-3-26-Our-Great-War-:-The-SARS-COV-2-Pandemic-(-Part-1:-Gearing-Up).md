@@ -22,7 +22,9 @@ These are uncertain times, and they require carefully worded and delicately hand
 
 That's why I've decided to break this topic down into a series of posts. I plan to stop at three. This is the first.
 
-In the first post, we'll look at the basic biology that's needed to understand the Coronavirus. In the second post, we'll ask the interesting 'why' questions related to the Coronavirus and SARS-COV-2 (the name COVID-19 is old news).
+In the first post, we'll look at the basic biology that's needed to understand the Coronavirus. 
+
+In the second post, we'll ask the interesting 'why' questions related to the Coronavirus and SARS-COV-2 (the name COVID-19 is old news).
 
 In the third post, we'll look at the more 'human' aspect of things and talk about about what lies ahead in the future for humanity and whether pandemics like this one will become a part of our lives (?!?).  
 
