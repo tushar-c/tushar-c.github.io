@@ -12,6 +12,10 @@ I am glad for people who take the time out to read and review what I have to say
 
 ##  Simple Is The New Sexy: Our Approach To Understanding
 
+A lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or merely enlist a bunch of statistics without any explanation, jump to conclusions and start resembling popular culture magazine articles.
+
+I've tried to maintain a balance by trying to boil things down to their simplest forms while not being wrong. 
+
 These are uncertain times, and they require carefully worded and delicately handled explanations. 
 
 That's why I've decided to break this topic down into a series of posts. I plan to stop at three. This is the first.
@@ -22,9 +26,6 @@ In the third post, we'll look at the more humanitarian aspect of things and wond
 
 ### The tone of every post in this series, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with comic images and GIFs, while talking about a very serious topic that is the cause of these uncertain times. 
 
-A lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or merely enlist a bunch of statistics without any explanation, jump to conclusions and start resembling popular culture magazine articles.
-
-I've tried to maintain a balance by trying to boil things down to their simplest forms while not being wrong. 
 
 ### The aim is to be able to explain the relevant science to anyone, anywhere, regardless of their background.
 
