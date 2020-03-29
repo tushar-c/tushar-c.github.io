@@ -28,8 +28,6 @@ In the third post, we'll look at the more humanitarian aspect of things and wond
 
 ### The tone of every post in this series, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with comic images and GIFs, while talking about a very serious topic that is the cause of these uncertain times. 
 
-
-
 One point worth mentioning before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. That is why you should make sure to keep as many sources of information open to you as possible. 
 
 The one core belief around which everything else here exists is that:
