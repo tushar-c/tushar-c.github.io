@@ -36,7 +36,7 @@ In the third post, we'll look at the more *human* aspect of things and talk abou
 
 One point worth mentioning before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. That is why you should make sure to keep as many sources of information open to you as possible. 
 
-The one core belief around which everything else here exists is that:
+Lastly, The one core belief around which everything else here exists is that:
 
 **THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE PURSUIT OF SOUNDING IMPRESSIVE.**
 
