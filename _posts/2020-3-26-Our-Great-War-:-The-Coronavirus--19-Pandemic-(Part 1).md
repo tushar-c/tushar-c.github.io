@@ -8,7 +8,7 @@ published: true
 
 This post is a little special. One of the main reasons is that I'm taking to writing after a year, as I managed to burn myself out completely in the past six months.
 
-I am glad for people who have taken the time out to read and review what I have to say on things I like. That was a big part of what has kept me writing. 
+I am glad for people who take the time out to read and review what I have to say on things I like. This is a big part of what keeps me writing. 
 
 ##  Simple Is The New Sexy: Our Approach To Understanding
 
