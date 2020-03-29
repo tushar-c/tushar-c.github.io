@@ -56,7 +56,7 @@ To understand the enemy in all its gory depth, we first have to get an image in 
 
 But don't worry, we won't spend all day here! We only need an 'Icing On The Cake' worth of it (it's alright if you did not catch that pun).
 
-Viruses are tricky business. It might come as a surprise to you that, in spite of being the most populous type of biological entity, viruses are considered to be neither alive nor dead! This is because viruses by themselves cannot replicate ( *grow* ), nor can they derive their own energy ( *eat food* ). 
+Viruses are tricky business. It might come as a surprise to you that, in spite of being the most populous type of biological entity, viruses are considered to be neither alive nor dead! This is because viruses by themselves, that is to say, without a host, cannot replicate ( *grow* ), nor can they derive their own energy ( *eat food* ). 
 
 To make things clear, the larger consensus among the scientific community is to not treat viruses as living organisms, though their status has historically always been a matter of debate. This might seem confusing (It is).
 
