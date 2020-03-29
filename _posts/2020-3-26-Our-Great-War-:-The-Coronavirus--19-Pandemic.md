@@ -119,14 +119,4 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
 
 ![Virus Diagram]({{site.baseurl}}/images/bacteriophage_new.jpg)
 
-### There you have it! You now know enough about viruses to be responsible about the Coronavirus. Not that intimidating after all, right?
-
-## Meeting Each Other Finally: The Coronavirus
-
-![Coronavirus]({{site.baseurl}}/images/coronavirus.gif)
-
-This GIF that you're seeing gives the reason for calling it the 'Coronavirus'. See those yellow bulbs? When looked at through a microscope (specifically, an electron microscope), they give the appearance of a 'Corona'.
-
-### What's A Corona?
-
-A 'Corona' is an aura, an 'outline' if you may, that appears 
+## \*Progress Bar: 50 % \*
