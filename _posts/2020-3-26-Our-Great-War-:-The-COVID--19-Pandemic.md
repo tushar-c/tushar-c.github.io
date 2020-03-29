@@ -124,3 +124,5 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
 ## Meeting Each Other Finally: The Coronavirus
 
 ![Coronavirus]({{site.baseurl}}/images/coronavirus.gif)
+
+Now that we've talked about viruses, we can finally get to talking about the Coronavirus.
