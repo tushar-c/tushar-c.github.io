@@ -28,7 +28,7 @@ In the first post, we'll look at the basic biology that's needed to understand t
 
 ### 2. How Viruses Infect A Host
 
-In the second post, we'll ask the interesting 'why' questions related to the Coronavirus and SARS-COV-2 (the name COVID-19 is old news :) ).
+In the second post, we'll ask the interesting 'why' questions related to the Coronavirus and SARS-COV-2 ( the name COVID-19 is old news :) ).
 
 In the third post, we'll look at the more 'human' aspect of things and talk about about what lies ahead in the future for humanity and whether pandemics like this one will become a part of our lives (?!?).  
 
