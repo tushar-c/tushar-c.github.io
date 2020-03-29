@@ -24,9 +24,9 @@ That's why I've decided to break this topic down into a series of posts. I plan 
 
 In the first post, we'll look at the basic biology that's needed to understand the Coronavirus. That requires majorly only two things:
 
-## 1. What A Virus Is
+### 1. What A Virus Is
 
-## 2. How Viruses Infect A Host
+### 2. How Viruses Infect A Host
 
 In the second post, we'll ask the interesting 'why' questions related to the Coronavirus and SARS-COV-2 (the name COVID-19 is old news).
 
