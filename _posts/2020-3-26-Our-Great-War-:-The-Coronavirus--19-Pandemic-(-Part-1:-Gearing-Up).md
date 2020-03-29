@@ -20,7 +20,7 @@ In the first post, we'll look at the basic biology that's needed to understand t
 
 In the third post, we'll look at the more humanitarian aspect of things and wonder about what lies ahead in the future for humanity and whether pandemics like this one will become a part of our lives.  
 
-The tone of every post in this series, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with comic images and GIFs, while talking about a very serious topic that is the cause of these uncertain times. 
+### The tone of every post in this series, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with comic images and GIFs, while talking about a very serious topic that is the cause of these uncertain times. 
 
 Now, a lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or merely enlist a bunch of statistics without any explanation, jump to conclusions and start resembling popular culture magazine articles.
 
