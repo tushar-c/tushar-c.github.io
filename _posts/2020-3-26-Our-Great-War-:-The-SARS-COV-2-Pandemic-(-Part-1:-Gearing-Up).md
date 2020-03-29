@@ -20,7 +20,7 @@ I've tried to maintain a balance by boiling things down to their simplest forms 
 
 These are uncertain times, and they require carefully worded and delicately handled explanations. 
 
-That's why I've decided to break this topic down into a series of posts. I plan to stop at three. This is the first.
+That's why this topic has been broken down into a series of posts. I plan to stop at three. This is the first.
 
 In the first post, we'll look at the basic biology that's needed to understand the Coronavirus. That requires majorly only two things:
 
