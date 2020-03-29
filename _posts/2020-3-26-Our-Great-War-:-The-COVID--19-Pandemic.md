@@ -88,7 +88,9 @@ The name of the game is to synthesize (create) proteins. Proteins are sources of
 
 ### 2. The Protein Coat
 
-That necklace made up of beads (they are called 'capsomeres' in technical jargon. capsomeres are structures filled with protein, they come in different shapes and sizes) is the protein coat. What does that do? 
+That necklace made up of beads (they are called 'capsomeres' in technical jargon. capsomeres are structures filled with protein, they come in different shapes and sizes) is the protein coat. 
+
+What does that do? 
 
 Well, it got hired by our beloved management at Virus Incorporated for three main reasons:
 
