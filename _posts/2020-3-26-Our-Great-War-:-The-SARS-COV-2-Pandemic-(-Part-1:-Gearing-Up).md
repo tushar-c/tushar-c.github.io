@@ -26,7 +26,7 @@ In the first post, we'll look at the basic biology that's needed to understand t
 
 ## 1. What A Virus Is
 
-## 2. How Does A Virus Infect The Host In Which Resides
+## 2. How Viruses Infect A Host
 
 In the second post, we'll ask the interesting 'why' questions related to the Coronavirus and SARS-COV-2 (the name COVID-19 is old news).
 
