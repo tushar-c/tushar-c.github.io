@@ -42,9 +42,11 @@ Lastly, The one core belief around which everything else here exists is that:
 
 With all that out of the way, let's get to business. So sit back, relax, put your thinking cap on and let's begin!
 
-## An Introduction: Okay so, 'Corona' refers to an aura, but what's the 'virus' all about? 
+## An Introduction: Okay so, 'Corona' refers to an aura, but what's the 'virus' all about?
 
+{:refdef: style="text-align: center;"}
 ![Gadhbadh Virus]({{site.baseurl}}/images/virus.gif)
+{: refdef}
 
 **"Everyone wants to party but nobody wants to do the dishes."**
 
@@ -134,6 +136,4 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
 
 ### We need just one more bite from the basics cake before we're ready to move to the interesting questions!
 
-## Life On The Move: Hmm... I'm Still Listening , But How Does This Little Thing Cause Global Anxiety?  
-
-
+## Life On The Move: Hmm... I'm Still Listening , But How Does This Little Thing Cause Global Anxiety?
