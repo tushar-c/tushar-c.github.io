@@ -22,11 +22,11 @@ These are uncertain times, and they require carefully worded and delicately hand
 
 That's why this topic has been broken down into a series of posts. I plan to stop at three. This is the first.
 
-In the first post, we'll look at the basic biology that's needed to understand the Coronavirus, the pandemic it has brought about, and future implications. That requires majorly two things:
+In the first post, we want to set the stage so that we're able to answer two major questions about this pandemic. They are: 
 
-### 1. What Viruses Are
+### 1. What Is The Coronavirus ?
 
-### 2. How Viruses Infect A Host
+### 2. How Is It Spreading So Quickly ?
 
 In the second post, we'll ask the interesting *why* questions related to the Coronavirus and SARS-CoV-2 ( the name COVID-19 is old news :) ).
 
