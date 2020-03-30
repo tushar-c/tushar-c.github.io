@@ -33,7 +33,7 @@ In the first post, we want to set the stage so that we're able to answer two maj
 
 Later, we'll ask the really interesting questions related to the Coronavirus and SARS-CoV-2 ( the name COVID-19 is old news :) ). We'll also look at the more *human* aspect of things and talk about what lies ahead in the future for humanity and whether pandemics like this one will become a part of our lives (?!?).  
 
-## The biggest advantage of true understanding will be that we'll be able to get all the virology memes!
+## The biggest advantage of true understanding is that we'll be able to get all the virology memes!
 
 ### The tone of every post in this series, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with comic images and GIFs, while talking about a very serious topic that is the cause of these uncertain times. 
 
