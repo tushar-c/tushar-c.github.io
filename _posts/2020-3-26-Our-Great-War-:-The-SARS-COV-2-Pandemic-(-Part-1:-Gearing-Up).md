@@ -157,4 +157,4 @@ Answering this well has two benefits:
 
 An Infection by a virus, right from the point of finding a host, to the point of either killing the host, or leaving it to create more copies of itself while the host dies slowly, involves majorly six steps. 
 
-These differ in the specifics based on the virus.
+These differ in some details based on the virus. But the fundamentals remain the same. Let's dive in!
