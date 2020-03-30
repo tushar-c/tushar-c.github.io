@@ -147,7 +147,7 @@ This is the last bit that remains for us to explore after which we're armed with
 
 The one thing that remains to be talked about is: 
 
-### How Do Viruses Infect?
+**How Do Viruses Infect?**
 
 Answering this well has two benefits:
 
