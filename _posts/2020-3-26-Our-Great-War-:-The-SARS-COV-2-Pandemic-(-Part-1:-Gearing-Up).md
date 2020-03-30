@@ -149,7 +149,14 @@ This is the last bit that remains for us to explore after which we're armed with
 
 ### There's going to be some technical terms coming up. A little more than showed up above. Just like then, we'll rip everything down to to it's simplest core.
 
-The one thing that remains to be talked about is: How do viruses infect?
+The one thing that remains to be talked about is: 
 
+### How Do Viruses Infect?
+
+Answering this well has two benefits:
+
+### 1. We can understand and make decisions on the Coronavirus and any future pandemic that may arise.
+
+### 2. We'll able to understand all the Virology Memes.
 
 
