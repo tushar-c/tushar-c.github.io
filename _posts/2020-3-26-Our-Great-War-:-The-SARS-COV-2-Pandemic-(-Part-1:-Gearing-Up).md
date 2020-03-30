@@ -41,7 +41,7 @@ Lastly, the one core belief around which everything else here exists is that:
 
 **THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE PURSUIT OF SOUNDING IMPRESSIVE.**
 
-With all that out of the way, let's get to business. So sit back, relax, put your thinking cap on and let's begin!
+With all that out of the way, let's get to business. So sit back, put your thinking cap on and let's begin!
 
 ## An Introduction: Okay so, 'Corona' refers to an aura, but what's the 'virus' all about?
 
