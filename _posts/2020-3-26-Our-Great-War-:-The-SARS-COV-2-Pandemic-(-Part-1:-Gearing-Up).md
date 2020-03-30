@@ -132,4 +132,4 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
 
 ![Virus Diagram]({{site.baseurl}}/images/bacteriophage_new.jpg)
 
-## We're halfway there!
+## We're halfway there! We only need to look at one more question before we can talk about the really cool stuff.
