@@ -31,9 +31,7 @@ In the first post, we want to set the stage so that we're able to answer two maj
 
 ### 2. How Is It Spreading So Quickly ?
 
-In the second post, we'll ask the really interesting questions related to the Coronavirus and SARS-CoV-2 ( the name COVID-19 is old news :) ).
-
-In the third post, we'll look at the more *human* aspect of things and talk about what lies ahead in the future for humanity and whether pandemics like this one will become a part of our lives (?!?).  
+Later, we'll ask the really interesting questions related to the Coronavirus and SARS-CoV-2 ( the name COVID-19 is old news :) ). We'll also look at the more *human* aspect of things and talk about what lies ahead in the future for humanity and whether pandemics like this one will become a part of our lives (?!?).  
 
 ### The tone of every post in this series, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with comic images and GIFs, while talking about a very serious topic that is the cause of these uncertain times. 
 
