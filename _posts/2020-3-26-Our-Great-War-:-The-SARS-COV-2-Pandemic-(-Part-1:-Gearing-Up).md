@@ -33,11 +33,11 @@ Later, we'll ask the really interesting questions related to the Coronavirus and
 
 ## The biggest advantage of true understanding is that we'll be able to get all the virology memes!
 
-### The tone of every post in this series, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat, while talking about a very serious topic that is the cause of these uncertain times. 
+### The tone of every post in this series, unlike those in the past, is going to be realistic, which is code for informal. I intend to keep the mood light and upbeat with comic images and GIFs, while talking about a very serious topic that is the cause of these uncertain times. 
 
 One point worth mentioning before we begin is that the material on this subject is constantly changing and being updated, more rapidly than any single one of us can keep up. That is why you should make sure to keep as many sources of information open to you as possible. 
 
-Lastly, the one core belief around which everything else here exists is that:
+Lastly, The one core belief around which everything else here exists is that:
 
 **THERE IS NO POINT IN MAKING THINGS COMPLEX IN THE PURSUIT OF SOUNDING IMPRESSIVE.**
 
@@ -133,24 +133,26 @@ Oh and about that mainstream virus image?
 
 Here it is, this is a type of virus that's called a *Bacteriophage*. They are viruses that specifically infect bacteria. **Impressive in their own right, but not of much use to us right now.**
 
-<p id="bacteriophage" align="center">
+<p align="center">
    <img src="/images/bacteriophage_new-01-01.png" width="100%" />
 </p>
 
-We need just one more bite from the basics cake before we're ready to move to the interesting questions!
+### We need just one more bite from the basics cake before we're ready to move to the interesting questions!
 
-## Life On The Move: Hmm... I'm Still Listening , But How Does This Little Thing Cause Global Anxiety?
+## Viral Infections: Hmm... I'm Still Listening , But How Does This Little Thing Spread So As To Cause Global Anxiety?
 
 This is the last bit that remains for us to explore after which we're armed with all the tools needed to understand the all the 'Why's of the Coronavirus. Those are the only questions worth asking. Let's repeat one thing that showed up before:
 
-### There's going to be some technical terms coming up. A little more in number than those that showed up above. Just like then, we'll rip everything down to it's core.
+### There's going to be some technical terms coming up. A little more than showed up above. Just like then, we'll rip everything down to to it's simplest core.
 
 The one thing that remains to be talked about is: 
 
-**How Do Viruses Infect?**
+### How Do Viruses Infect?
 
 Answering this well has two benefits:
 
-#### 1. We can understand and make decisions on the Coronavirus and any future pandemic that may arise.
+### 1. We can understand and make decisions on the Coronavirus and any future pandemic that may arise.
 
-#### 2. We'll be able to do better at Plauge, Inc.
+### 2. We'll be able to do better at Plauge, Inc.
+
+A virus infection, right from the point of finding a host, to the point of either killing the host, or leaving it to create more copies of itself while the host dies slowly, involves majorly six steps. These differ in the specifics based on the virus.
