@@ -46,7 +46,7 @@ With all that out of the way, let's get to business. So sit back, relax, put you
 
 {:refdef: style="text-align: center;"}
 ![Gadhbadh Virus]({{site.baseurl}}/images/virus.gif)
-{: refdef}
+{:refdef}
 
 **"Everyone wants to party but nobody wants to do the dishes."**
 
