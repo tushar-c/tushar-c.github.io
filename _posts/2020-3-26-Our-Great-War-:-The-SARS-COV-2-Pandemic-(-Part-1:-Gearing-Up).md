@@ -159,4 +159,6 @@ Answering this well has two benefits:
 
 ### 1. We can understand and make decisions on the Coronavirus and any future pandemic that may arise.
 
-### 2. We'll able to understand all the Virology Memes.
+### 2. We'll be able to do better at Plauge, Inc.
+
+
