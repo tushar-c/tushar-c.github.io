@@ -149,3 +149,7 @@ This is the last bit that remains for us to explore after which we're armed with
 
 ### There's going to be some technical terms coming up. A little more than showed up above. Just like then, we'll rip everything down to to it's simplest core.
 
+The one thing that remains to be talked about is: How do viruses infect?
+
+
+
