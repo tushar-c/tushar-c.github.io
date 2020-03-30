@@ -132,9 +132,7 @@ Oh and about that mainstream virus image?
 
 Here it is, this is a type of virus that's called a *Bacteriophage*. They are viruses that specifically infect bacteria. **Impressive in their own right, but not of much use to us right now.**
 
-{:refdef: style="transform: scale(1.3);"}
 ![Virus Diagram]({{site.baseurl}}/images/bacteriophage_new-01-01.png)
-{:refdef}
 
 ### We need just one more bite from the basics cake before we're ready to move to the interesting questions!
 
