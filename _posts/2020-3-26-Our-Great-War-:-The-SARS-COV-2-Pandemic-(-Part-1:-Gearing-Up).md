@@ -132,4 +132,6 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
 
 ![Virus Diagram]({{site.baseurl}}/images/bacteriophage_new.jpg)
 
-## We're halfway there! We only need to look at one more question before we can talk about the really cool stuff.
+### We need just one more bite from the basics cake before we're ready to move to the interesting questions!
+
+## Life On The Move: I Know Something About What A Virus, But How Does This Little Thing Cause Global Anxiety?  
