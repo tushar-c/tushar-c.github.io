@@ -133,7 +133,7 @@ Oh and about that mainstream virus image?
 
 Here it is, this is a type of virus that's called a *Bacteriophage*. They are viruses that specifically infect bacteria. **Impressive in their own right, but not of much use to us right now.**
 
-<p align="center">
+<p id="bacteriophage" align="center">
    <img src="/images/bacteriophage_new-01-01.png" width="100%" />
 </p>
 
@@ -158,5 +158,3 @@ Answering this well has two benefits:
 ### 1. We can understand and make decisions on the Coronavirus and any future pandemic that may arise.
 
 ### 2. We'll be able to do better at Plauge, Inc.
-
-
