@@ -155,4 +155,6 @@ Answering this well has two benefits:
 
 ### 2. We'll be able to do better at Plauge, Inc.
 
-A virus infection, right from the point of finding a host, to the point of either killing the host, or leaving it to create more copies of itself while the host dies slowly, involves majorly six steps. These differ in the specifics based on the virus.
+A virus infection, right from the point of finding a host, to the point of either killing the host, or leaving it to create more copies of itself while the host dies slowly, involves majorly six steps. 
+
+These differ in the specifics based on the virus.
