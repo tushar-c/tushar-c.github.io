@@ -43,7 +43,7 @@ Lastly, The one core belief around which everything else here exists is that:
 
 With all that out of the way, let's get to business. So sit back, put your thinking cap on and let's begin!
 
-## An Introduction: Okay so, 'Corona' refers to an aura, but what's the 'virus' all about?
+## An Introduction: Okay so 'Corona' refers to an aura, but what's the 'virus' all about?
 
 {:refdef: style="text-align: center;"}
 ![Gadhbadh Virus]({{site.baseurl}}/images/virus.gif)
