@@ -143,7 +143,7 @@ We need just one more bite from the basics cake before we're ready to move to th
 
 This is the last bit that remains for us to explore after which we're armed with all the tools needed to understand the all the 'Why's of the Coronavirus. Those are the only questions worth asking. Let's repeat one thing that showed up before:
 
-### There's going to be some technical terms coming up. A little more in number than those that showed up above. Just like then, we'll rip everything down to to it's simplest core.
+### There's going to be some technical terms coming up. A little more in number than those that showed up above. Just like then, we'll rip everything down to it's core.
 
 The one thing that remains to be talked about is: 
 
