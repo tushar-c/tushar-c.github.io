@@ -78,9 +78,9 @@ As an aside, when the virus is capable of, but not busy infecting a cell, roamin
 
 ### There's a very tiny bit of technical terms coming up. Again, if you do not know what they mean, please don't let that discourage you. We'll take apart each one of them and you'll see that just like most things in life, they aren't that complex after all.
 
-With that being said, a cartoon structure is down here.
+With that being said, a structure is down here.
 
-![Virus Diagram]({{site.baseurl}}/images/virus.png)
+![Virus Diagram]({{site.baseurl}}/images/virus-01.png)
 
 Technically, this picture is that of an 'Animal Virus', the kind of virus that affects you and me. A more mainstream picture will make an appearance further down. 
 
@@ -135,3 +135,5 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
 ### We need just one more bite from the basics cake before we're ready to move to the interesting questions!
 
 ## Life On The Move: Hmm... I'm Still Listening , But How Does This Little Thing Cause Global Anxiety?  
+
+
