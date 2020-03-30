@@ -137,7 +137,7 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
    <img src="/images/bacteriophage_new-01-01.png" width="100%" />
 </p>
 
-### We need just one more bite from the basics cake before we're ready to move to the interesting questions!
+We need just one more bite from the basics cake before we're ready to move to the interesting questions!
 
 ## Life On The Move: Hmm... I'm Still Listening , But How Does This Little Thing Cause Global Anxiety?
 
