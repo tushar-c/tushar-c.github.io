@@ -167,4 +167,13 @@ In very much the same way, the host has to have the correct kind of 'ports' on i
 
 Once the perfect match has been found, the really fun (excuse my enthusiasm over this horrible thing) part begins! 
 
+### STEP 1: The Virus Attaches Itself To The Host
+
+To spare you the pain of scrolling back up, let's bring back an image we saw earlier. 
+
+[!putImageHere]
+
+
+
+
 
