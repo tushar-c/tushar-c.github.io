@@ -159,9 +159,11 @@ An infection by a virus, right from the point of finding a host, to the point of
 
 These differ in some details based on the virus. But the fundamentals remain the same. Let's dive in!
 
-It all starts with finding that perfect match. Remember the 'host specificity' we talked about ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it. 
+It all starts with finding that perfect match. Remember the 'host specificity' we talked about ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it and even in those receptors, the virus can infect only certain cells. 
 
-What does that mean ? Well, think of it like this: You can't plug a USB Type-C port into a Micro-USB charger, right? In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. 
+What does that mean ? Well, think of it like this: You can't put an USB cable into an AUX port (An AUX port is basically your 'headphone jack'. It's a tragedy those are disappearing.). Even once a USB cable is plugged, there are different types of USB ports (Type-C, Micro USB, USB 2.0, USB 3.0, you get the idea).
+
+In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. 
 
 Once the perfect match has been found, the really fun (excuse my enthusiasm over this horrible thing) part begins! 
 
