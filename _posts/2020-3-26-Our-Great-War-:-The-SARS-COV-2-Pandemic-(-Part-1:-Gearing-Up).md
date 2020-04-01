@@ -139,7 +139,7 @@ Here it is, this is a type of virus that's called a *Bacteriophage*. They are vi
 
 ### We need just one more bite from the basics cake before we're ready to move to the interesting questions!
 
-## Viral Infections: Hmm... I'm Still Listening, But How Does This Little Thing Spread So As To Cause Global Anxiety?
+## Viral Infections: Hmm... I'm Still Listening, But How Does This Little Thing Managed To Lock Me Up?
 
 This is the last bit that remains for us to explore after which we're armed with all the tools needed to understand the all the "Why's" of the Coronavirus. Those are the only questions worth asking. Let's repeat one thing that showed up before:
 
@@ -162,4 +162,7 @@ These differ in some details based on the virus. But the fundamentals remain the
 It all starts with finding that perfect match. Remember the 'host specificity' we talked about ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it. 
 
 What does that mean ? Well, think of it like this: You can't plug a USB Type-C port into a Micro-USB charger. In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. 
+
+Once the 
+
 
