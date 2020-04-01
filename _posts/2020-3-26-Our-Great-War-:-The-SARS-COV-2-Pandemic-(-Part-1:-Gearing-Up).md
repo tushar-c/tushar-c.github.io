@@ -161,7 +161,7 @@ An infection by a virus, right from the point of finding a host, to the point of
 
 These differ in some details based on the virus. But the fundamentals remain the same. Let's dive in!
 
-It all starts with finding that perfect match. Remember the 'host specificity' of a virus we talked about  ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it and even in those receptors, the virus can infect only certain cells. 
+It all starts with finding that perfect match. Remember the 'host specificity' of a virus we talked about ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it and even in those receptors, the virus can infect only certain cells. 
 
 What does that mean ? Well, think of it like this: You can't just put a USB cable into an AUX port (An AUX port is basically your 'headphone jack'. It's a tragedy those are disappearing.). 
 
