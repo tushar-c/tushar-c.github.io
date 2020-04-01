@@ -147,7 +147,7 @@ This is the last bit that remains for us to explore after which we're armed with
 
 The one thing that remains to be talked about is: 
 
-### How Do Viruses Infect?
+### How Do Viruses Infect Hosts?
 
 Answering this well has two benefits:
 
@@ -163,6 +163,6 @@ It all starts with finding that perfect match. Remember the 'host specificity' w
 
 What does that mean ? Well, think of it like this: You can't plug a USB Type-C port into a Micro-USB charger. In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. 
 
-Once the 
+Once the perfect match has been found, the really fun (excuse my enthusiasm over this horrible thing) part begins! 
 
 
