@@ -165,7 +165,7 @@ It all starts with finding that perfect match. Remember the 'host specificity' o
 
 What does that mean ? Well, think of it like this: You can't just put a USB cable into an AUX port (An AUX port is basically your 'headphone jack'. It's a tragedy those are disappearing.). Even with USB, there are different types of USB ports (Type-C, Micro USB, USB 2.0, USB 3.0, even USB 1.1, you get the idea).
 
-These 'ports' are present on what's called the 'cell membrane' (an outer layer of the cell, much like the outer covering of an onion) of the host. 
+These 'ports' are present on what's called the 'cell membrane' (an outer layer of the cell, much like the outer covering of an onion, or the outer covering of your mobile phone, that houses all the ports, if that's more relevant) of the host. 
 
 In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. 
 
