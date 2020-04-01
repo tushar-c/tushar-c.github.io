@@ -155,8 +155,11 @@ Answering this well has two benefits:
 
 ### 2. We'll be able to do better at Plauge, Inc.
 
-An Infection by a virus, right from the point of finding a host, to the point of either killing the host, or leaving it to create more copies of itself while the host dies slowly, involves majorly six steps. 
+An infection by a virus, right from the point of finding a host, to the point of either killing the host, or leaving it to create more copies of itself while the host dies slowly, involves majorly six steps. 
 
 These differ in some details based on the virus. But the fundamentals remain the same. Let's dive in!
 
-It all starts with finding that perfect match. Remember the 'host specificity' we talked about ? This comes into play right now.
+It all starts with finding that perfect match. Remember the 'host specificity' we talked about ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it. 
+
+What does that mean ? Well, think of it like this: You can't plug a USB Type-C port into a Micro-USB charger. In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to fit in. 
+
