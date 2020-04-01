@@ -161,7 +161,7 @@ These differ in some details based on the virus. But the fundamentals remain the
 
 It all starts with finding that perfect match. Remember the 'host specificity' we talked about ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it. 
 
-What does that mean ? Well, think of it like this: You can't plug a USB Type-C port into a Micro-USB charger. In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. 
+What does that mean ? Well, think of it like this: You can't plug a USB Type-C port into a Micro-USB charger, right? In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. 
 
 Once the perfect match has been found, the really fun (excuse my enthusiasm over this horrible thing) part begins! 
 
