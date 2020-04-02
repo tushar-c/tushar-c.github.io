@@ -219,4 +219,4 @@ Budding is a rather peaceful end to a Viral Infection cycle. Here, the Virions p
 
 However, the remaining Virions in the Host cell become targets of the Host's antibodies (Antibodies are the rescue team your immune system sends to fight off pathogens).
 
-Budding is typical of viruses with Envelopes.
+Budding is typical of viruses with Envelopes. Viruses that show this behaviour are called 'Cytopathic'.
