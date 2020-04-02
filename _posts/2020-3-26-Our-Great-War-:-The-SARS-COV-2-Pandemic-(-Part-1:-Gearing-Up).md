@@ -185,8 +185,6 @@ In very much the same way, the host has to have the correct kind of 'ports' on i
 
 In general, when the Virus and the Host are attached, the Host 'eats' the Virus. What does this mean ? Well, the cell membrane of the Host surrounds the Virus and engulfs it in. At this point, the Virus gets access to the Host.
 
-In jargon, this process is called 'endocytosis'.
-
-However, like in the image, some Viruses have an Envelope. What about them ?
+In jargon, this process is called 'endocytosis'. However, like in the image, some Viruses have an Envelope. What about them ?
 
 Well for them, when the Virus and the host are attached, the Envelope of the Virus and the cell membrane of the Host fuse together. It is at this point that the virus gains access to the host. So the Envelope has come off and once inside, the capsid (the protein coat) is discarded and the Viral Genetic Material is released inside the host cell.
