@@ -175,12 +175,16 @@ What does that mean ? Well, think of it like this: You can't just put a USB cabl
 
 Even with USB, there are different types of USB ports (Type-C, Micro USB, USB 2.0, USB 3.0, even USB 1.1, you get the idea).
 
-These 'ports' are present on what's called the cell membrane (the outer layer of the cell, much like the outer covering of an onion. Thinking about the outer covering of your mobile phone, that houses all the ports, will also work) of the host. 
+These 'ports' are present on what's called the cell membrane (the outer layer of the cell, much like the outer covering of an onion. Thinking about the outer covering of your mobile phone, that houses all the ports, is also an okay visualization) of the host. 
 
 The Glycoproteins on the Viral Envelope of the Virus interact with these receptors and this is part that decides whether the Virus will affect this particular host or not.
 
 In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. In jargon, this is called the 'host range' of the Virus.
 
 ### STEP 2: The Virus Penetrates The Host (Viral Penetration)
+
+Now that the Virus and the Host are attached, the Host 'eats' the Virus. What does this mean ? Well, the cell membrane (
+
+Like we said, not all Viruses have an Envelope. What about them ?
 
 Now that the Virus and the host are attached, the Envelope of the Virus and the cell membrane of the host fuse together. It is at this point that the virus gains access to the host. So the Envelope has come off and once inside, the capsid (the protein coat) is discarded and the Viral Genetic Material is released inside the host cell.
