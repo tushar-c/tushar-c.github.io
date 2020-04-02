@@ -161,8 +161,6 @@ An infection by a virus, right from the point of finding a host, to the point of
 
 These differ in some details based on the virus. But the fundamentals remain the same. Let's dive in!
 
-
-
 Once the perfect match has been found, the really fun (excuse my enthusiasm over this horrible thing) part begins! 
 
 ### STEP 1: The Virus Attaches Itself To The Host
