@@ -81,7 +81,7 @@ As an aside, when the virus is capable of, but not busy infecting a cell, roamin
 
 ### There's a very tiny bit of technical terms coming up. Again, if you do not know what they mean, please don't let that discourage you. We'll take apart each one of them and you'll see that just like most things in life, they aren't that complex after all.
 
-With that being said, a structure is down here.
+With that being said, take a look at this bad boy.
 
 ![Virus Diagram]({{site.baseurl}}/images/virus-01.png)
 
