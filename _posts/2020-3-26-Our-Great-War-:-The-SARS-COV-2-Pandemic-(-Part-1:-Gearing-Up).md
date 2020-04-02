@@ -211,7 +211,7 @@ This is essentially the stage where the newly created Viruses (for that point th
 
 Lysis refers to phenomenon of the rupture of the cell membrane of a cell. In this context, these cells are exactly the ones inside the Host. When you puncture a cell, the contents will eventually 'drain out' and disintegrate. The cell ruptures, thus, dying. 
 
-Viruses that do this are called 'Cytolytic'.
+Viruses that do this have been blessed with the name 'Cytolytic'.
 
 ### 2. Budding
 
