@@ -19,7 +19,7 @@ I've tried to maintain a balance by boiling things down to their simplest forms 
 
 ### The aim is to be able to explain the relevant science to anyone, anywhere, regardless of their background.
 
-These are uncertain times, and they require carefully worded and delicately handled explanations. 
+These are uncertain times, and they require carefully worded and delicately handled explanations. There is an inherent trade-off between explaining the core of things and covering too much.
 
 That's why this topic has been broken down into a series of posts. I've decided to stop at three. This is the first.
 
