@@ -203,4 +203,16 @@ TODO
 
 TODO
 
-### STEP 6: 
+### STEP 6: Moving On From The Host (Virion Release / Egress)
+
+This is essentially the stage where the newly created Viruses (for that point they are just sitting there, so we call them Virions) leave the current host. They leave in two ways:
+
+### 1. Lysis
+
+Lysis refers to phenomenon of the rupture of the cell membrane of a cell. In this context, these cells are exactly the ones inside the Host. When you puncture a cell, the contents will eventually 'drain out' and disintegrate. The cell ruptures, thus, dying.
+
+
+### 2. Budding
+
+This is a rather peaceful end to a Viral Infection cycle.
+
