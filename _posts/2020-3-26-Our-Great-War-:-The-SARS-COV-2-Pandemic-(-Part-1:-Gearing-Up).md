@@ -161,7 +161,7 @@ An infection by a virus, right from the point of finding a host, to the point of
 
 These differ in some details based on the virus. But the fundamentals remain the same. Let's dive in!
 
-### STEP 1: The Virus Attaches Itself To The Host (Attachment)
+### STEP 1: Finding The Perfect Match (Attachment)
 
 To spare you the pain of scrolling back up, let's bring back an image we saw earlier. 
 
@@ -192,3 +192,7 @@ Well for them, when the Virus and the host are attached, the Envelope of the Vir
 ### STEP 3: The Protein Coat Comes Off (Uncoating)
 
 After the Envelope has come off and once the Virus is inside, the capsid (the protein coat) is discarded and the Viral Genetic Material is released inside the host cell.
+
+When this happens, the Host is really in trouble.
+
+### STEP 4: Time To Make More Viruses (Viral Replication)
