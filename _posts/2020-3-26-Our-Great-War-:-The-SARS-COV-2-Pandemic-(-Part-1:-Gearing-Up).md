@@ -195,4 +195,12 @@ After the Envelope has come off and once the Virus is inside, the capsid (the pr
 
 When this happens, the Host is really in trouble.
 
-### STEP 4: Time To Make More Viruses (Viral Replication)
+### STEP 4: Making More Viruses (Viral Replication)
+
+TODO
+
+### STEP 5: Packaging The Newly Made Viruses (Assembly)
+
+TODO
+
+### STEP 6: 
