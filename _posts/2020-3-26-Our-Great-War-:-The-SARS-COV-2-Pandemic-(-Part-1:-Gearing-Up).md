@@ -233,6 +233,8 @@ Viruses that do this have been blessed with the name 'Cytolytic'.
 
 Budding is a rather peaceful end to a Viral Infection cycle. Here, the Virions peacefully leave through the cell membrane, while the cell continues to create more Viruses. This method of Virion exit does not kill the Host cell. 
 
+![Virus_Fitting]({{site.baseurl}}/images/virus_attack_6.png)
+
 However, the remaining Virions in the Host cell become targets of the Host's antibodies (Antibodies are the rescue team your immune system sends to fight off pathogens).
 
 Budding is typical of viruses with Envelopes. Viruses that show this behaviour are called 'Cytopathic' in technical jargon.
