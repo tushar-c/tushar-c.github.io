@@ -211,8 +211,7 @@ This is essentially the stage where the newly created Viruses (for that point th
 
 Lysis refers to phenomenon of the rupture of the cell membrane of a cell. In this context, these cells are exactly the ones inside the Host. When you puncture a cell, the contents will eventually 'drain out' and disintegrate. The cell ruptures, thus, dying.
 
-
 ### 2. Budding
 
-This is a rather peaceful end to a Viral Infection cycle.
+Budding is a rather peaceful end to a Viral Infection cycle. Here, the Virions peacefully leave through the cell membrane, while the cell continues to create more Viruses.
 
