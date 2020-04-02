@@ -183,7 +183,7 @@ In very much the same way, the host has to have the correct kind of 'ports' on i
 
 ### STEP 2: The Virus Penetrates The Host (Viral Penetration)
 
-Now that the Virus and the Host are attached, the Host 'eats' the Virus. What does this mean ? Well, the cell membrane (
+In general, when the Virus and the Host are attached, the Host 'eats' the Virus. What does this mean ? Well, the cell membrane of the Host surrounds the Virus and engulfs it in 
 
 Like we said, not all Viruses have an Envelope. What about them ?
 
