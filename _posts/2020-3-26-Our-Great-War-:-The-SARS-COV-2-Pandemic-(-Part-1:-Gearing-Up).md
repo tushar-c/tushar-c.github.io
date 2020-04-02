@@ -201,7 +201,7 @@ Well for them, when the Virus and the host are attached, the Envelope of the Vir
 
 After the Envelope has come off and once the Virus is inside, the capsid (the protein coat) is discarded and the Viral Genetic Material is released inside the host cell.
 
-![Virus_Fitting]({{site.baseurl}}/images/virus_attack_1.png)
+![Virus_Fitting]({{site.baseurl}}/images/virus_attack_3.png)
 
 When this happens, the Host really is in trouble.
 
