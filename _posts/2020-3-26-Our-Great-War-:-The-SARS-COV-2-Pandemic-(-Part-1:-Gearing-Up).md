@@ -161,15 +161,7 @@ An infection by a virus, right from the point of finding a host, to the point of
 
 These differ in some details based on the virus. But the fundamentals remain the same. Let's dive in!
 
-It all starts with finding that perfect match. Remember the 'host specificity' of a virus we talked about ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it and even in those receptors, the virus can infect only certain cells. 
 
-What does that mean ? Well, think of it like this: You can't just put a USB cable into an AUX port (An AUX port is basically your 'headphone jack'. It's a tragedy those are disappearing.). 
-
-Even with USB, there are different types of USB ports (Type-C, Micro USB, USB 2.0, USB 3.0, even USB 1.1, you get the idea).
-
-These 'ports' are present on what's called the 'cell membrane' (an outer layer of the cell, much like the outer covering of an onion. Thinking about the outer covering of your mobile phone, that houses all the ports, will also work) of the host. 
-
-In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. 
 
 Once the perfect match has been found, the really fun (excuse my enthusiasm over this horrible thing) part begins! 
 
@@ -179,7 +171,16 @@ To spare you the pain of scrolling back up, let's bring back an image we saw ear
 
 [!putImageHere]
 
+It all starts with finding that perfect match. See the Viral Envelope? It holds glycoproteins inside that allow the virus to attach to the cell membrane of the host.
 
-See the Viral Envelope? It holds glycoproteins inside that allow the virus to attach to the cell membrane of the host.
+Remember the 'host specificity' of a virus we talked about ? This comes into play right now. The host must have the correct kind of receptors for the virus to be able to infect it and even in those receptors, the virus can infect only certain cells. 
+
+What does that mean ? Well, think of it like this: You can't just put a USB cable into an AUX port (An AUX port is basically your 'headphone jack'. It's a tragedy those are disappearing.). 
+
+Even with USB, there are different types of USB ports (Type-C, Micro USB, USB 2.0, USB 3.0, even USB 1.1, you get the idea).
+
+These 'ports' are present on what's called the 'cell membrane' (an outer layer of the cell, much like the outer covering of an onion. Thinking about the outer covering of your mobile phone, that houses all the ports, will also work) of the host. 
+
+In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. 
 
 
