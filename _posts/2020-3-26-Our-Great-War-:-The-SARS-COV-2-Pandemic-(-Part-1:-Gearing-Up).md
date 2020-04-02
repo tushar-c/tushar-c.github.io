@@ -181,4 +181,4 @@ These 'ports' are present on what's called the cell membrane (the outer layer of
 
 The Glycoproteins on the Viral Envelope of the Virus interact with these receptors and this is part that decides whether the Virus will affect this particular host or not.
 
-In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'.
+In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. In jargon, this is called the 'host range' of the Virus.
