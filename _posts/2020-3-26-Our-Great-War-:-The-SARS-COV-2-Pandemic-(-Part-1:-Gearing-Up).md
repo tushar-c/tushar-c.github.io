@@ -209,9 +209,13 @@ When this happens, the Host really is in trouble.
 
 TODO
 
+![Virus_Fitting]({{site.baseurl}}/images/virus_attack_4.png)
+
 ### STEP 5: Packaging The Newly Made Viruses (Assembly)
 
 TODO
+
+![Virus_Fitting]({{site.baseurl}}/images/virus_attack_5.png)
 
 ### STEP 6: Moving On From The Host (Virion Release / Egress)
 
