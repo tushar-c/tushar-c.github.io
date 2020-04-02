@@ -57,7 +57,7 @@ Before we can get to the interesting stuff about the Coronavirus and COVID-19, t
 
 To understand the enemy in all its gory depth, we first have to get an image in our minds of what a virus actually is. Viruses are a huge topic, there are over 5,000 species of them! They have a whole academic field in their own right, that's Virology. 
 
-But don't worry, we won't spend all day here! We only need an 'Icing On The Cake' worth of it (it's alright if you did not catch that pun).
+But don't worry, we won't spend all day here! We only need a very tiny bit of it here.
 
 Viruses are tricky business. It might come as a surprise to you that, in spite of being the most populous type of biological entity, viruses are considered to be neither alive nor dead! This is because viruses by themselves, that is to say, without a host, cannot replicate ( *grow* ), nor can they derive their own energy ( *eat food* ). 
 
