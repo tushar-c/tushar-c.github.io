@@ -213,5 +213,5 @@ Lysis refers to phenomenon of the rupture of the cell membrane of a cell. In thi
 
 ### 2. Budding
 
-Budding is a rather peaceful end to a Viral Infection cycle. Here, the Virions peacefully leave through the cell membrane, while the cell continues to create more Viruses.
+Budding is a rather peaceful end to a Viral Infection cycle. Here, the Virions peacefully leave through the cell membrane, while the cell continues to create more Viruses. This method of Virion exit does not kill the Host cell. However, the remaining Virions in the Host cell become targets of the Host's antibodies (Antibodies are the rescue team your immune system sends to fight off pathogens).
 
