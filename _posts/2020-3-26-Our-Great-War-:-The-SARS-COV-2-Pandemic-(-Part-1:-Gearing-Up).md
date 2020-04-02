@@ -77,7 +77,7 @@ It might have probably occured to you that viruses are like parasites in nature.
 
 The basic parts of a virus are simple to understand.
 
-As an aside, when the virus is capable of, but not busy infecting a cell, roaming about in the world, it is called a *virion*: an unemployed virus. 
+As an aside, when the virus is capable of, but not busy infecting a cell, roaming about in the world, it is called a *virion* : an unemployed virus. 
 
 ### There's a very tiny bit of technical terms coming up. Again, if you do not know what they mean, please don't let that discourage you. We'll take apart each one of them and you'll see that just like most things in life, they aren't that complex after all.
 
@@ -177,8 +177,6 @@ What does that mean ? Well, think of it like this: You can't just put a USB cabl
 
 Even with USB, there are different types of USB ports (Type-C, Micro USB, USB 2.0, USB 3.0, even USB 1.1, you get the idea).
 
-These 'ports' are present on what's called the 'cell membrane' (an outer layer of the cell, much like the outer covering of an onion. Thinking about the outer covering of your mobile phone, that houses all the ports, will also work) of the host. 
+These 'ports' are present on what's called the 'cell membrane' (an outer layer of the cell, much like the outer covering of an onion. Thinking about the outer covering of your mobile phone, that houses all the ports, will also work) of the host. The Glycoproteins on the Viral Envelope of the interact with these receptors 
 
-In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. 
-
-
+In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'.
