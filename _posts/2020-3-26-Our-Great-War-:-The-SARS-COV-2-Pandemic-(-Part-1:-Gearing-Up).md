@@ -161,8 +161,6 @@ An infection by a virus, right from the point of finding a host, to the point of
 
 These differ in some details based on the virus. But the fundamentals remain the same. Let's dive in!
 
-Once the perfect match has been found, the really fun (excuse my enthusiasm over this horrible thing) part begins! 
-
 ### STEP 1: The Virus Attaches Itself To The Host
 
 To spare you the pain of scrolling back up, let's bring back an image we saw earlier. 
@@ -182,3 +180,5 @@ These 'ports' are present on what's called the cell membrane (the outer layer of
 The Glycoproteins on the Viral Envelope of the Virus interact with these receptors and this is part that decides whether the Virus will affect this particular host or not.
 
 In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. In jargon, this is called the 'host range' of the Virus.
+
+### STEP 2: 
