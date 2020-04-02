@@ -161,7 +161,7 @@ An infection by a virus, right from the point of finding a host, to the point of
 
 These differ in some details based on the virus. But the fundamentals remain the same. Let's dive in!
 
-### STEP 1: The Virus Attaches Itself To The Host
+### STEP 1: Attachment - The Virus Attaches Itself To The Host
 
 To spare you the pain of scrolling back up, let's bring back an image we saw earlier. 
 
@@ -181,4 +181,4 @@ The Glycoproteins on the Viral Envelope of the Virus interact with these recepto
 
 In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. In jargon, this is called the 'host range' of the Virus.
 
-### STEP 2: 
+### STEP 2: The vi
