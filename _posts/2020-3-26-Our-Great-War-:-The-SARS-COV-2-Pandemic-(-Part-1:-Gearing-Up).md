@@ -189,4 +189,6 @@ In jargon, this process is called 'endocytosis'. However, like in the image, som
 
 Well for them, when the Virus and the host are attached, the Envelope of the Virus and the cell membrane of the Host fuse together. It is at this point that the virus gains access to the host. 
 
-After the Envelope has come off and once inside, the capsid (the protein coat) is discarded and the Viral Genetic Material is released inside the host cell.
+### STEP 3: The Protein Coat Comes Off (Uncoating)
+
+After the Envelope has come off and once the Virus is inside, the capsid (the protein coat) is discarded and the Viral Genetic Material is released inside the host cell.
