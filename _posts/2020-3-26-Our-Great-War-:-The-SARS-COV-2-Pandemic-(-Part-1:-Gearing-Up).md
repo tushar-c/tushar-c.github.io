@@ -182,3 +182,5 @@ The Glycoproteins on the Viral Envelope of the Virus interact with these recepto
 In very much the same way, the host has to have the correct kind of 'ports' on it's surface for the virus to be able to 'fit in'. In jargon, this is called the 'host range' of the Virus.
 
 ### STEP 2: The Virus Penetrates The Host (Viral Penetration)
+
+Now that the Virus and the host are attached, the Envelope of the Virus and the cell membrane of the host fuse together. It is at this point that the virus gains access to the host. So the Envelope has come off and once inside, the capsid (the protein coat) is discarded and the Viral Genetic Material is released inside the host cell.
