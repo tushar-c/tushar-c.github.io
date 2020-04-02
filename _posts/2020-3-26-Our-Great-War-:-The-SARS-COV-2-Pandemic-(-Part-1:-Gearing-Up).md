@@ -177,7 +177,7 @@ What does that mean ? Well, think of it like this: You can't just put a USB cabl
 
 Even with USB, there are different types of USB ports (Type-C, Micro USB, USB 2.0, USB 3.0, even USB 1.1, you get the idea).
 
-These 'ports' are present on what's called the 'cell membrane' (an outer layer of the cell, much like the outer covering of an onion. Thinking about the outer covering of your mobile phone, that houses all the ports, will also work) of the host. 
+These 'ports' are present on what's called the cell membrane (the outer layer of the cell, much like the outer covering of an onion. Thinking about the outer covering of your mobile phone, that houses all the ports, will also work) of the host. 
 
 The Glycoproteins on the Viral Envelope of the interact with these receptors and this is part that decides whether the Virus will affect this particular host or not.
 
