@@ -11,7 +11,7 @@ This post is a little special. One of the main reasons is that I'm taking to wri
 
 I am glad for people who take the time out to read and review what I have to say on things I like. People keep me pursuing this hobby.
 
-##  Simple Is The New Sexy: Our Approach To Understanding
+## Simple Is The New Sexy: Our Approach To Understanding
 
 A lot of the COVID-19 posts tend to live on two extremes. They either become too technical too quickly, or merely enlist a bunch of statistics without any explanation, jump to conclusions and start resembling popular culture magazine articles.
 
