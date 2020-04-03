@@ -207,7 +207,7 @@ When this happens, the Host really is in trouble.
 
 ### STEP 4: Making More Viruses (Viral Replication)
 
-After the Uncoating process, 
+After the Uncoating is complete, it's time for the Virus to make all its efforts count! This is where the Virus starts to make more copies of itself. This is the part where the Host's clock is turned into a countdown. 
 
 ![Virus_Fitting]({{site.baseurl}}/images/virus_attack_4.png)
 
