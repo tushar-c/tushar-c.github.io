@@ -213,6 +213,10 @@ At this point, the difference between whether the Genetic Material of the Virus 
 
 ### DNA Viruses
 
+
+
+### RNA Viruses
+
 ![Virus_Fitting]({{site.baseurl}}/images/virus_attack_4.png)
 
 ### STEP 5: Packaging The Newly Made Viruses (Assembly)
