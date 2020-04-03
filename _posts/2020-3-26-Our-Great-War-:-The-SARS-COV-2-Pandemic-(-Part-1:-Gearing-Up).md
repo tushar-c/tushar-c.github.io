@@ -211,6 +211,8 @@ After the Uncoating is complete, it's time for the Virus to make all its efforts
 
 At this point, the difference between whether the Genetic Material of the Virus has DNA or RNA becomes significant. We'll look at two cases, 'DNA Viruses' and 'RNA Viruses' based on whether the material is DNA or RNA.
 
+### DNA Viruses
+
 ![Virus_Fitting]({{site.baseurl}}/images/virus_attack_4.png)
 
 ### STEP 5: Packaging The Newly Made Viruses (Assembly)
