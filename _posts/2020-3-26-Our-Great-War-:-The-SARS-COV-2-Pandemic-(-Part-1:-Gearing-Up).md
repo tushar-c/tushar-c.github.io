@@ -209,6 +209,8 @@ When this happens, the Host really is in trouble.
 
 After the Uncoating is complete, it's time for the Virus to make all its efforts count! This is where the Virus starts to make more copies of itself. This is the part where the Host's clock is turned into a countdown. 
 
+At this point, the difference between whether the Genetic Material of the Virus has DNA or RNA becomes significant. We'll look at two cases, that is, whether the material is DNA and when it is RNA.
+
 ![Virus_Fitting]({{site.baseurl}}/images/virus_attack_4.png)
 
 ### STEP 5: Packaging The Newly Made Viruses (Assembly)
