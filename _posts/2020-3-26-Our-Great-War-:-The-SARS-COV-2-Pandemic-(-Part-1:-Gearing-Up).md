@@ -207,13 +207,13 @@ When this happens, the Host really is in trouble.
 
 ### STEP 4: Making More Viruses (Viral Replication)
 
-TODO
+After the Uncoating process, 
 
 ![Virus_Fitting]({{site.baseurl}}/images/virus_attack_4.png)
 
 ### STEP 5: Packaging The Newly Made Viruses (Assembly)
 
-TODO
+
 
 ![Virus_Fitting]({{site.baseurl}}/images/virus_attack_5.png)
 
@@ -244,5 +244,3 @@ Budding is typical of viruses with Envelopes. Viruses that show this behaviour a
 Here's all the previous steps put together into a nice GIF:
 
 ![Virus_Fitting]({{site.baseurl}}/images/attack.gif)
-
-
