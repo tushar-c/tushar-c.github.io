@@ -235,7 +235,7 @@ Lysis refers to phenomenon of the rupture of the cell membrane of a cell. In thi
 
 ![Virus_Fitting]({{site.baseurl}}/images/virus_attack_7.png)
 
-Viruses that do this have been blessed with the name 'Cytolytic'.
+These bad boys go by the name of 'Cytolytic' in literature.
 
 ### 2. Budding
 
@@ -245,7 +245,11 @@ Budding is a rather peaceful end to a Viral Infection cycle. Here, the Virions p
 
 However, the remaining Virions in the Host cell become targets of the Host's antibodies (Antibodies are the rescue team your immune system sends to fight off pathogens).
 
-Budding is typical of viruses with Envelopes. Viruses that show this behaviour are called 'Cytopathic' in technical jargon.
+Budding is typical of viruses with Envelopes. This is because when the newly created Virus leaves the Host cell, it acquires the Envelope by modifying the Host's Plasma Membrane. An aside, the Plasma Membrane is not the same thing as the Cell Membrane.
+
+The Cell Membrane covers the entire cell, protects the cell from invaders and is open to being used for movement stimulation and feeding. The Plasma Membrane servers neither of these purposes. 
+
+Th'Cytopathic' in technical jargon.
 
 ### Infection In Action
 
