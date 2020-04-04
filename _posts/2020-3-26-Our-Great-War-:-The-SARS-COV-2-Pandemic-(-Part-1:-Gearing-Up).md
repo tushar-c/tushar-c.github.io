@@ -133,7 +133,7 @@ Not all viruses in existence have this Envelope. For those that don't, the glyco
 
 ### One for the 'Gram: Feel Free To Give This One No Likes
 
-Oh and about that mainstream virus image? 
+Oh and about that Mainstream virus image? 
 
 Here it is, this is a type of virus that's called a *Bacteriophage*. They are viruses that specifically infect bacteria. **Impressive in their own right, but not of much use to us right now.**
 
