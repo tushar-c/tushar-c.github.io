@@ -213,7 +213,7 @@ At this point, the difference between whether the Genetic Material of the Virus 
 
 ### DNA Viruses
 
-
+DNA Viruses are less self-reliant than RNA Viruses.
 
 ### RNA Viruses
 
