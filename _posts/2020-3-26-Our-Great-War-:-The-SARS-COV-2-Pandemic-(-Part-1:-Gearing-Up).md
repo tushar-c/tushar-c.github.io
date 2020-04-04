@@ -99,7 +99,7 @@ As you can see, there's really only three parts:
 
 ### 1. The DNA (Deoxyribonucleic Acid) / RNA (Ribonucleic Acid)  of the Virus
 
-See that dark thread in the middle? You would not be very far from the truth if you said that threads like this one are the reason you're forced to sit in your home right now. That's the genetic material of the virus.
+See that white thread in the middle? You would not be very far from the truth if you said that threads like this one are the reason you're forced to sit in your home right now. That's the genetic material of the virus.
 
 That material, which is either DNA or RNA (the distinction is **NOT** important to us right now), is the 'brain' of the virus and decides how the virus will function, that is, how it will create more copies of itself, use energy of the host, and infect the host. 
 
@@ -213,7 +213,7 @@ At this point, the difference between whether the Genetic Material of the Virus 
 
 ### DNA Viruses
 
-DNA Viruses are less self-reliant than RNA Viruses.
+DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins and enzymes of the host
 
 ### RNA Viruses
 
