@@ -235,7 +235,7 @@ Lysis refers to phenomenon of the rupture of the cell membrane of a cell. In thi
 
 ![Virus_Fitting]({{site.baseurl}}/images/virus_attack_7.png)
 
-These bad boys go by the name of 'Cytolytic' in literature.
+These bad boys go by the name of 'Cytolytic Viruses' in literature.
 
 ### 2. Budding
 
@@ -249,7 +249,7 @@ Budding is typical of viruses with Envelopes. This is because when the newly cre
 
 The Cell Membrane covers the entire cell, protects the cell from invaders and is open to being used for movement stimulation and feeding. The Plasma Membrane servers neither of these purposes. 
 
-Th'Cytopathic' in technical jargon.
+These merciful pests are termed 'Cytopathic Viruses' in technical jargon.
 
 ### Infection In Action
 
