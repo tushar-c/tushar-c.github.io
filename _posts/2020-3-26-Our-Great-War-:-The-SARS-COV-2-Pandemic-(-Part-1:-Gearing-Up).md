@@ -29,7 +29,7 @@ In the first post, we want to set the stage with the Biology basics so that we'r
 
 ### 2. How Is It Spreading So Quickly ?
 
-Later, we'll ask the really interesting questions related to the Coronavirus and SARS-CoV-2 ( the name COVID-19 is old news :) ). We'll also look at the more *human* aspect of things and talk about what lies ahead in the future for humanity and whether pandemics like this one will become a part of our lives (?!?).  
+Later, we'll ask the really interesting questions related to the Coronavirus and COVID-19. We'll also look at the more *human* aspect of things and talk about what lies ahead in the future for humanity and whether pandemics like this one will become a part of our lives (?!?).  
 
 ## The biggest advantage of true understanding is that we'll be able to get all the virology memes!
 
