@@ -223,7 +223,7 @@ DNA Viruses are less self-reliant than RNA Viruses. DNA Viruses use the proteins
 
 At this point, the newly prepared Viral Genome along with Viral Proteins must be assembled to create new Virions that must be prepared for leaving the nest. That is to say, to go on and infect other Hosts. 
 
-For Viruses with the Viral Envelope, this assembly happens in either the Nucleus or the Cytoplasm (the Cytoplasm is a fluid includes all of the material inside the cell apart from the Nucleus)
+For Viruses with the Viral Envelope, this assembly happens in either the Nucleus or the Cytoplasm (the Cytoplasm is a fluid includes all of the material inside the cell apart from the Nucleus) and their exist occurs through Lysis (explained below)
 
 
 
