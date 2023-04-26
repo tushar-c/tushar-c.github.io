@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-![SoftwareDev]({{site.baseurl}}/images/SoftDev.png)
+![SoftwareDev]({{site.baseurl}}/images/3d_cpu_1200.jpg)
 
 
 In this post we are going to set up our software environment so that we can can run the algorithms on our computers. The reason is that while understanding is crucial, you should also *see the algorithm in action*. 
