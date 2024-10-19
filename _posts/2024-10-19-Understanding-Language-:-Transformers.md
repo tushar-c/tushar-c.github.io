@@ -42,10 +42,6 @@ We assume that _'The'_ is the first word in vocabulary, _'sun'_ is the second wo
 If you made it this far, congratulations! There is just one more concept we need to know before we can begin understanding and implementing the transformer, and that is the concept of the **"Embedding Matrix"**.
 
 
-$$ \left(\begin{bmatrix} 1 \cr 3 \end{bmatrix} - \begin{bmatrix} 2 \cr 2 \end{bmatrix} \right) \cdot \begin{bmatrix} 4 \cr 4 \end{bmatrix}  =0 $$
-
-
-
 
 
 
