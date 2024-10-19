@@ -16,6 +16,6 @@ In the most eagle-eyed sense, we are trying to establish a relation between two 
 
 These are just two example questions that we may ask the computer. We can ask even more questions! However, for now, this will have serve as an exhaustive list of the curiousity of the human mind when it comes to asking natural language questions to computers.
 
-Now, 
+Now, given that computers only understand binary and the best method we have of communicating directly with them is through programming languages, how do we feed everyday language to a computer and expect it to give us everyday language as output that makes sense?
 
 ## Understanding the Transformer
