@@ -20,9 +20,11 @@ Now, given that computers only understand binary and the best method we have of 
 
 The answer is a little 'trick' that we have developed called **'tokenization'**. Understanding this technique is very simple if we think of it in the following manner (we will take the English Language for our purposes):
 
-1. We take any given word in english. We then decide a large number. This number is meant to be an approximate total of all the words that our model will ever see. We call this term the **"vocabulary"**. Similarly to our interpretation of the word in everyday life, the **"vocabulary"** is the total words that our model will ever come across. 
+1. We take any given word in english. We then decide a large number. This number is meant to be a total of all the words that our model will ever see. We call this term the **"vocabulary"**. Similarly to our interpretation of the word in everyday life, the **"vocabulary"** is the total words that our model will ever come across. 
 
-2. Now, we create a **"vocabulary-dimensional vector"**. This means that if our vocabulary has _1000_words_, then we will create a _1000-dimensional vector_ for each word in our input that we feed to a computer.
+2. Now, for each word in our input, we create a **"vocabulary-dimensional vector"**. This means that if our vocabulary has _1000 words_, then we will create a _1000-dimensional vector_ for each word in our input that we feed to a computer. If our input is _"Today is a good day"_, then we will have 5 vectors, each vector corresponding to a word in the input, and each vector will be a 1000-dimensional vector, since our _"English Vocabulary"_ for the purposes of this tutorial has only _1000 words_.
+
+3. 
 
 
 
