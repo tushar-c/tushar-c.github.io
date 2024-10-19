@@ -48,4 +48,15 @@ If you made it this far, congratulations! We can now begin with understanding an
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Understanding the Transformer
