@@ -8,7 +8,7 @@ Presently, the underlying model that is used to implement this is the **"Transfo
 
 Before we try to approach the model and its parameters and dive into the mathematics of the model, we need to understand what it is exactly that we are doing. We need to know the problem, we need to know why do we aim to solve the problem, we also need to know the solution and we also need to understand the solution.
 
-In the most eagle-eyed sense, **we are trying to get the computer to establish a relation between two sets of words**. These two sets of words are very large, differ in size, and sometimes they may even belong to different languages. We aim to give the computer a set of words as input and we are then asking different questions such as:
+In the most eagle-eyed sense, **we are trying to get the computer to establish a relation between two gigantic sets of words**. These two sets of words are very large, differ in size, and sometimes they may even belong to different languages. We aim to give the computer a set of words as input and we are then asking different questions such as:
 
 1. Given this set of words, what is the most probable set of words that come next in the sequence?
 
@@ -22,11 +22,15 @@ The answer is a little 'trick' that we have developed called **'tokenization'**.
 
 1. We take any given word in english. We then decide a large number. This number is meant to be a total of all the words that our model will ever see. We call this term the **'vocabulary'**. Similarly to our interpretation of the word in everyday life, the **vocabulary** is the total words that our model will ever come across. 
 
-2. Now, for each word in our input, we create a **vocabulary-dimensional, one-hot vector**. This means that if our vocabulary has _1000 words_, then we will create a _1000-dimensional vector_ for each word in our input that we feed to a computer. We need to do one more thing. Since there is the _'one-hot vector'_ term, we need to make sure that each vector is a _one-hot vector_. How do we do this? Well, it's simple. For each word in our vocabulary, we create a vector and every position in the vector is set to zero except for the position that corresponds to the position of the current word in our vocabulary.
+2. Now, for each word in our input, we create a **vocabulary-dimensional, one-hot vector**. This means that if our vocabulary has _1000 words_, then we will create a _1000-dimensional vector_ for each word in our input that we feed to a computer. We need to do one more thing. Since there is the _'one-hot vector'_ term, we need to make sure that each vector is a _one-hot vector_. 
+
+How do we do this? Well, it's simple. For each word in our vocabulary, we create a vector and every position in the vector is set to zero except for the position that corresponds to the position of the current word in our vocabulary.
 
 For example, if our input is _"Today is a good day"_, then we will have 5 vectors, each vector corresponding to a word in the input, and each vector will be a _1000-dimensional, one-hot vector_, since our _"English Vocabulary"_ for the purposes of this tutorial has only _1000 words_.
 
-3.  
+3. To illustrate this with an example, suppose
+
+
 
 
 $$ \left(\begin{bmatrix} 1 \cr 3 \end{bmatrix} - \begin{bmatrix} 2 \cr 2 \end{bmatrix} \right) \cdot \begin{bmatrix} 4 \cr 4 \end{bmatrix}  =0 $$
