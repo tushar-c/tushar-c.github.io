@@ -29,6 +29,9 @@ For example, if our input is _"Today is a good day"_, then we will have 5 vector
 3.  
 
 
+$$ \left(\begin{bmatrix} 1 \cr 3 \end{bmatrix} - \begin{bmatrix} 2 \cr 2 \end{bmatrix} \right) \cdot \begin{bmatrix} 4 \cr 4 \end{bmatrix}  =0 $$
+
+
 
 
 
