@@ -32,6 +32,10 @@ For example, if our input is _"The sun shines"_, then we will have 3 vectors, ea
 
 $$ \begin{bmatrix} 1 \cr 0 \cr 0 \end{bmatrix} THE $$
 
+$$ \begin{bmatrix} 0 \cr 1 \cr 0 \end{bmatrix} SUN $$
+
+$$ \begin{bmatrix} 0 \cr 0 \cr 1 \end{bmatrix} SHINES $$
+
 
 We assume that _'The'_ is the first word in vocabulary, _'sun'_ is the second word in vocabulary and _'shines'_ is the third in our vocabulary. We have assumed that there are 3 words in our vocabulary. If there were 5, we would have three 5-dimensional vectors for a sentence of 3 words in a vocabulary of a total of 5 words.
 
