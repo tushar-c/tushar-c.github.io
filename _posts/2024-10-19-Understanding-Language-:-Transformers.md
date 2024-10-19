@@ -28,7 +28,9 @@ How do we do this? Well, it's simple. For each word in our vocabulary, we create
 
 For example, if our input is _"The sun shines"_, then we will have 3 vectors, each vector corresponding to a word in the input, and each vector will be a _1000-dimensional, one-hot vector_, since our _"English Vocabulary"_ for the purposes of this tutorial has only _1000 words_.
 
-3. To illustrate this with an example, suppose we continue with our above example of _"The sun shines"_, we would need to create 3 vectors, one for each word, and then convert each vector to a _one-hot vector_ based on the position of that word in our overall vocabulary. For the sentence _"The sun shines"_
+3. To illustrate this with an example, suppose we continue with our above example of _"The sun shines"_, we would need to create 3 vectors, one for each word, and then convert each vector to a _one-hot vector_ based on the position of that word in our overall vocabulary. For the sentence _"The sun shines"_, we will have the following:
+
+$$ \begin{bmatrix} 1 \cr 3 \end{bmatrix} $$
 
 
 
