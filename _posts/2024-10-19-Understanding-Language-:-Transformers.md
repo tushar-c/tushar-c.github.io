@@ -6,7 +6,7 @@ Presently, the underlying model that is used to implement this is the **"Transfo
 
 ## Foundations
 
-Before we try to approach the model and its parameters and dive into the mathematics of the model, we need to understand what it is exactly that we are doing. We need to know the problem, we need to know why do we aim to solve the problem, we also need to know the solution and we also need to understand the solution.
+Before we try to approach the model and its parameters and dive into the mathematics of the model, we need to understand what it is exactly that we are doing.
 
 In the most eagle-eyed sense, **we are trying to get the computer to establish a relation between two gigantic sets of words**. These two sets of words are very large, differ in size, and sometimes they may even belong to different languages. We aim to give the computer a set of words as input and we are then asking different questions such as:
 
