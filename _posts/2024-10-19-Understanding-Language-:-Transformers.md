@@ -30,7 +30,7 @@ For example, if our input is _"The sun shines"_, then we will have 3 vectors, ea
 
 3. To illustrate this with an example, suppose we continue with our above example of _"The sun shines"_, we would need to create 3 vectors, one for each word, and then convert each vector to a _one-hot vector_ based on the position of that word in our overall vocabulary. For the sentence _"The sun shines"_, we will have the following:
 
-$$ \begin{bmatrix} 1 \cr 3 \end{bmatrix} $$
+$$ \begin{bmatrix} 1 \cr 0 \cr 0 \end{bmatrix} $$
 
 
 
