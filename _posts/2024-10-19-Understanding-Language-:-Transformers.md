@@ -30,14 +30,16 @@ For example, if our input is _"The sun shines"_, then we will have 3 vectors, ea
 
 3. To illustrate this with an example, suppose we continue with our above example of _"The sun shines"_, we would need to create 3 vectors, one for each word, and then convert each vector to a _one-hot vector_ based on the position of that word in our overall vocabulary. For the sentence _"The sun shines"_, we will have the following:
 
-$$ ' The ' \begin{bmatrix} 1 \cr 0 \cr 0 \end{bmatrix} $$ _The_
+$$ ' The ' \begin{bmatrix} 1 \cr 0 \cr 0 \end{bmatrix} $$
 
-$$ ' Sun ' \begin{bmatrix} 0 \cr 1 \cr 0 \end{bmatrix} $$ _sun_
+$$ ' Sun ' \begin{bmatrix} 0 \cr 1 \cr 0 \end{bmatrix} $$ 
 
-$$ ' Shines ' \begin{bmatrix} 0 \cr 0 \cr 1 \end{bmatrix} $$ _shines_
+$$ ' Shines ' \begin{bmatrix} 0 \cr 0 \cr 1 \end{bmatrix} $$
 
 
 We assume that _'The'_ is the first word in vocabulary, _'sun'_ is the second word in vocabulary and _'shines'_ is the third in our vocabulary. We have assumed that there are 3 words in our vocabulary. If there were 5, we would have three 5-dimensional vectors for a sentence of 3 words in a vocabulary of a total of 5 words.
+
+If you made it this far, congratulations! There is just one more concept we need to know before we can begin understanding and implementing the transformer, and that is the concept of the **"Embedding Matrix"**.
 
 
 $$ \left(\begin{bmatrix} 1 \cr 3 \end{bmatrix} - \begin{bmatrix} 2 \cr 2 \end{bmatrix} \right) \cdot \begin{bmatrix} 4 \cr 4 \end{bmatrix}  =0 $$
