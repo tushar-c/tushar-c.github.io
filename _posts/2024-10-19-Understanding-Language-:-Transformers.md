@@ -39,7 +39,7 @@ $$  Shines  \begin{bmatrix} 0 \cr 0 \cr 1 \end{bmatrix} $$
 
 We assume that _'The'_ is the first word in vocabulary, _'sun'_ is the second word in vocabulary and _'shines'_ is the third in our vocabulary. We have assumed that there are 3 words in our vocabulary. If there were 5, we would have three 5-dimensional vectors for a sentence of 3 words in a vocabulary of a total of 5 words.
 
-If you made it this far, congratulations! We can now begin with understanding and implementing the Transformer!
+If you made it this far, congratulations! We can now begin understanding and implementing the Transformer!
 
 
 
