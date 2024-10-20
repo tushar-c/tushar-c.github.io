@@ -47,6 +47,11 @@ If you made it this far, congratulations! We need to understand just one more co
 
 Understanding the _Embedding Matrix_ is really simple. The Embedding Matrix basically takes our one-hot vectors and projects them into real-valued vectors so that these may be fed into our Neural Networks and then the Network may adapt its weights through the backpropagation algorithm in the learning phase.
 
+Let's say that our first layer of the Neural Network takes a 100-Dimensional Vector as input and outputs a 256-Dimensional Vector so that it may be fed into the next layer of the network, then that means that the Weight Matrix for that layer would a $$ 100 x 256 $$-Dimensional Matrix.
+
+Similarly, let;s take the example of our 3-Dimensional Vectors from our vocabulary above.
+
+
 ## Conclusion
 
 Now that we know these basics, we can now go straight towards understanding and implementing the Transformer Model in the next post!
