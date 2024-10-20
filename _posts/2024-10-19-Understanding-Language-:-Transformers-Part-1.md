@@ -49,5 +49,5 @@ Understanding the _Embedding Matrix_ is really simple. The Embedding Matrix basi
 
 ## Conclusion
 
-Now that we know these basics, in the next post, we can now go straight towards understanding and implementing the Transformer Model!
+Now that we know these basics, we can now go straight towards understanding and implementing the Transformer Model in the next post!
 
