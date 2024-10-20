@@ -45,6 +45,8 @@ We assume that _'The'_ is the first word in vocabulary, _'sun'_ is the second wo
 
 If you made it this far, congratulations! We need to understand just one more concept before we can begin with the implementation of the transformer and that is, the **'Embedding Matrix'**.
 
+Understanding the _Embedding Matrix_ is really simple. 
+
 ## Conclusion
 
 Now that we know these basics, in the next post, we can now go straight towards understanding and implementing the Transformer Model!
