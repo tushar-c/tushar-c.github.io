@@ -4,7 +4,7 @@ After some time away, we are back! This time, we are going to understand the ide
 
 This is basically a term for a machine learning model having many parameters that attempts to model human (or natural) language.
 
-Presently, the underlying model that is used to implement this is the **'Transformer'**. The whole model has been described and explained in its entirety in the paper title **'Attention Is All You Need' by Vaswani et. al**. You can find the paper [here.] (https://arxiv.org/abs/1706.03762)
+Presently, the underlying model that is used to implement this is the **'Transformer'**. The whole model has been described and explained in its entirety in the paper title **'Attention Is All You Need' by Vaswani et. al**. You can find the paper [here.](https://arxiv.org/abs/1706.03762)
 
 It is this model that we are going to understand and implement in this post.
 
