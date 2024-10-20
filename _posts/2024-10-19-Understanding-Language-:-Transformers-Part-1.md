@@ -47,7 +47,7 @@ If you made it this far, congratulations! We need to understand just one more co
 
 Understanding the _Embedding Matrix_ is really simple. The Embedding Matrix basically takes our one-hot vectors and projects them into real-valued vectors so that these may be fed into our Neural Networks and then the Network may adapt its weights through the backpropagation algorithm in the learning phase. 
 
-The basic idea of the Embedding Matrix is to give real-value continuous representations to human language words (in this case, English). By combining the concepts of one-hot vectors and the Embedding Matrix, we are giving a real-valued continuous representations to words pertaining to human languages. 
+The basic idea of the Embedding Matrix is to give _real-value continuous representations_ to human language words (in this case, English). By combining the concepts of one-hot vectors and the Embedding Matrix, we are giving a real-valued continuous representations to words pertaining to human languages. 
 
 These numerical representations of human language words let us train the Neural Networks on our inputs.
 
