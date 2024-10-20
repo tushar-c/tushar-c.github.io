@@ -1,3 +1,5 @@
+![ANN2]({{site.baseurl}}/images/humanLanguage.jpg)
+
 ## Introduction
 
 After some time away, we are back! This time, we are going to understand the idea of modelling human language through the framework of Machine Learning. More specifically, in this first of a four-part series of blog posts, we are going to try to understand and implement the most widely known and the most commercialized method of application for this task is the Large Language Model. 
@@ -60,4 +62,3 @@ These are the basics we need to begin our implementation of the Transformer Mode
 ## Conclusion
 
 Now that we know these basics, we can now go straight towards understanding and implementing the Transformer Model in the next post!
-
