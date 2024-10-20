@@ -53,7 +53,7 @@ These numerical representations of human language words let us train the Neural 
 
 Let's say that our first layer of the Neural Network takes a 100-Dimensional Vector as input and outputs a 256-Dimensional Vector so that it may be fed into the next layer of the network, then that means that the Weight Matrix for that layer would a $$ 100 \times 256 $$-Dimensional Matrix.
 
-Similarly, let's take the example of our 3-Dimensional Vectors from our vocabulary above. Imagine if the layer takes a 3-Dimensional Vector as input and outputs a 6-Dimensional Vector to further project into the Neural Network. As a 
+Similarly, let's take the example of our 3-Dimensional Vectors from our vocabulary above. Imagine if the layer takes a 3-Dimensional Vector as input and outputs a 6-Dimensional Vector to further project into the Neural Network. Therefore, the Embedding Matrix that we are looking at is a $$ 3 \times 6 $$-Dimensional Matrix.
 
 
 ## Conclusion
