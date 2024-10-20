@@ -48,3 +48,4 @@ If you made it this far, congratulations! We need to understand just one more co
 ## Conclusion
 
 Now that we know these basics, in the next post, we can now go straight towards understanding and implementing the Transformer Model!
+
