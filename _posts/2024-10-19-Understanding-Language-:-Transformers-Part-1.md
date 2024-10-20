@@ -45,7 +45,7 @@ We assume that _'The'_ is the first word in vocabulary, _'sun'_ is the second wo
 
 If you made it this far, congratulations! We need to understand just one more concept before we can begin with the implementation of the transformer and that is, the **'Embedding Matrix'**.
 
-Understanding the _Embedding Matrix_ is really simple. 
+Understanding the _Embedding Matrix_ is really simple. The Embedding Matrix basically takes our one-hot vectors and projects them into real-valued vectors so that these may be fed into our Neural Networks and then the Network may adapt its weights through the backpropagation algorithm in the learning phase.
 
 ## Conclusion
 
