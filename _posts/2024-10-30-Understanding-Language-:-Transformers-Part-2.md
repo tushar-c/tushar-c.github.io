@@ -5,4 +5,8 @@ We will use the [PyTorch Framework](https://pytorch.org/) to create our implemen
 
 ## Introduction
 
+In this post, we will focus on implementing all the building blocks of the Transformer Architecture. Since the Encoder and the Decoder (explained later), are parts of the Transformer, the parts that we will focus on in this post also serve as the building blocks of the Encoder and the Decoder.
+
+
+
 
