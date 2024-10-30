@@ -8,7 +8,7 @@ This is basically a term for a machine learning model having many parameters tha
 
 Presently, the underlying model that is used to implement this is the **'Transformer'**. The whole model has been described and explained in its entirety in the paper title **'Attention Is All You Need' by Vaswani et. al**. You can find the paper [here.](https://arxiv.org/abs/1706.03762)
 
-It is this model that we are going to understand and implement in this post.
+It is this model that we are going to understand and implement in this post. If you want to skip to the whole code, you can find it [here.](https://gist.github.com/tushar-c/d0c6b51822f1daf067b51cb68788acd7)
 
 ## Foundations
 
