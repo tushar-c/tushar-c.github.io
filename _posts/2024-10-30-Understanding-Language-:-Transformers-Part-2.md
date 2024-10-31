@@ -28,7 +28,6 @@ We can see how this is done in code now. Before we start, we need to do the foll
 import torch
 import torch.nn as nn
 import numpy as np
-
 ```
 
 
