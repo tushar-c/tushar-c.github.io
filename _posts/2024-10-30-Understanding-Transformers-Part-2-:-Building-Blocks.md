@@ -140,8 +140,32 @@ Next, we run a `for loop` as many times as `ctx_length` and on each iteration, w
 
 In the end, we merge all the words together using the `torch.stack` method on the word tensors and clean up the final stray dimension using the `.squeeze()` method.
 
+Finally, we create one function to combine and execute all the functions defined above at once:
+
+```
+def create_sentence_batches(batch_size_, ctx_length, vocabulary_size, data_type='input'):
+    sentence_batches = []
+    if data_type == 'input':
+        for _ in range(batch_size_):
+            # create tokens for each sentence
+            sentence_tokens = create_sentence_token(ctx_length=ctx_length, vocabulary_size=vocabulary_size, data_type=data_type)
+            sentence_batches.append(sentence_tokens)
+    elif data_type == 'output':
+        for _ in range(batch_size_):
+                # create tokens for each sentence
+                sentence_tokens = create_sentence_token(ctx_length=ctx_length, vocabulary_size=vocabulary_size, data_type=data_type)
+                sentence_batches.append(sentence_tokens)
+    # stack sentences to form a batch
+    sentence_batch_tokens = torch.stack(sentence_batches, dim=0)
+    return sentence_batch_tokens
+```
+
+As can be seen, this function creates sentence tokens using the functions we described above and gives us batches of sentence tokens that are multi-dimensional and real-valued vectors representing words in a given language of our choosing and we are ready to use these words now for training our Transformer!
+
 
 ## Embedding the Tokenizations
+
+
 
 
 
