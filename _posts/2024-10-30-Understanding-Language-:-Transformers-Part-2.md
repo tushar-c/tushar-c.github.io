@@ -87,7 +87,18 @@ def create_one_hot_vector(ix):
 As is evident, this piece of code takes an `ix` value (an index value) and then creates a vector of `vocab_size` dimension, of all zeros and sets the `ix` position to `1`. Remember that we have zero-indexing so that the first index is `1`. We then return the vector.
 
 
-
+```
+def create_vocab_tokens(vocab_size):
+    word_tokens = []
+    for num in range(vocab_size):    
+        # one hot vector for each word
+        one_hot_vector = torch.zeros((1, vocab_size))    
+        # word index in the vocabulary has to be switched on
+        one_hot_vector[0][num] = 1
+        word_tokens.append(one_hot_vector)
+    word_tokens_tensor = torch.stack(word_tokens).squeeze()
+    return word_tokens_tensor
+```
 
 
 
