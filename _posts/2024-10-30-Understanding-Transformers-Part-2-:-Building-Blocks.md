@@ -230,5 +230,7 @@ embeddings = embedding_layer(training_data_inputs)
 
 ## Conclusion
 
+That's it for now!
+
 Now that we have our input data and output data tokenized and embedded even positionally, in the next post, we can begin building the Encoder and the Decoder, after which our Transformer would be ready!
 
