@@ -84,7 +84,7 @@ def create_one_hot_vector(ix, vocab_size):
     return one_hot_vector
 ```
 
-As is evident, this piece of code takes an `ix` value (an index value) and then creates a vector of `vocab_size` dimension, of all zeros and sets the `ix` position to `1`. Remember that we have zero-indexing so that the first index is `1`. We then return the vector. Now, we will build the vocabulary tokens for each word in our vocabulary. Right now, we will create random words and prepare their tokens
+As is evident, this piece of code takes an `ix` value (an index value) and then creates a vector of `vocab_size` dimension, of all zeros and sets the `ix` position to `1`. Remember that we have zero-indexing so that the first index is `1`. We then return the vector. Now, we will build the vocabulary tokens for each word in our vocabulary. Right now, we will create random words and prepare their tokens.
 
 
 ```
@@ -109,6 +109,27 @@ input_vocab_word_tokens = create_vocab_tokens(vocab_size=vocab_size)
 # prepare tokens for the vocabulary for output data
 output_vocab_word_tokens = create_vocab_tokens(vocab_size=output_vocab_size)
 ```
+
+Finally, we will create the sentence tokenization code that will help us in creating the tokens of words in one go.
+
+```
+def create_sentence_token(ctx_length, vocabulary_size, data_type='input'):
+    word_tokens = []
+    # get random word choices `context_length` times from the vocabulary. `context_length`
+    # here denotes the number of words per sentence
+    word_choices = torch.randint(0, vocabulary_size, (1, ctx_length), dtype=torch.long)
+    for i in range(ctx_length):
+        # choose the token for each of the generated index
+        if data_type == 'input':
+            token = input_vocab_word_tokens[word_choices[0][i]]
+        else:
+            token = output_vocab_word_tokens[word_choices[0][i]]
+        word_tokens.append(token)
+    # stack the words to form a sentence
+    sentence_token = torch.stack(word_tokens, dim=0).squeeze()
+    return sentence_token
+```
+
 
 
 
