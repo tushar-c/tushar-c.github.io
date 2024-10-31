@@ -50,7 +50,7 @@ $$ \begin{bmatrix} 1 & 2 & 3 4.5 & 5.25\\ & 6.6 & 7.1 & 8.2 & 9 & 10\\ 11.8 & 12
 
 If we multiply the input vector with the embedding matrix, we get the output vector in `1 x 5` dimensions, or the `embedded vector`, as follows:
 
-$$  \begin{bmatrix} 5.78032593, 6.2450394 , 7.15749531, 8.09745242, 8.84997919 \end{bmatrix} $$
+$$  \begin{bmatrix} 5.78032593 6.2450394 7.15749531 8.09745242 8.84997919 \end{bmatrix} $$
 
 Mathematically, this is all that we need to understand about the `Embedding Matrix`.
 
