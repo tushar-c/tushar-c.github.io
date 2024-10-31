@@ -48,7 +48,12 @@ The Embedding Matrix could look as follows:
 
 $$  \begin{bmatrix} 1 \cr 0 \cr 0 \\ 2 \ cr 3 \cr 5 \end{bmatrix} $$
 
-
+$$
+\begin{bmatrix}
+1 & 2 & 3\\
+a & b & c
+\end{bmatrix}
+$$
 
 
 ## Building Code Blocks
