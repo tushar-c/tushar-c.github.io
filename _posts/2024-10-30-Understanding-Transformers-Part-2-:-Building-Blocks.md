@@ -38,7 +38,7 @@ Therefore, for the case mentioned above, the Embedding Matrix is an N x M Matrix
 
 We can take example values for our purposes. Let N = 3 and M = 5, then we have the following vectors and matrices.
 
-For the input vector, we may have:
+For the input vector, which looks like the first word in language that has a vocabulary of 3 words, we may have:
 
 $$  \begin{bmatrix} 1 \cr 0 \cr 0 \end{bmatrix} $$
 
