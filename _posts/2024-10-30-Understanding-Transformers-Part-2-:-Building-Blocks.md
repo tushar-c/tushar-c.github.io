@@ -46,7 +46,7 @@ The Embedding Matrix would be initialized as a random `3 x 5` Matrix. Note that 
 
 The Embedding Matrix could look as follows:
 
-$$  The  \begin{bmatrix} 1 \cr 0 \cr 0 \\ 2 \ cr 3 \cr 5 \end{bmatrix} $$
+$$  \begin{bmatrix} 1 \cr 0 \cr 0 \\ 2 \ cr 3 \cr 5 \end{bmatrix} $$
 
 
 
