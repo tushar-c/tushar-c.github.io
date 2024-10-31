@@ -224,8 +224,6 @@ embeddings = embedding_layer(training_data_inputs)
 ```
 
 
-
-
 ## Positional Encoding 
 
 
