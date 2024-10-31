@@ -130,6 +130,7 @@ def create_sentence_token(ctx_length, vocabulary_size, data_type='input'):
     return sentence_token
 ```
 
+In the above code, 
 
 
 
