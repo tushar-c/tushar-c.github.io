@@ -108,7 +108,6 @@ input_vocab_word_tokens = create_vocab_tokens(vocab_size=vocab_size)
 
 # prepare tokens for the vocabulary for output data
 output_vocab_word_tokens = create_vocab_tokens(vocab_size=output_vocab_size)
-
 ```
 
 
