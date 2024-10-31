@@ -19,7 +19,7 @@ As is evident, we would like to use the whole vector and have real-valued values
 
 ## A Note before we start
 
-**Note**:  It is important to note that the original paper can get pretty technical if you are new to Transformers or Natural Language Processing or are reading this paper for the first time. 
+**Note:**  It is important to note that the original paper can get pretty technical if you are new to Transformers or Natural Language Processing or are reading this paper for the first time. 
 
 As a result,  instead of first trying to go through each and every concept of the Transformer, we will understand and implement each element of the Transformer as and when it comes along in the overall architecture of the Transformer. 
 
