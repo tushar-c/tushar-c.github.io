@@ -46,7 +46,7 @@ The Embedding Matrix would be initialized as a random `3 x 5` Matrix. Note that 
 
 The Embedding Matrix could look as follows:
 
-$$ \begin{bmatrix} 1 & 2 & 3\\ a & b & c \end{bmatrix} $$
+$$ \begin{bmatrix} 1 & 2 & 3\\ 4 & 5 & 6\\ 7 & 8 & 9\\ 10 & 11 & 12\\ 13 & 14 & 15 \end{bmatrix} $$
 
 If we multiply the input vector 
 
