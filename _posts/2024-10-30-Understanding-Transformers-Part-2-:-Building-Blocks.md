@@ -196,7 +196,32 @@ As can be seen, this function creates sentence tokens using the functions we des
 
 ## Embedding the Tokenizations
  
-Now that we have our tokens in the form of one-hot vectors for each sentence in our dataset, we will now create the training data sentence batches apply the embedding layer to them in our code.
+Now that we have our tokens in the form of one-hot vectors for each sentence in our dataset, we will now create the training data sentence batches apply the embedding layer to them in our code using `PyTorch`.
+
+```
+# create training inputs
+training_data_inputs = create_sentence_batches(batch_size_=batch_size, 
+                                               ctx_length=context_length, 
+                                               vocabulary_size=vocab_size, 
+                                               data_type='input')
+
+# create training outputs
+training_data_outputs = create_sentence_batches(batch_size_=batch_size, 
+                                                ctx_length=context_length, 
+                                                vocabulary_size=output_vocab_size,
+                                                data_type='output')
+
+
+print(f'Training Data Inputs Shape: {training_data_inputs.shape}')
+
+print(f'Training Data Outputs Shape: {training_data_outputs.shape}')
+
+
+# the embedding layer takes an input in `vocab_size` dim and projects it to `D_MODEL` dim
+embedding_layer = nn.Linear(vocab_size, D_MODEL)
+
+embeddings = embedding_layer(training_data_inputs)
+```
 
 
 
