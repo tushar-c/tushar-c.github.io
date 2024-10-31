@@ -65,6 +65,10 @@ print(f'dk = {D_K}; dv = {D_V}; dmodel = {D_MODEL}')
 
 The `vocab_size` is a variable that we have created regarding the vocabulary size of our input language. The `context_length` is a variable that describes how many words from the input sequence will we consider at once when producing an output using the Transformer. The `batch_size` variable decides how many sentences will we process at once.
 
+Do not worry about the `D_MODEL`, `NUM_HEADS`, `D_K`, `D_V` variables right now! They are all variables that we will explain later in this post.
+
+In the end, we just print the values of the variables as a quick logging exercise.
+
 
 
 
