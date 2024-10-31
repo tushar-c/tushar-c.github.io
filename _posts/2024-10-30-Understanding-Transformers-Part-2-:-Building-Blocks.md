@@ -134,6 +134,8 @@ In the above code, we create random sentences, in the sense that we generate ran
 
 Next, we run a `for loop` as many times as `ctx_length` and on each iteration, we create a `token` by choosing the word from the `input tokens` or `output tokens` depending on whether the sentences are being generated for the input or for the output during training, as indicated by the `data_type` variable.
 
+In the end, we merge all the words together using the `torch.stack` method on the word tensors and clean up the final stray dimension using the `.squeeze()` method.
+
 
 
 
