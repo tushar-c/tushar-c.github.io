@@ -84,8 +84,7 @@ def create_one_hot_vector(ix):
     return one_hot_vector
 ```
 
-As is evident, this piece of code takes an `ix` value (an index value) and then creates a vector of `vocab_size` dimension, of all zeros and sets the `ix` position to `1`. Remember that we have zero-indexing so that the first index is `1`.
-We then return the vector.
+As is evident, this piece of code takes an `ix` value (an index value) and then creates a vector of `vocab_size` dimension, of all zeros and sets the `ix` position to `1`. Remember that we have zero-indexing so that the first index is `1`. We then return the vector.
 
 
 
