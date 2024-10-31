@@ -100,6 +100,17 @@ def create_vocab_tokens(vocab_size):
 
 This piece of code runs a `for loop` `vocab_size` times and in each iteration, it creates a `one-hot vector` for each word in the vocabulary. We maintain a list of `word_tokens` and add each one-hot vector to that token. We ultimately create a `PyTorch` tensor of this list so that we may feed this tensor to our Embedding Matrix and we apply the `.squeeze()` method to remove the extra dimension that is added when we apply the `.stack()` method to the tokens.
 
+Now, we create the `input` and `output` tokens for the purposes of training. 
+
+```
+# prepare tokens for the vocabulary for input data
+input_vocab_word_tokens = create_vocab_tokens(vocab_size=vocab_size)
+
+# prepare tokens for the vocabulary for output data
+output_vocab_word_tokens = create_vocab_tokens(vocab_size=output_vocab_size)
+
+```
+
 
 
 
