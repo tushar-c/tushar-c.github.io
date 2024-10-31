@@ -36,6 +36,16 @@ This is enabled by the Embedding Matrix. In technical terms, an Embedding Matrix
 
 Therefore, for the case mentioned above, the Embedding Matrix is an N x M Matrix for our purposes. For the purposes of the Transformer, we tokenize each sentence (a collection of words) and then apply the Input Embeddings to the said tokenized input.
 
+We can take example values for our purposes. Let N = 3 and M = 5, then we have the following vectors and matrices.
+
+For the input vector, we may have:
+
+$$  The  \begin{bmatrix} 0.5 \cr 0.25 \cr 0.35 \end{bmatrix} $$
+
+The Embedding Matrix would be initialized as a random `3 x 5` Matrix. Note that Embedding Matrix would also be a part of the learning algorithm and therefore would be adjusted by the gradients for the errors in the outputs obtained from the backpropagation algorithm.
+
+
+
 ## Building Code Blocks
 
 We can see how this is done in code now. We create a file called `transformer.py`, but you are free to give it any name you wish. 
@@ -174,7 +184,6 @@ def create_sentence_batches(batch_size_, ctx_length, vocabulary_size, data_type=
 ```
 
 As can be seen, this function creates sentence tokens using the functions we described above and gives us batches of sentence tokens that are multi-dimensional and real-valued vectors representing words in a given language of our choosing and we are ready to use these words now for training our Transformer!
-
 
 
 
