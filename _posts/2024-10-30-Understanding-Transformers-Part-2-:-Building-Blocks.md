@@ -130,8 +130,9 @@ def create_sentence_token(ctx_length, vocabulary_size, data_type='input'):
     return sentence_token
 ```
 
-In the above code, we create random sentences, in the sense that we generate random integers in the range of `0` to `vocabulary_size` of dimension `1 x ctx_length`. `ctx_length` here stands for _'context length'_ .
+In the above code, we create random sentences, in the sense that we generate random integers in the range of `0` to `vocabulary_size` of dimension `1 x ctx_length`. `ctx_length` here stands for _'context length'_ . 
 
+Next, we run a `for loop` as many times as `ctx_length` and on each iteration, we create a `token` by choosing the word from the `input tokens` or `output tokens` depending on whether the sentences are being generated for the input or for the output during training, as indicated by the `data_type` variable.
 
 
 
