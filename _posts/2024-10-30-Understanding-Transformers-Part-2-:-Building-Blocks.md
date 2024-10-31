@@ -130,7 +130,7 @@ def create_sentence_token(ctx_length, vocabulary_size, data_type='input'):
     return sentence_token
 ```
 
-In the above code, 
+In the above code, we create random sentences, in the sense that we generate random integers in the range of `0` to `vocabulary_size` of dimension `1 x ctx_length`. `ctx_length` here stands for _'context length'_ .
 
 
 
