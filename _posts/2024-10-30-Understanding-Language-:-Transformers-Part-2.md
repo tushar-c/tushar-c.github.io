@@ -32,6 +32,51 @@ import torch.nn as nn
 import numpy as np
 ```
 
+After this is done, we can now set up some parameters and implement the word and sentence tokenization architecture. We will first create some parameters as shown below. Some of these won't be obvious right now and they will be explained in detail further in this post.
+
+```
+# we have a total vocabulary of 747 words
+vocab_size = 747
+
+# we choose 12 words per sentence
+context_length = 12
+
+# we chose 9 sentences at a time
+batch_size = 9
+
+# D_MODEL here is basically `H` number of attention heads, each producing outputs in the `D_V` dimension, concatenated
+D_MODEL = 512
+
+# we define the number of attention heads
+NUM_HEADS = 8
+
+# we also define the `D_K` and `D_V` parameters for the encoder and decoder
+D_K = int(D_MODEL / NUM_HEADS)
+D_V = int(D_MODEL / NUM_HEADS)
+
+# set up the training output parameters for the decoder
+
+# vocabulary size for the outputs
+output_vocab_size = 879
+
+print('Transformer Model Parameters Loaded...')
+print(f'dk = {D_K}; dv = {D_V}; dmodel = {D_MODEL}')
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
