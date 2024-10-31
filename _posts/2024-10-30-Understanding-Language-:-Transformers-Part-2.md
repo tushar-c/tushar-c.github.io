@@ -22,7 +22,9 @@ For this very exact purpose, we have the Embedding Matrix. An Embedding Matrix d
 Therefore, for the case mentioned above, the Embedding Matrix is an N x M Matrix for our purposes. For the purposes of the Transformer, we tokenize each sentence (a collection of words) and then apply the Input Embeddings to the said tokenized input.
 
 
-We can see how this is done in code now. Before we start, we need to do the following imports:
+We can see how this is done in code now. We create a file called _'transformer.py'_ but you are free to give it any name you wish. 
+
+Before we start, we need to do the following imports:
 
 ```
 import torch
