@@ -196,7 +196,7 @@ As can be seen, this function creates sentence tokens using the functions we des
 
 ## Embedding the Tokenizations
  
-Now that we have our tokens in the form of one-hot vectors for each sentence in our dataset, we will now apply the embedding  
+Now that we have our tokens in the form of one-hot vectors for each sentence in our dataset, we will now apply the embedding layer in our code.
 
 
 ## Positional Encoding 
