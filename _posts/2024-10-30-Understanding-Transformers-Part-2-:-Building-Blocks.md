@@ -117,7 +117,7 @@ def create_one_hot_vector(ix, vocab_size):
 
 As is evident, this piece of code takes an `ix` value (an index value) and then creates a vector of `vocab_size` dimension, of all zeros and sets the `ix` position to `1`. Remember that we have zero-indexing so that the first index is `1`. We then return the vector. 
 
-Now, we will build the vocabulary tokens for each word in our vocabulary. Right now, we will create random words and prepare their tokens.
+Now, we will build the vocabulary tokens for each word in our vocabulary. Right now, we will create a function for taking random words and preparing their tokens.
 
 
 ```
@@ -145,7 +145,7 @@ input_vocab_word_tokens = create_vocab_tokens(vocab_size=vocab_size)
 output_vocab_word_tokens = create_vocab_tokens(vocab_size=output_vocab_size)
 ```
 
-Finally, we will create the sentence tokenization code that will help us in creating the tokens of words in one go.
+Finally, we will implement the sentence tokenization code that will help us in creating the tokens of words in one go.
 
 ```
 def create_sentence_token(ctx_length, vocabulary_size, data_type='input'):
