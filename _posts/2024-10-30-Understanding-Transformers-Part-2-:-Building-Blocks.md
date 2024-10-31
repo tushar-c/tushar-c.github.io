@@ -165,6 +165,8 @@ def create_sentence_batches(batch_size_, ctx_length, vocabulary_size, data_type=
 As can be seen, this function creates sentence tokens using the functions we described above and gives us batches of sentence tokens that are multi-dimensional and real-valued vectors representing words in a given language of our choosing and we are ready to use these words now for training our Transformer!
 
 
+
+
 ## Embedding the Tokenizations
 
 
