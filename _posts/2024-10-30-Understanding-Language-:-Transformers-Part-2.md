@@ -74,7 +74,15 @@ In the end, we just print the values of the variables as a quick logging exercis
 
 ## Embedding the Tokenizations
 
+Now we begin the process of tokenizing our inputs and applying the embeddings to the inputs so that we may feed these inputs to the Transformer. We start by one-hot encoding the words.
 
+```
+def create_one_hot_vector(ix):
+    one_hot_vector = torch.zeros((1, vocab_size))
+    # the vector has the value of `1` at the indicated index and is `0` everywhere else
+    one_hot_vector[0][ix] = 1
+    return one_hot_vector
+```
 
 
 
