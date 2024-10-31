@@ -22,7 +22,7 @@ For this very exact purpose, we have the Embedding Matrix. An Embedding Matrix d
 Therefore, for the case mentioned above, the Embedding Matrix is an N x M Matrix for our purposes. For the purposes of the Transformer, we tokenize each sentence (a collection of words) and then apply the Input Embeddings to the said tokenized input.
 
 
-We can see how this is done in code now. We create a file called _'transformer.py'_ but you are free to give it any name you wish. 
+We can see how this is done in code now. We create a file called `transformer.py` but you are free to give it any name you wish. 
 
 Before we start, we need to do the following imports:
 
@@ -61,11 +61,9 @@ output_vocab_size = 879
 
 print('Transformer Model Parameters Loaded...')
 print(f'dk = {D_K}; dv = {D_V}; dmodel = {D_MODEL}')
-
 ```
 
-
-
+The `vocab_size` is a variable that we have created regarding the vocabulary size of our input language. The `context_length` is a variable that describes how many words from the input sequence will we consider at once when producing an output using the Transformer. The `batch_size` variable decides how many sentences will we process at once.
 
 
 
