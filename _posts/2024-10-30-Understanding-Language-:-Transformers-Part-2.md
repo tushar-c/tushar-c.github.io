@@ -92,9 +92,7 @@ def create_vocab_tokens(vocab_size):
     word_tokens = []
     for num in range(vocab_size):    
         # one hot vector for each word
-        one_hot_vector = torch.zeros((1, vocab_size))    
-        # word index in the vocabulary has to be switched on
-        one_hot_vector[0][num] = 1
+        one_hot_vector = create_one_hot_vector(num, vocab_size=vocab_size)
         word_tokens.append(one_hot_vector)
     word_tokens_tensor = torch.stack(word_tokens).squeeze()
     return word_tokens_tensor
