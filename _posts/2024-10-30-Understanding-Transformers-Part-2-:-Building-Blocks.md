@@ -52,7 +52,7 @@ If we multiply the input vector with the embedding matrix, we get the output vec
 
 $$  \begin{bmatrix} 5.78032593, 6.2450394 , 7.15749531, 8.09745242, 8.84997919 \end{bmatrix} $$
 
-
+Mathematically, this is all that we need to understand about the `Embedding Matrix`.
 
 ## Building Code Blocks
 
