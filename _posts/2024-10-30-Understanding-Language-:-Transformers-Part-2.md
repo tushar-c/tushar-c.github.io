@@ -21,6 +21,7 @@ For this very exact purpose, we have the Embedding Matrix. An Embedding Matrix d
 
 Therefore, for the case mentioned above, the Embedding Matrix is an N x M Matrix for our purposes. For the purposes of the Transformer, we tokenize each sentence (a collection of words) and then apply the Input Embeddings to the said tokenized input.
 
+## Building Code Blocks
 
 We can see how this is done in code now. We create a file called `transformer.py` but you are free to give it any name you wish. 
 
@@ -68,6 +69,8 @@ The `vocab_size` is a variable that we have created regarding the vocabulary siz
 Do not worry about the `D_MODEL`, `NUM_HEADS`, `D_K`, `D_V` variables right now! They are all variables that we will explain later in this post.
 
 In the end, we just print the values of the variables as a quick logging exercise.
+
+## Embedding the Tokenizations
 
 
 
