@@ -77,14 +77,14 @@ In the end, we just print the values of the variables as a quick logging exercis
 Now we begin the process of tokenizing our inputs and applying the embeddings to the inputs so that we may feed these inputs to the Transformer. We start by one-hot encoding the words.
 
 ```
-def create_one_hot_vector(ix):
+def create_one_hot_vector(ix, vocab_size):
     one_hot_vector = torch.zeros((1, vocab_size))
     # the vector has the value of `1` at the indicated index and is `0` everywhere else
     one_hot_vector[0][ix] = 1
     return one_hot_vector
 ```
 
-As is evident, this piece of code takes an `ix` value (an index value) and then creates a vector of `vocab_size` dimension, of all zeros and sets the `ix` position to `1`. Remember that we have zero-indexing so that the first index is `1`. We then return the vector.
+As is evident, this piece of code takes an `ix` value (an index value) and then creates a vector of `vocab_size` dimension, of all zeros and sets the `ix` position to `1`. Remember that we have zero-indexing so that the first index is `1`. We then return the vector. Now, we will build the vocabulary tokens for each word in our vocabulary. Right now, we will create random words and prepare their tokens
 
 
 ```
@@ -100,8 +100,7 @@ def create_vocab_tokens(vocab_size):
     return word_tokens_tensor
 ```
 
-
-
+This piece of code runs a `for loop` `vocab_size` times and in each iteration, it create 
 
 
 
