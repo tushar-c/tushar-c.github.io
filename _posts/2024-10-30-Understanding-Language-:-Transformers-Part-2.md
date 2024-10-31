@@ -5,9 +5,17 @@ We will use the [PyTorch Framework](https://pytorch.org/) to create our implemen
 
 ## Introduction
 
-In this post, we will focus on implementing all the building blocks of the Transformer Architecture. Since the Encoder and the Decoder (explained later), are parts of the Transformer, the parts that we will focus on in this post also serve as the building blocks of the Encoder and the Decoder.
+In this post, we will focus on implementing all the building blocks of the Transformer Architecture. Since the Encoder and the Decoder (explained later), are the core parts of the Transformer, the parts that we will focus on in this post also serve as the building blocks of the Encoder and the Decoder. Let's begin!
 
-Let's begin!
+We saw in the previous post that we must process our input sentence by converting words into one-hot vectors that we later process to neural networks so that we can make the network learn from the inputs and establish an input-output mapping through the backpropagation algorithm. 
+
+However, as we can see, only having a one hot vector in the dimension of the vocabulary limits our ability to be _expressive_ when it comes to learning. 
+
+We want to use not just one position of the vector, as is the case for one-hot vectors, but we want to use all the positions in the vector. Moreover, we don't want to use just a single number for representing a whole word. Instead, we would like to use all real-valued numbers for our purposes. 
+
+As is evident, we would like to use the whole vector and have real-valued values across each and every position. 
+
+## Enter: The Embedding Matrix
 
 
 
