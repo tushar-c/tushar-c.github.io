@@ -61,4 +61,4 @@ These are the basics we need to begin our implementation of the Transformer Mode
 
 ## Conclusion
 
-Now that we know these basics, we can now go straight towards understanding and implementing the Transformer Model in the next post!
+Now that we know these basics, we can move ahead towards understanding and implementing the Transformer Model in the next post!
