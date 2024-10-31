@@ -72,7 +72,7 @@ Do not worry about the `D_MODEL`, `NUM_HEADS`, `D_K`, `D_V` variables right now!
 
 In the end, we just print the values of the variables as a quick logging exercise.
 
-## Embedding the Tokenizations
+## Preparing the Tokenizations
 
 Now we begin the process of tokenizing our inputs and applying the embeddings to the inputs so that we may feed these inputs to the Transformer. We start by one-hot encoding the words.
 
@@ -141,6 +141,7 @@ Next, we run a `for loop` as many times as `ctx_length` and on each iteration, w
 In the end, we merge all the words together using the `torch.stack` method on the word tensors and clean up the final stray dimension using the `.squeeze()` method.
 
 
+## Embedding the Tokenizations
 
 
 
