@@ -17,13 +17,15 @@ We want to use not just one position of the vector, as is the case for one-hot v
 
 As is evident, we would like to use the whole vector and have real-valued values across each and every position. 
 
-## Note before we start
+## A Note before we start
 
 **Note**:  It is important to note that the original paper can get pretty technical if you are new to Transformers or Natural Language Processing or are reading this paper for the first time. 
 
 As a result,  instead of first trying to go through each and every concept of the Transformer, we will understand and implement each element of the Transformer as and when it comes along in the overall architecture of the Transformer. 
 
 This will give our learning journey a sequential experience without having to take frequent and recurrent detours to the basics.
+
+![ANN2]({{site.baseurl}}/images/transformer_architecture.jpg)
 
 ## Enter: The Embedding Matrix
 
