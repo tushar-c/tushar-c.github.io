@@ -23,7 +23,7 @@ Therefore, for the case mentioned above, the Embedding Matrix is an N x M Matrix
 
 ## Building Code Blocks
 
-We can see how this is done in code now. We create a file called `transformer.py` but you are free to give it any name you wish. 
+We can see how this is done in code now. We create a file called `transformer.py`, but you are free to give it any name you wish. 
 
 Before we start, we need to do the following imports:
 
