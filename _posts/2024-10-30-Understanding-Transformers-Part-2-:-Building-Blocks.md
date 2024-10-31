@@ -40,7 +40,7 @@ We can take example values for our purposes. Let N = 3 and M = 5, then we have t
 
 For the input vector, we may have:
 
-$$  \begin{bmatrix} 0.5 \cr 0.25 \cr 0.35 \end{bmatrix} $$
+$$  \begin{bmatrix} 1 \cr 0 \cr 0 \end{bmatrix} $$
 
 The Embedding Matrix would be initialized as a random `3 x 5` Matrix. Note that Embedding Matrix would also be a part of the learning algorithm and therefore would be adjusted by the gradients for the errors in the outputs obtained from the backpropagation algorithm. 
 
@@ -49,6 +49,8 @@ The Embedding Matrix could look as follows:
 $$  \begin{bmatrix} 1 \cr 0 \cr 0 \\ 2 \ cr 3 \cr 5 \end{bmatrix} $$
 
 $$ \begin{bmatrix} 1 & 2 & 3\\ a & b & c \end{bmatrix} $$
+
+If we multiply the input vector 
 
 
 ## Building Code Blocks
