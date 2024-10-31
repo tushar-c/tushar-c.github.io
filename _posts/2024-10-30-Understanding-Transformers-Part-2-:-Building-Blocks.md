@@ -17,9 +17,9 @@ As is evident, we would like to use the whole vector and have real-valued values
 
 ## Enter: The Embedding Matrix
 
-For this very exact purpose, we have the Embedding Matrix. An Embedding Matrix does as its name suggests. It takes a one-hot vector in a certain dimension _'N'_ and then projects that vector into another dimension _'M'_ having real-valued numbers across all of the positions of the vector. 
+For this very exact purpose, we have the Embedding Matrix. An Embedding Matrix does as its name suggests. It takes a one-hot vector in a certain dimension _'N'_  and then projects that vector into another dimension _'M'_  having real-valued numbers across all of the positions of the vector. 
 
-This is enabled by the Embedding Matrix. In technical terms, an Embedding Matrix is a Linear Transformation that takes an _'N-dimensional'_ vector and projects it into an _'M-dimensional'_ vector.
+This is enabled by the Embedding Matrix. In technical terms, an Embedding Matrix is a Linear Transformation that takes an _'N-dimensional'_ vector and projects it into an _'M-dimensional'_  vector.
 
 Therefore, for the case mentioned above, the Embedding Matrix is an N x M Matrix for our purposes. For the purposes of the Transformer, we tokenize each sentence (a collection of words) and then apply the Input Embeddings to the said tokenized input.
 
@@ -84,7 +84,9 @@ def create_one_hot_vector(ix, vocab_size):
     return one_hot_vector
 ```
 
-As is evident, this piece of code takes an `ix` value (an index value) and then creates a vector of `vocab_size` dimension, of all zeros and sets the `ix` position to `1`. Remember that we have zero-indexing so that the first index is `1`. We then return the vector. Now, we will build the vocabulary tokens for each word in our vocabulary. Right now, we will create random words and prepare their tokens.
+As is evident, this piece of code takes an `ix` value (an index value) and then creates a vector of `vocab_size` dimension, of all zeros and sets the `ix` position to `1`. Remember that we have zero-indexing so that the first index is `1`. We then return the vector. 
+
+Now, we will build the vocabulary tokens for each word in our vocabulary. Right now, we will create random words and prepare their tokens.
 
 
 ```
@@ -98,7 +100,9 @@ def create_vocab_tokens(vocab_size):
     return word_tokens_tensor
 ```
 
-This piece of code runs a `for loop` `vocab_size` times and in each iteration, it creates a `one-hot vector` for each word in the vocabulary. We maintain a list of `word_tokens` and add each one-hot vector to that token. We ultimately create a `PyTorch` tensor of this list so that we may feed this tensor to our Embedding Matrix and we apply the `.squeeze()` method to remove the extra dimension that is added when we apply the `.stack()` method to the tokens.
+This piece of code runs a `for loop` `vocab_size` times and in each iteration, it creates a `one-hot vector` for each word in the vocabulary. We maintain a list of `word_tokens` and add each one-hot vector to that token. 
+
+We ultimately create a `PyTorch` tensor of this list so that we may feed this tensor to our Embedding Matrix and we apply the `.squeeze()` method to remove the extra dimension that is added when we apply the `.stack()` method to the tokens.
 
 Now, we create the `input` and `output` tokens for the purposes of training. 
 
