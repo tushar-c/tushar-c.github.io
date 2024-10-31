@@ -17,5 +17,10 @@ As is evident, we would like to use the whole vector and have real-valued values
 
 ## Enter: The Embedding Matrix
 
+For this very exact purpose, we have the Embedding Matrix. An Embedding Matrix does as its name suggests. It takes a one-hot vector in a certain dimension _'N'_ and then projects that vector into another dimension _'M'_ having real-valued numbers across all of the positions of the vector. This is enabled by the Embedding Matrix. In technical terms, an Embedding Matrix is a Linear Transformation that takes an _'N-dimensional'_ vector and projects it into an _'M-dimensional'_ vector.
+
+Therefore, for the case mentioned above, the Embedding Matrix is an N x M Matrix for our purposes.
+
+
 
 
