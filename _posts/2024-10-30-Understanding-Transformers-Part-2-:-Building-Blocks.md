@@ -10,9 +10,9 @@ We will use the [PyTorch Framework](https://pytorch.org/) to create our implemen
 
 **Note:**  It is important to note that the original paper can get pretty technical if you are new to Transformers or Natural Language Processing or are reading this paper for the first time. 
 
-As a result,  instead of first trying to go through each and every concept of the Transformer, we will understand and implement each element of the Transformer as and when it comes along in the overall architecture of the Transformer. 
+As a result,  instead of first trying to go through each and every concept of the Transformer, we will understand and implement each element of the Transformer as and when it comes along in the overall architecture of the Transformer.
 
-This will give our learning journey a sequential experience without having to take frequent and recurrent detours to the basics.
+This will give our learning journey a sequential experience without having to take frequent and recurrent detours to the basics. If you don't understanding something or anything in the diagram, it is completely fine! We will understand and implement these blocks as we move forward!
 
 ![Transformer]({{site.baseurl}}/images/transformer_architecture.jpg)
 
