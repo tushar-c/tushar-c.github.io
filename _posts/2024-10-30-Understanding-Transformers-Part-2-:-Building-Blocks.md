@@ -225,6 +225,7 @@ Now, since our progression for understanding and implementing the Transformers i
 
 ## Positional Encoding 
 
+As can be seen in the diagram, the next bit after the Inputs and the Embeddings is the `Positional Encoding` layer. The way to understand this layer is very simple.
 
 
 ## Conclusion
