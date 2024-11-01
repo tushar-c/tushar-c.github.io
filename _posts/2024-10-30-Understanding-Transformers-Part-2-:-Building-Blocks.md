@@ -221,7 +221,7 @@ embeddings = embedding_layer(training_data_inputs)
 Now, since our progression for understanding and implementing the Transformers is based on the chronology in which the elements appear in the model itself, we will revisit the Transformer Architecture diagram once more to understand the next part we need to understand.
 
 
-![Transformer]({{site.baseurl}}/images/transformer_architecture_cropped.jpg)
+![Transformer]({{site.baseurl}}/images/transformer_architecture.jpg)
 
 ## Positional Encoding 
 
