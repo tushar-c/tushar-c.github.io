@@ -226,7 +226,10 @@ Now, since our progression for understanding and implementing the Transformers i
 
 ## Conclusion
 
-That's it for now. If this is the first time that you are reading up on the topic of Transformers, it may take you some time to understand and make sense of this code, go through it again and slowly and try to focus on the fundamentals and you would understand it in no time!
+
+Now that we have understood and implemented the positional encoding layer, we will stop here. That's it for now. 
+
+If this is the first time that you are reading up on the topic of Transformers, it may take you some time to understand and make sense of this code, go through it again and slowly and try to focus on the fundamentals and you would understand it in no time!
 
 Now that we have our input data and output data tokenized and embedded even positionally, in the next post, we can begin building the Encoder and the Decoder, after which our Transformer would be ready!
 
