@@ -1,4 +1,4 @@
-![ANN2]({{site.baseurl}}/images/understanding_language_animated.jpg)
+![ANN2]({{site.baseurl}}/images/understanding_language_animated_cropped.jpg)
 
 ## Introduction
 
