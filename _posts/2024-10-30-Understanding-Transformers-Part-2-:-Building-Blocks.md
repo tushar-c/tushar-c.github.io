@@ -1,5 +1,5 @@
 
-![ANN2]({{site.baseurl}}/images/building_blocks_transformer.jpg)
+![Transformer]({{site.baseurl}}/images/building_blocks_transformer.jpg)
 
 In this post, we will continue from where we left off in the last post. We will march on towards our ultimate goal of implementing a Transformer from scratch. The full implementation of the Transformer can be found [here](https://gist.github.com/tushar-c/d0c6b51822f1daf067b51cb68788acd7)
 
@@ -14,7 +14,7 @@ As a result,  instead of first trying to go through each and every concept of th
 
 This will give our learning journey a sequential experience without having to take frequent and recurrent detours to the basics.
 
-![ANN2]({{site.baseurl}}/images/transformer_architecture.jpg)
+![Transformer]({{site.baseurl}}/images/transformer_architecture.jpg)
 
 ## Introduction
 
