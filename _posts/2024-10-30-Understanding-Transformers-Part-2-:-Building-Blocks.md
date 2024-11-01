@@ -227,6 +227,8 @@ Now, since our progression for understanding and implementing the Transformers i
 
 As can be seen in the diagram, the next bit after the Inputs and the Embeddings is the `Positional Encoding` layer. The way to understand this layer is very simple.
 
+We have tokens for the words and even for the sentences, but when it comes to language, we want our Neural Network to understand the position of each word in the sentence. For example, we want the sentence _'This is a good day'_ to make more sense to our Transformer as compared to the sentence _'This a is day good'_ .
+
 
 ## Conclusion
 
