@@ -229,6 +229,10 @@ As can be seen in the diagram, the next bit after the Inputs and the Embeddings 
 
 We have tokens for the words and even for the sentences, but when it comes to language, we want our Neural Network to understand the position of each word in the sentence. For example, we want the sentence _'This is a good day'_ to make more sense to our Transformer as compared to the sentence _'This a is day good'_ .
 
+For this reason, we give our model a sense of the position of every word in our sentence relative to other words in the sentence.
+
+
+
 
 ## Conclusion
 
