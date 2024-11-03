@@ -227,12 +227,28 @@ Now, since our progression for understanding and implementing the Transformers i
 
 As can be seen in the diagram, the next bit after the Inputs and the Embeddings is the `Positional Encoding` layer. The way to understand this layer is very simple.
 
-We have tokens for the words and even for the sentences, but when it comes to language, we want our Neural Network to understand the position of each word in the sentence. For example, we want the sentence _'This is a good day'_ to make more sense to our Transformer as compared to the sentence _'This a is day good'_ .
+We have tokens for the words and even for the sentences, but when it comes to language, we want our Neural Network to understand the position of each word in the sentence. For example, we want the sentence _'The sun shines'_ to make more sense to our Transformer as compared to the sentence _'shines The sun'_ .
+
+Now, if we create one-hot vectors of the above sentence, that is, of, _'The sun shines' _,  then as seen in Part 1 of the blog this series, we might have a representation such as:
+
+$$  The  \begin{bmatrix} 1 \cr 0 \cr 0 \end{bmatrix} $$
+
+$$  Sun  \begin{bmatrix} 0 \cr 1 \cr 0 \end{bmatrix} $$ 
+
+$$  Shines  \begin{bmatrix} 0 \cr 0 \cr 1 \end{bmatrix} $$
+
+Now, if we take the sentence _'shines The sun'_, the sequence of the one-hot vector would look as follows:
+
+$$  shines  \begin{bmatrix} 0 \cr 0 \cr 1 \end{bmatrix} $$
+
+$$  The  \begin{bmatrix} 1 \cr 0 \cr 0 \end{bmatrix} $$ 
+
+$$  sun  \begin{bmatrix} 0 \cr 1 \cr 0 \end{bmatrix} $$
+
 
 For this reason, we give our model a sense of the position of every word in our sentence relative to other words in the sentence. The specific formulas are as shown below:
 
-
-As you can see, a token in the sentence that sits
+As you can see, a token in the sentence having an even-numbered dimension sits on a `sine` wave and a token in the sentence on an odd-numbered dimension sits on a `cosine` wave. The sinusoidal nature of the waves lets us 
 
 
 ## Conclusion
